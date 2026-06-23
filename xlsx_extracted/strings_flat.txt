@@ -1,0 +1,4869 @@
+0: Expected Loss Calculation - Marine Cargo - Data Entry
+1: General Client and Policy Information
+2: Partner name
+3: Type of participation? 
+4: NAICS-Code
+5: International Programs? 
+6: Status
+7: Number of local Policies?
+8: Currency 
+9: Subsidiaries included? 
+10: Branch
+11: Type of Cover 
+12: Partner-ID
+13: Type of Cover 2
+14: Transports incl. Storage in the ordinary course of Transit
+15: Turnover 
+16: Type of Goods Class 1
+17: Split
+18: Turnover relevant for Cargo 
+19: Type of Goods Subclass 1
+20: Temperature sensitive 1
+21: Particularly prone to theft 1
+22: Type of Goods Class 2
+23: Type of Goods Subclass 2
+24: Temperature sensitive 2
+25: Particularly prone to theft 2
+26: Type of Goods Class 3
+27: Type of Goods Subclass 3
+28: Temperature sensitive 3
+29: Particularly prone to theft 3
+30: Type of Transportation
+31: Please add percentage of transports associated with each type of transportation.
+Note that Inland Water should be included as Transportation over Land.
+32: Geographical Scope  
+33: Purchase / Shipment
+34: from
+35: to
+36: Geographical split
+37: surcharge / discount
+38: Basis of Valuation
+39: Irrespective of Incoterm 
+40: Expected Profit % (CIF/CIP)
+41: Conditions
+42: FIX or MIN
+43: Prop
+44: max
+45: Limit
+46: Deductible for NatCat
+47: Deductible annual aggregate
+48: %
+49: General 
+50: Land (if different) 
+51: Sea (if different) 
+52: Air (if different) 
+53: Temperature Controlled Goods (if different) 
+54: Storage in the ordinary course of Transit 
+55: days
+56: Permanent Storage
+57: Type of Goods
+58: EUR
+59: Additional Coverages
+60: Brokerage
+61: Additional Costs
+62: Leading Fee
+63: Commercial Adjustment
+64: Name
+65: Value
+66: Format
+67: |
+68: erwarteter Datentyp
+69: Hinweis
+70: Bereichsname
+71: Quellbereich
+72: Änderung
+73: Product
+74: Cargo
+75: x
+76: String
+77: Lines of Business
+78: Marine
+79: Type of exposure
+80: Turnover
+81: Dropdown Text
+82: Nur folgende Punkte zugelassen:
+
+83: Turnover
+Probable maximum loss
+Number of employees
+Number of goods sold
+Sum insured
+Total sum insured
+Other
+
+84: wobei hinter Other in Klammern Erläuterungen erlaubt sind
+85: Exposure value
+86: Ganzzahl
+87: Betrag, MA-Anzahl usw.
+88: Currency
+89: Währungscode nach ISO (3-stellig)
+90: Pricing Method
+91: Tariff (exposure-based)
+92: Nur folgende Punkte zugelassen:
+
+93: Tariff (exposure-based)
+Burning cost (experience-based)
+Large Account pricing
+Other
+
+94: wobei hinter Other in Klammern diverse Erläuterungen erlaubt sind, z.B.  benchmark, expert judgement usw.
+95: Producing Office
+96: International Program
+97: Nur folgende Punkte zugelassen:
+
+98: Yes
+No
+99: Expected Loss Calculation - Marine Cargo - Results
+100: Yes
+101: All monetary values in: 
+102: Results are shown on an annual basis and on 100% basis.
+103: Expected Loss by Coverage and Loss Type
+104: Large loss threshold
+105: Attritional Losses
+106: Large Losses
+107: Total
+108: Transport 
+109: Permanent Storage 
+110: Man-Made
+111: NatCat
+112: Additional Coverages 
+113: Total 
+114: Components of the Technical Premium
+115: in Policy Currency
+116: Add Coverages 
+117: Expected Loss 
+118: Expected Loss Rate
+119: Volatility Loading 
+120: Risk Premium 
+121: Risk Premium Rate
+122: Expenses 
+123: Net Technical Premium 
+124: Brokerage 
+125: Gross Technical Premium 
+126: Gross Technical Premium Rate
+127: Commercial Adjustment on TP
+128: Gross Offered Premium 
+129: Gross Offered Premium Rate
+130: Ambition Margin on TP
+131: Ambition Premium
+132: Ambition Premium Rate
+133: Commercial Adjustment on Ambition Premium
+134: Offered Ambition Premium
+135: Offered Ambition Premium Rate
+136: Gross Achieved Premium 
+137: Gross Achieved Premium Rate
+138: AP/TP 
+139: Components of the Technical Premium - MidMarket
+140: Expected Loss Calculation - Marine Cargo - Reference Tables
+141: Currency Code
+142: Long Name
+143: Parent (L1)
+144: War and Strike
+145: Cover Type MidMarket
+146: Yes / No
+147: Type of Goods Class
+148: EUR - Euro
+149: A
+150: 1 - Crop and animal production, hunting and related service activities
+151: Afghanistan
+152: Other
+153: All Risk
+154: Type of Goods Subclass
+155: USD
+156: USD - US Dollar
+157: 2 - Forestry and logging
+158: Albania
+159: --------
+160: No
+161: GBP
+162: GBP - British Pound
+163: 3 - Fishing and aquaculture
+164: Algeria
+165: Australia
+166: Cover Type non-MidMarket
+167: Steuerfelder für die jeweilige Subclass
+168: CHF
+169: CHF - Swiss Franc
+170: B
+171: 5 - Mining of coal and lignite
+172: Andorra
+173: New Zealand
+174: JPY
+175: JPY - Japanese Yen
+176: 6 - Extraction of crude petroleum and natural gas
+177: Angola
+178: The Sound (Ore Sund) between Denmark &amp; Sweden
+179: Named Perils
+180: offered
+181: ---
+182: ------
+183: 7 - Mining of metal ores
+184: Argentinia
+185: Western hemisphere other than below
+186: declined
+187: AED
+188: AED - Emirati Dirham
+189: 8 - Other mining and quarrying
+190: Armenia
+191: Cover Type 2 non-MidMarket
+192: accepted
+193: AFN
+194: AFN - Afghan Afghani
+195: 9 - Mining support service activities
+196: ICC
+197: Dropdown Type of Goods (X wenn Subclass fehlt)
+198: ALL
+199: ALL - Albanian Lek
+200: C
+201: 10 - Manufacture of food products
+202: Austria
+203: Argentina
+204: DTV
+205: AMD
+206: AMD - Armenian Dram
+207: 11 - Manufacture of beverages
+208: Azerbaijan
+209: Bangladesh
+210: Broker conditions
+211: Purchase
+212: ANG
+213: ANG - Dutch Guilder
+214: 12 - Manufacture of tobacco products
+215: Bahrain
+216: Brazil
+217: individual written conditions
+218: Shipment
+219: AOA
+220: AOA - Angolan Kwanza
+221: 13 - Manufacture of textiles
+222: Brazil ( BR-116 Highway Curitaba- Sao Paulo; SP-330 Highway Uberaba-Santos port; BR-116 Highway Rio de Janeiro-Sao Paulo, BR 050 Highway Brasilia-Santos).
+223: ARS
+224: ARS - Argentine Peso
+225: 14 - Manufacture of wearing apparel
+226: Belarus
+227: Burkina Faso
+228: Region
+229: Type of Goods filled and correct
+230: AUD
+231: AUD - Australian Dollar
+232: 15 - Manufacture of leather and related products
+233: Belgium
+234: Burundi
+235: Cover Type 2 MidMarket
+236: Europe - North
+237: AWG
+238: AWG - Aruban or Dutch Guilder
+239: 16 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+240: Belize
+241: Cameroon
+242: SüdVers
+243: Europe - East
+244: AZN
+245: AZN - Azerbaijan Manat
+246: 17 - Manufacture of paper and paper products
+247: Benin
+248: Central African Republic
+249: Büchner&amp;Barella
+250: Europe - South
+251: BBD
+252: BBD - Barbadian or Bajan Dollar
+253: 18 - Printing and reproduction of recorded media
+254: Bhutan
+255: Chad
+256: Willis
+257: Europe - West
+258: BDT
+259: BDT - Bangladeshi Taka
+260: 19 - Manufacture of coke and refined petroleum products
+261: Bolivia
+262: Colombia
+263: Dr. Hörtkorn
+264: America - North
+265: Cover_Type_2_Dropdown
+266: BGN
+267: BGN - Bulgarian Lev
+268: 20 - Manufacture of chemicals and chemical products
+269: Bosnia and Herzegovina
+270: Congo - Brazzaville (aka Republic of Congo)
+271: Leue&amp;Nill
+272: America - South
+273: BHD
+274: BHD - Bahraini Dinar
+275: 21 - Manufacture of basic pharmaceutical products and pharmaceutical preparations
+276: Botswana
+277: Congo - Kinshasa (aka DRC)
+278: HDI-Wording
+279: Asia
+280: BIF
+281: BIF - Burundian Franc
+282: 22 - Manufacture of rubber and plastic products
+283: Cote d'Ivoire (Ivory Coast)
+284: Asia - SouthEast
+285: Type_of_participation_Dropdown
+286: BMD
+287: BMD - Bermudian Dollar
+288: 23 - Manufacture of other non-metallic mineral products
+289: Brunei 
+290: Egypt
+291: Asia - NearEast
+292: BND
+293: BND - Bruneian Dollar
+294: 24 - Manufacture of basic metals
+295: Bulgaria
+296: Eritrea
+297: Africa - North
+298: BOB
+299: BOB - Bolivian Bolíviano
+300: 25 - Manufacture of fabricated metal products, except machinery and equipment
+301: Ethiopia
+302: Germany: North-East
+303: Africa - East
+304: Value Range Commercial Adjustment
+305: BRL
+306: BRL - Brazilian Real
+307: 26 - Manufacture of computer, electronic and optical products
+308: Georgia
+309: Germany: South-East
+310: Africa - South
+311: BSD
+312: BSD - Bahamian Dollar
+313: 27 - Manufacture of electrical equipment
+314: Cabo Verde
+315: Guinea
+316: Germany: South-West
+317: Africa - West
+318: BTN
+319: BTN - Bhutanese Ngultrum
+320: 28 - Manufacture of machinery and equipment n.e.c.
+321: Cambodia
+322: Gulf of Aden sea area and to 65° E off the Somali coast, bound to the north by latitude 23°30 N, and bound to the south by 12°S and in the Red Sea by 14°N
+323: Germany: West
+324: Africa - Central
+325: BWP
+326: BWP - Botswana Pula
+327: 29 - Manufacture of motor vehicles, trailers and semi-trailers
+328: Gulf of Guinea, in the sea area between 4°30'W 5°8'44.274"N and 3°6'13.966"W 2°20'12.8"N in the west, and 9°46'18.636"E 2°20'12.8"N (Cameroon-Equatorial Guinea border) in the east.
+329: Cover_Type_1_Dropdown:
+330: BYN
+331: BYN - Belarusian Ruble
+332: 30 - Manufacture of other transport equipment
+333: Canada
+334: India
+335: Unknown
+336: BZD
+337: BZD - Belizean Dollar
+338: 31 - Manufacture of furniture
+339: India (Eastern and Central India: Bihar, Chhattisgarh, Jharkand, Orissa, Maharashtra)
+340: CAD
+341: CAD - Canadian Dollar
+342: 32 - Other manufacturing
+343: Indonesia
+344: Absolute/relative
+345: CDF
+346: CDF - Congolese Franc
+347: 33 - Repair and installation of machinery and equipment
+348: Chile
+349: Iran
+350: fixed value
+351: CLP
+352: CLP - Chilean Peso
+353: D
+354: 35 - Electricity, gas, steam and air conditioning supply
+355: Iraq
+356: Denmark
+357: percentage
+358: CNY
+359: CNY - Chinese Yuan Renminbi
+360: E
+361: 36 - Water collection, treatment and supply
+362: China
+363: Israel
+364: France
+365: COP
+366: COP - Colombian Peso
+367: 37 - Sewerage
+368: Italy
+369: Greece
+370: Language
+371: CRC
+372: CRC - Costa Rican Colon
+373: 38 - Waste collection, treatment and disposal activities; materials recovery
+374: Congo
+375: Kenya
+376: Hong Kong
+377: German
+378: CUP
+379: CUP - Cuban Peso
+380: 39 - Remediation activities and other waste management services
+381: Costa Rica
+382: Lebanon
+383: English
+384: CVE
+385: CVE - Cape Verdean Escudo
+386: F
+387: 41 - Construction of buildings
+388: Croatia
+389: Libya
+390: Japan
+391: CZK
+392: CZK - Czech Koruna
+393: 42 - Civil engineering
+394: Cuba
+395: Malay Peninsula (Cargo theft from oil tankers in the Singapore Strait in its entirety and the South China Sea bound at 4°N to the north, 1°N to the south and 106°E to the east’.)
+396: Netherlands
+397: DJF
+398: DJF - Djiboutian Franc
+399: 43 - Specialised construction activities
+400: Cyprus
+401: Malay Peninsula (Piracy in the Singapore Strait in its entirety and the South China Sea bound at 4°N to the north, 1°N to the south and 106°E to the east’.)
+402: Russia
+403: DKK
+404: DKK - Danish Krone
+405: G
+406: 45 - Wholesale and retail trade and repair of motor vehicles and motorcycles
+407: Czechia
+408: Mali
+409: Singapore
+410: DOP
+411: DOP - Dominican Peso
+412: 46 - Wholesale trade, except of motor vehicles and motorcycles
+413: Mexico
+414: Spain
+415: DZD
+416: DZD - Algerian Dinar
+417: 47 - Retail trade, except of motor vehicles and motorcycles
+418: Djibouti
+419: Mexico (Estado de México-Puebla-Veracruz highway; Estado de México-Querétaro highway, highways in Tamaulipas, Michoacán and Guerrero states, railways in Guanajuato state.)
+420: Switzerland
+421: EGP
+422: EGP - Egyptian Pound
+423: H
+424: 49 - Land transport and transport via pipelines
+425: Dominican Republic
+426: Mozambique
+427: ERN
+428: ERN - Eritrean Nakfa
+429: 50 - Water transport
+430: Ecuador
+431: Niger
+432: USA
+433: ETB
+434: ETB - Ethiopian Birr
+435: 51 - Air transport
+436: Nigeria
+437: FJD
+438: FJD - Fijian Dollar
+439: 52 - Warehousing and support activities for transportation
+440: El Salvador
+441: North Korea
+442: Type of participation non-MidMarket
+443: 53 - Postal and courier activities
+444: Occupied Palestinian Territory
+445: 100% Direct Business
+446: GEL
+447: GEL - Georgian Lari
+448: I
+449: 55 - Accommodation
+450: Estonia
+451: Pakistan
+452: Lead
+453: 56 - Food and beverage service activities
+454: Eswatini
+455: Persian or Arabian Gulf and adjacent waters including the Gulf of Oman west of Longitude 58°E
+456: Coinsurance
+457: GHS
+458: GHS - Ghanaian Cedi
+459: J
+460: 58 - Publishing activities
+461: Peru
+462: GIP
+463: GIP - Gibraltar Pound
+464: 59 - Motion picture, video and television programme production, sound recording and music publishing activities
+465: Fiji
+466: Qatar
+467: Type of participation MidMarket
+468: GMD
+469: GMD - Gambian Dalasi
+470: 60 - Programming and broadcasting activities
+471: Finland
+472: GNF
+473: GNF - Guinean Franc
+474: 61 - Telecommunications
+475: Russia (Ground: within 200km of the land border with Ukraine. Marine: Black Sea coast within territorial waters.)
+476: GTQ
+477: GTQ - Guatemalan Quetzal
+478: 62 - Computer programming, consultancy and related activities
+479: French Polynesia (e.g. Tahiti)
+480: Russia (North Caucasus Federal District, less Stavropol Territory)
+481: GYD
+482: GYD - Guyanese Dollar
+483: 63 - Information service activities
+484: Gambia
+485: Saudi Arabia
+486: HKD
+487: HKD - Hong Kong Dollar
+488: K
+489: 64 - Financial service activities, except insurance and pension funding
+490: Somalia
+491: HNL
+492: HNL - Honduran Lempira
+493: 65 - Insurance, reinsurance and pension funding, except compulsory social security
+494: Germany
+495: South Korea
+496: HRK
+497: HRK - Croatian Kuna
+498: 66 - Activities auxiliary to financial services and insurance activities
+499: Ghana
+500: South Sudan
+501: HTG
+502: HTG - Haitian Gourde
+503: L
+504: 68 - Real estate activities
+505: Gibraltar
+506: Sudan
+507: HUF
+508: HUF - Hungarian Forint
+509: M
+510: 69 - Legal and accounting activities
+511: Syria
+512: IDR
+513: IDR - Indonesian Rupiah
+514: 70 - Activities of head offices; management consultancy activities
+515: Greenland
+516: Turkey
+517: ILS
+518: ILS - Israeli Shekel
+519: 71 - Architectural and engineering activities; technical testing and analysis
+520: Guadeloupe
+521: Ukraine
+522: 72 - Scientific research and development
+523: Guatemala
+524: Ukraine (Ground: Donbass conflict zone; Marine: Black Sea coast and Sea of Azov within territorial waters)
+525: INR
+526: INR - Indian Rupee
+527: 73 - Advertising and market research
+528: United Arab Emirates
+529: IQD
+530: IQD - Iraqi Dinar
+531: 74 - Other professional, scientific and technical activities
+532: Guinea-Bissau
+533: Venezuela
+534: IRR
+535: IRR - Iranian Rial
+536: 75 - Veterinary activities
+537: Guyana
+538: Yemen
+539: ISK
+540: ISK - Icelandic Krona
+541: N
+542: 77 - Rental and leasing activities
+543: Haiti
+544: Yemen (Marine: Territorial Waters)
+545: 78 - Employment activities
+546: Honduras
+547: JMD
+548: JMD - Jamaican Dollar
+549: 79 - Travel agency, tour operator and other reservation service and related activities
+550: JOD
+551: JOD - Jordanian Dinar
+552: 80 - Security and investigation activities
+553: Hungary
+554: KES
+555: KES - Kenyan Shilling
+556: 81 - Services to buildings and landscape activities
+557: Iceland
+558: KGS
+559: KGS - Kyrgyzstani Som
+560: 82 - Office administrative, office support and other business support activities
+561: O
+562: 84 - Public administration and defence; compulsory social security
+563: KRW
+564: KRW - South Korean Won
+565: P
+566: 85 - Education
+567: KWD
+568: KWD - Kuwaiti Dinar
+569: Q
+570: 86 - Human health activities
+571: KYD
+572: KYD - Caymanian Dollar
+573: 87 - Residential care activities
+574: Ireland
+575: KZT
+576: KZT - Kazakhstani Tenge
+577: 88 - Social work activities without accommodation
+578: LAK
+579: LAK - Lao Kip
+580: R
+581: 90 - Creative, arts and entertainment activities
+582: LBP
+583: LBP - Lebanese Pound
+584: 91 - Libraries, archives, museums and other cultural activities
+585: Ivory Coast
+586: LKR
+587: LKR - Sri Lankan Rupee
+588: 92 - Gambling and betting activities
+589: Jamaica
+590: LRD
+591: LRD - Liberian Dollar
+592: 93 - Sports activities and amusement and recreation activities
+593: LYD
+594: LYD - Libyan Dinar
+595: S
+596: 94 - Activities of membership organisations
+597: Jordan
+598: MAD
+599: MAD - Moroccan Dirham
+600: 95 - Repair of computers and personal and household goods
+601: Karibik
+602: MDL
+603: MDL - Moldovan Leu
+604: 96 - Other personal service activities
+605: Kazakhstan
+606: MGA
+607: MGA - Malagasy Ariary
+608: T
+609: 97 - Activities of households as employers of domestic personnel
+610: MKD
+611: MKD - Macedonian Denar
+612: 98 - Undifferentiated goods- and services-producing activities of private households for own use
+613: Korea (Republic of)
+614: MMK
+615: MMK - Burmese Kyat
+616: U
+617: 99 - Activities of extraterritorial organisations and bodies
+618: Kosovo
+619: MNT
+620: MNT - Mongolian Tughrik
+621: Kuwait
+622: MOP
+623: MOP - Macau Pataca
+624: Kyrgyzstan
+625: MRU
+626: MRU - Mauritanian Ouguiya
+627: Laos
+628: MUR
+629: MUR - Mauritian Rupee
+630: Latvia
+631: MWK
+632: MWK - Malawian Kwacha
+633: MXN
+634: MXN - Mexican Peso
+635: Lesotho
+636: MYR
+637: MYR - Malaysian Ringgit
+638: Liberia
+639: MZN
+640: MZN - Mozambican Metical
+641: NGN
+642: NGN - Nigerian Naira
+643: Liechtenstein
+644: NIO
+645: NIO - Nicaraguan Cordoba
+646: Lithuania
+647: NOK
+648: NOK - Norwegian Krone
+649: Luxembourg
+650: NPR
+651: NPR - Nepalese Rupee
+652: Macao
+653: NZD
+654: NZD - New Zealand Dollar
+655: Macedonia (the former Yugoslav Republic of)
+656: OMR
+657: OMR - Omani Rial
+658: Madagascar
+659: PAB
+660: PAB - Panamanian Balboa
+661: Malawi
+662: PEN
+663: PEN - Peruvian Sol
+664: Malaysia
+665: PGK
+666: PGK - Papua New Guinean Kina
+667: Maldives
+668: PHP
+669: PHP - Philippine Peso
+670: PKR
+671: PKR - Pakistani Rupee
+672: Malta
+673: PLN
+674: PLN - Polish Zloty
+675: Mauritania
+676: PYG
+677: PYG - Paraguayan Guarani
+678: Mauritius
+679: QAR
+680: QAR - Qatari Riyal
+681: RON
+682: RON - Romanian Leu
+683: Moldova
+684: RSD
+685: RSD - Serbian Dinar
+686: Monaco
+687: RUB
+688: RUB - Russian Ruble
+689: Mongolia
+690: RWF
+691: RWF - Rwandan Franc
+692: Montenegro
+693: SAR
+694: SAR - Saudi Arabian Riyal
+695: SCR
+696: SCR - Seychellois Rupee
+697: Morocco
+698: SDG
+699: SDG - Sudanese Pound
+700: SEK
+701: SEK - Swedish Krona
+702: Myanmar
+703: SGD
+704: SGD - Singapore Dollar
+705: Namibia
+706: Nepal
+707: SOS
+708: SOS - Somali Shilling
+709: Nicaragua
+710: STN
+711: STN - Sao Tomean Dobra
+712: SVC
+713: SVC - Salvadoran Colon
+714: SYP
+715: SYP - Syrian Pound
+716: Norway
+717: THB
+718: THB - Thai Baht
+719: Oman
+720: TMT
+721: TMT - Turkmenistani Manat
+722: TND
+723: TND - Tunisian Dinar
+724: Panama
+725: TRY
+726: TRY - Turkish Lira
+727: Papua New Guinea
+728: TTD
+729: TTD - Trinidadian Dollar
+730: Paraguay
+731: TWD
+732: TWD - Taiwan New Dollar
+733: Philippines
+734: TZS
+735: TZS - Tanzanian Shilling
+736: Poland
+737: UAH
+738: UAH - Ukrainian Hryvnia
+739: Portugal
+740: UGX
+741: UGX - Ugandan Shilling
+742: Puerto Rico
+743: UYU
+744: UYU - Uruguayan Peso
+745: UZS
+746: UZS - Uzbekistani Som
+747: Réunion
+748: VES
+749: VES - Venezuelan Bolívar
+750: Romania
+751: VND
+752: VND - Vietnamese Dong
+753: Russian Federation
+754: WST
+755: WST - Samoan Tala
+756: Rwanda
+757: XAF
+758: XAF - Central African CFA Franc BEAC
+759: Samoa
+760: XCD
+761: XCD - East Caribbean Dollar
+762: San Marino
+763: XDR
+764: XDR - IMF Special Drawing Rights
+765: XOF
+766: XOF - CFA Franc
+767: Senegal
+768: XPF
+769: XPF - CFP Franc
+770: Serbia
+771: YER
+772: YER - Yemeni Rial
+773: Sierra Leone
+774: ZAR
+775: ZAR - South African Rand
+776: ZMW
+777: ZMW - Zambian Kwacha
+778: Slovakia
+779: ZWD
+780: ZWD - Zimbabwean Dollar
+781: Slovenia
+782: South Africa
+783: Sri Lanka
+784: Suriname
+785: Sweden
+786: Syrian Arab Republic
+787: Taiwan, Province of China
+788: Tajikistan
+789: Tanzania
+790: Thailand
+791: Timor-Leste
+792: Togo
+793: Tonga
+794: Tunisia
+795: Turkmenistan
+796: Uganda
+797: United Kingdom of Great Britain and Northern Ireland
+798: United States of America
+799: Uruguay
+800: Uzbekistan
+801: Viet Nam
+802: Western Sahara
+803: Zambia
+804: Zanzibar
+805: Zimbabwe
+806: Expected Loss Calculation - Marine Cargo - Parameter Tables
+807: Constant
+808: Currency Name
+809: Currency Long Name
+810: FX Rate to EUR
+811: NAICS-Code (L2)
+812: Value Count Model
+813: Value Severity Model
+814: Adjustment LL Loss Count
+815: Adjustment LL Severity
+816: IP Flag
+817: Type of Goods Code
+818: Class Name
+819: Subclass Name
+820: Adjustment Loss Count
+821: Adjustment Severity
+822: Adjustment Expected Loss
+823: Adjustment ELP temperature
+824: Adjustment Prone to Theft
+825: Adjustment ELP
+826: Type of Packaging
+827: Country
+828: Geo Scope
+829: UW Adjustment
+830: Institute War Clauses
+831: Institute Strikes Clauses
+832: Institute War (Air Cargo) and Institute Strikes (Air Cargo)
+833: Profit included
+834: Storage Transport (days)
+835: Geo Scope Input
+836: Geo Scope Algorithm&amp;Parameter
+837: User Language
+838: Language Offset Type of Goods
+839: Language Offset Country
+840: Geo Scope Country German
+841: Geo Scope Country English
+842: Geo Scope Subcontinent
+843: Cell
+844: MidMarket
+845: Min Value MidMarket
+846: Max Value MidMarket
+847: Transportation Type
+848: Proportion National &amp; Europe
+849: Proportion worldwide
+850: OUT
+851: IN
+852: Parameter Intercept count model
+853: Euro
+854: Crop and animal production, hunting and related service activities
+855: 1. Allgemeine Gebrauchsgüter
+856: Land
+857: Containerised  
+858: AFG
+859: AFG - Afghanistan
+860: Hinweis: Referralpflicht
+861: North Europe
+862: Ägypten
+863: Africa-North
+864: \selected_conditions_limit_General
+865: Parameter Turnover regression count model
+866: US Dollar
+867: Forestry and logging
+868: 2. Andere vegetabile Güter
+869: Sea
+870: Bulk  
+871: ALB
+872: ALB - Albania
+873: E-Clauses 
+874: East Europe
+875: Algerien
+876: \selected_conditions_deductible_General
+877: Parameter intercept zero hurdle model
+878: Emirati Dirham
+879: Fishing and aquaculture
+880: 3. Anlagenbau
+881: Projekt - containerfähig
+882: Air
+883: Oversized 
+884: DZA
+885: DZA - Algeria
+886: F-Clauses 
+887: South Europe
+888: Libyen
+889: \selected_conditions_deductibleProp_General
+890: Parameter turnover regression zero hurdle
+891: Afghan Afghani
+892: Mining of coal and lignite
+893: Projekt - nicht containerfähig
+894: Unpacked 
+895: AND
+896: AND - Andorra
+897: C-Clauses 
+898: West Europe
+899: Marokko
+900: \selected_conditions_deductibleMax_General
+901: Parameter disperson count model
+902: Albanian Lek
+903: Extraction of crude petroleum and natural gas
+904: Serien- / Massenproduktion - containerfähig
+905: Flexi-Tank
+906: AGO
+907: AGO - Angola
+908: D-Clauses 
+909: North America
+910: \selected_conditions_deductibleAggregat_General
+911: Parameter MM &lt;100m Intercept count model
+912: Armenian Dram
+913: Mining of metal ores
+914: Serien- / Massenproduktion - nicht containerfähig
+915: Unknown 
+916: ARG
+917: ARG - Argentinia
+918: South America
+919: Tunesien
+920: Parameter MM &lt;100m Turnover regression count model
+921: Dutch Guilder
+922: Other mining and quarrying
+923: 4. Automobilbau
+924: Fahrzeuge - PKW Verbrenner
+925: ARM
+926: ARM - Armenia
+927: Westsahara
+928: \selected_additional_limit_Messen
+929: Parameter MM &lt;100m intercept zero hurdle model
+930: Angolan Kwanza
+931: Mining support service activities
+932: Fahrzeuge - PKW Elektro
+933: AUS
+934: AUS - Australia
+935: SouthEast Asia
+936: Äthiopien
+937: Africa-East
+938: \selected_additional_deductible_Messen
+939: =\selected_conditions_deductible_General
+940: Parameter MM &lt;100m turnover regression zero hurdle
+941: Argentine Peso
+942: Manufacture of food products
+943: Fahrzeuge - LKW Verbrenner
+944: AUT
+945: AUT - Austria
+946: Near East
+947: \selected_additional_deductibleProp_Messen
+948: =\selected_conditions_deductibleProp_General
+949: Parameter MM &lt;100m disperson count model
+950: Australian Dollar
+951: Manufacture of beverages
+952: Fahrzeuge - LKW Elektro
+953: AZE
+954: AZE - Azerbaijan
+955: North Africa
+956: Dschibuti
+957: \selected_additional_deductibleMax_Messen
+958: =\selected_conditions_deductibleMax_General
+959: Parameter MM &gt;100m Intercept count model
+960: Aruban or Dutch Guilder
+961: Manufacture of tobacco products
+962: Fahrzeuge - Campingfahrzeuge Verbrenner
+963: BHR
+964: BHR - Bahrain
+965: East Africa
+966: \selected_additional_deductibleAggregat_Messen
+967: =\selected_conditions_deductibleAggregat_General
+968: Parameter MM &gt;100m Turnover regression count model
+969: Azerbaijan Manat
+970: Manufacture of textiles
+971: Fahrzeuge - Campingfahrzeuge Elektro
+972: BGD
+973: BGD - Bangladesh
+974: Kenia
+975: Parameter MM &gt;100m intercept zero hurdle model
+976: Barbadian or Bajan Dollar
+977: Manufacture of wearing apparel
+978: Fahrzeuge - Motorräder Verbrenner
+979: BLR
+980: BLR - Belarus
+981: West Africa
+982: Komoren
+983: Comoros
+984: Parameter MM &gt;100m turnover regression zero hurdle
+985: Bangladeshi Taka
+986: Manufacture of leather and related products
+987: Fahrzeuge - Motorräder Elektro
+988: BEL
+989: BEL - Belgium
+990: Central Africa
+991: Madagaskar
+992: Parameter MM &gt;100m disperson count model
+993: Bulgarian Lev
+994: Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+995: Oldtimer
+996: BLZ
+997: BLZ - Belize
+998: Base Turnover
+999: Bahraini Dinar
+1000: Manufacture of paper and paper products
+1001: Zulieferindustrie - Nicht-Elektronik
+1002: BEN
+1003: BEN - Benin
+1004: Constant Mean Severity Attritional
+1005: Burundian Franc
+1006: Printing and reproduction of recorded media
+1007: Zulieferindustrie - Elektronik
+1008: BTN - Bhutan
+1009: Mayotte
+1010: Parameter MM &lt;100m log(Severity) Attritional Intercept
+1011: Bermudian Dollar
+1012: Manufacture of coke and refined petroleum products
+1013: 5. Baustoffe / Bauelemente
+1014: Organische
+1015: BOL
+1016: BOL - Bolivia
+1017: Mosambik
+1018: Parameter MM &lt;100m log(Severity) Attritional log(turnover)
+1019: Bruneian Dollar
+1020: Manufacture of chemicals and chemical products
+1021: Anorganische - abgebaut
+1022: BIH
+1023: BIH - Bosnia and Herzegovina
+1024: Parameter MM &lt;100m log(Severity) Attritional dispersion (sigma^2)
+1025: Bolivian Bolíviano
+1026: Manufacture of basic pharmaceutical products and pharmaceutical preparations
+1027: Anorganische - produziert
+1028: BWA
+1029: BWA - Botswana
+1030: Ruanda
+1031: Parameter MM &gt;100m log(Severity) Attritional Intercept
+1032: Brazilian Real
+1033: Manufacture of rubber and plastic products
+1034: Glaselemente
+1035: BRA
+1036: BRA - Brazil
+1037: Sambia
+1038: Parameter MM &gt;100m log(Severity) Attritional log(turnover)
+1039: Bahamian Dollar
+1040: Manufacture of other non-metallic mineral products
+1041: 6. Bulkgüter, fest
+1042: Schüttgut (exkl. Chemische Erzeugnisse) - containerisiert
+1043: BRN
+1044: BRN - Brunei 
+1045: Seychellen
+1046: Seychelles
+1047: Parameter MM &gt;100m log(Severity) Attritional dispersion (sigma^2)
+1048: Bhutanese Ngultrum
+1049: Manufacture of basic metals
+1050: Schüttgut (exkl. Chemische Erzeugnisse) - nicht containerisiert
+1051: BGR
+1052: BGR - Bulgaria
+1053: Simbabwe
+1054: Transport Large Loss Threshold 1
+1055: Botswana Pula
+1056: Manufacture of fabricated metal products, except machinery and equipment
+1057: Stückgut (z.B. Stahlhalbzeuge, Bleche)
+1058: BFA
+1059: BFA - Burkina Faso
+1060: Constant Mean Count Large
+1061: Belarusian Ruble
+1062: Manufacture of computer, electronic and optical products
+1063: Chemische Erzeugnisse - containerisiert
+1064: BDI
+1065: BDI - Burundi
+1066: Südsudan
+1067: \selected_additional_limit_Gueterfolge
+1068: Constant Mean Severity Large
+1069: Belizean Dollar
+1070: Manufacture of electrical equipment
+1071: Chemische Erzeugnisse - nicht containerisiert
+1072: CPV
+1073: CPV - Cabo Verde
+1074: Tansania
+1075: \selected_additional_deductible_Gueterfolge
+1076: Constant Dispersion Severity Attritional
+1077: Canadian Dollar
+1078: Manufacture of machinery and equipment n.e.c.
+1079: 7. Bulkgüter, flüssig
+1080: Lebensmittel (exkl. Fette und Öle)
+1081: KHM
+1082: KHM - Cambodia
+1083: Uganda 
+1084: Uganda 
+1085: \selected_additional_deductibleProp_Gueterfolge
+1086: Constant Scale GPD Severity Large
+1087: Congolese Franc
+1088: Manufacture of motor vehicles, trailers and semi-trailers
+1089: Fette und Öle (pflanzlicher oder tierischer Ursprung)
+1090: CMR
+1091: CMR - Cameroon
+1092: Africa-South
+1093: \selected_additional_deductibleMax_Gueterfolge
+1094: Constant Dispersion Severity Large
+1095: Swiss Franc
+1096: Manufacture of other transport equipment
+1097: Petrochemische Erzeugnisse
+1098: CAN
+1099: CAN - Canada
+1100: \selected_additional_deductibleAggregat_Gueterfolge
+1101: Chilean Peso
+1102: Manufacture of furniture
+1103: Chemische Erzeugnisse (exkl. Petrochemie)
+1104: CAF
+1105: CAF - Central African Republic
+1106: Constant Storage Losses
+1107: Chinese Yuan Renminbi
+1108: Other manufacturing
+1109: 8. Bulkgüter, gasförmig
+1110: Containerisiert bzw. kleinere Ladungseinheiten
+1111: TCD
+1112: TCD - Chad
+1113: Südafrika
+1114: \selected_additional_limit_Vermoegen
+1115: Target-ALR
+1116: Colombian Peso
+1117: Repair and installation of machinery and equipment
+1118: Nicht Containerisiert bzw. größere Ladungseinheiten
+1119: CHL
+1120: CHL - Chile
+1121: \selected_additional_deductible_Vermoegen
+1122: Ambition Margin
+1123: Costa Rican Colon
+1124: Electricity, gas, steam and air conditioning supply
+1125: 9. Pharma, Medizin, Kosmetik, Lebensmittel
+1126: Pharmazeutische Produkte
+1127: Africa-West
+1128: \selected_additional_deductibleProp_Vermoegen
+1129: Decentralized expenses (operation / claims)
+1130: Cuban Peso
+1131: Water collection, treatment and supply
+1132: Medizinprodukte
+1133: CHN
+1134: CHN - China
+1135: Burkina Faso
+1136: \selected_additional_deductibleMax_Vermoegen
+1137: Centralized expenses (operation / claims)
+1138: Cape Verdean Escudo
+1139: Sewerage
+1140: Kosmetika
+1141: COL
+1142: COL - Colombia
+1143: Elfenbeinküste
+1144: \selected_additional_deductibleAggregat_Vermoegen
+1145: RI expenses (expected result RI)
+1146: Czech Koruna
+1147: Waste collection, treatment and disposal activities; materials recovery
+1148: Heilprodukte
+1149: COG
+1150: COG - Congo
+1151: Cost of Capital + IVC Loading + RI expenses
+1152: Djiboutian Franc
+1153: Remediation activities and other waste management services
+1154: Lebens- und Genussmittel (verkaufsfertig)
+1155: CRI
+1156: CRI - Costa Rica
+1157: \selected_additional_limit_Krieg
+1158: =\selected_conditions_limit_General
+1159: Danish Krone
+1160: Construction of buildings
+1161: 10. Elektronik, EDV
+1162: Braune Ware (z.B. Unterhaltungstechnik)
+1163: HRV
+1164: HRV - Croatia
+1165: \selected_additional_deductible_Krieg
+1166: Dominican Peso
+1167: Civil engineering
+1168: Weiße Ware (z.B. Haushaltsgeräte)
+1169: CUB
+1170: CUB - Cuba
+1171: \selected_additional_deductibleProp_Krieg
+1172: Algerian Dinar
+1173: Specialised construction activities
+1174: 11. Elektrotechnik (Schaltschränke, etc..)
+1175: Energietechnik (Schaltschränke, Fotovoltaik, etc.)
+1176: CYP
+1177: CYP - Cyprus
+1178: Kap Verde
+1179: Cape Verde
+1180: \selected_additional_deductibleMax_Krieg
+1181: Threshold LLL in % of Gross Limit
+1182: Egyptian Pound
+1183: Wholesale and retail trade and repair of motor vehicles and motorcycles
+1184: Antriebtechnik (Generatoren, Elektromotoren, etc.)
+1185: CZE
+1186: CZE - Czechia
+1187: \selected_additional_deductibleAggregat_Krieg
+1188: Pareto Alpha
+1189: Eritrean Nakfa
+1190: Wholesale trade, except of motor vehicles and motorcycles
+1191: 12. Feinmechanik, Optik
+1192: Linsen und Linsensysteme
+1193: DNK
+1194: DNK - Denmark
+1195: Return Period Factor Log(turnover in 100m)
+1196: Ethiopian Birr
+1197: Retail trade, except of motor vehicles and motorcycles
+1198: Messsysteme mechanisch
+1199: DJI
+1200: DJI - Djibouti
+1201: Mauretanien
+1202: \selected_additional_limit_Luggage
+1203: Return Period Factor EXP(turnover in 100m - 1)
+1204: Fijian Dollar
+1205: Land transport and transport via pipelines
+1206: Messsysteme elektronisch (z.B. GPS-Technik, Satelliten)
+1207: DOM
+1208: DOM - Dominican Republic
+1209: \selected_additional_deductible_Luggage
+1210: Return Period Limit Loss
+1211: Water transport
+1212: 13. Maschinenbau
+1213: ECU
+1214: ECU - Ecuador
+1215: \selected_additional_deductibleProp_Luggage
+1216: British Pound
+1217: Air transport
+1218: 14. Militärisches Material / Wehrtechnik / Schusswaffen
+1219: Fahrzeuge (Wasser, Land, Luft)
+1220: EGY
+1221: EGY - Egypt
+1222: \selected_additional_deductibleMax_Luggage
+1223: Georgian Lari
+1224: Warehousing and support activities for transportation
+1225: Ausrüstung
+1226: SLV
+1227: SLV - El Salvador
+1228: \selected_additional_deductibleAggregat_Luggage
+1229: Postal and courier activities
+1230: Munition
+1231: ERI
+1232: ERI - Eritrea
+1233: Ghanaian Cedi
+1234: Accommodation
+1235: 15. Papier, Druckerzeugnisse
+1236: EST
+1237: EST - Estonia
+1238: St. Helena, Ascension und Tristan da Cunha
+1239: Saint Helena, Ascension and Tristan da Cunha
+1240: \selected_additional_limit_Cyber
+1241: MIDMARKET PARAMETERS?
+1242: Gibraltar Pound
+1243: Food and beverage service activities
+1244: 16. Schiffs-, Luft-, Schienenbau (Fahrzeuge excl. Automotive)
+1245: SWZ
+1246: SWZ - Eswatini
+1247: Africa-Central
+1248: \selected_additional_deductible_Cyber
+1249: TEST BC LLL?
+1250: Gambian Dalasi
+1251: Publishing activities
+1252: 17. Technische Komponenten
+1253: ETH
+1254: ETH - Ethiopia
+1255: Äquatorialguinea
+1256: Equatorial Guinea
+1257: \selected_additional_deductibleProp_Cyber
+1258: Guinean Franc
+1259: Motion picture, video and television programme production, sound recording and music publishing activities
+1260: 18. Textilien, Leder, Bekleidung, Schuhe
+1261: FJI
+1262: FJI - Fiji
+1263: Gabun
+1264: Gabon
+1265: \selected_additional_deductibleMax_Cyber
+1266: Guatemalan Quetzal
+1267: Programming and broadcasting activities
+1268: 19. Kabel &amp; Seile (Seekabel, Tragseile für Brücken, Spannkabel)
+1269: FIN
+1270: FIN - Finland
+1271: Kamerun
+1272: \selected_additional_deductibleAggregat_Cyber
+1273: Guyanese Dollar
+1274: Telecommunications
+1275: FRA
+1276: FRA - France
+1277: Demokratische Republik Kongo
+1278: Democratic Republic of the Congo
+1279: Hong Kong Dollar
+1280: Computer programming, consultancy and related activities
+1281: PYF
+1282: PYF - French Polynesia (e.g. Tahiti)
+1283: Republik Kongo
+1284: Republic of the Congo
+1285: \selected_additional_limit_Pandemic
+1286: Honduran Lempira
+1287: Information service activities
+1288: GMB
+1289: GMB - Gambia
+1290: São Tomé und Príncipe
+1291: São Tomé and Príncipe
+1292: \selected_additional_deductible_Pandemic
+1293: Croatian Kuna
+1294: Financial service activities, except insurance and pension funding
+1295: GEO
+1296: GEO - Georgia
+1297: Tschad
+1298: \selected_additional_deductibleProp_Pandemic
+1299: Haitian Gourde
+1300: Insurance, reinsurance and pension funding, except compulsory social security
+1301: DEU
+1302: DEU - Germany
+1303: Zentralafrikanische Republik
+1304: \selected_additional_deductibleMax_Pandemic
+1305: Hungarian Forint
+1306: Activities auxiliary to financial services and insurance activities
+1307: GHA
+1308: GHA - Ghana
+1309: Kanada
+1310: America-North
+1311: \selected_additional_deductibleAggregat_Pandemic
+1312: Indonesian Rupiah
+1313: Real estate activities
+1314: GIB
+1315: GIB - Gibraltar
+1316: Israeli Shekel
+1317: Legal and accounting activities
+1318: GRC
+1319: GRC - Greece
+1320: Activities of head offices; management consultancy activities
+1321: GRL
+1322: GRL - Greenland
+1323: Indian Rupee
+1324: Architectural and engineering activities; technical testing and analysis
+1325: GLP
+1326: GLP - Guadeloupe
+1327: Costa Rica
+1328: Iraqi Dinar
+1329: Scientific research and development
+1330: GTM
+1331: GTM - Guatemala
+1332: Iranian Rial
+1333: Advertising and market research
+1334: GIN
+1335: GIN - Guinea
+1336: Icelandic Krona
+1337: Other professional, scientific and technical activities
+1338: GNB
+1339: GNB - Guinea-Bissau
+1340: Veterinary activities
+1341: GUY
+1342: GUY - Guyana
+1343: \selected_additional_limit_Streik
+1344: Jamaican Dollar
+1345: Rental and leasing activities
+1346: HTI
+1347: HTI - Haiti
+1348: \selected_additional_deductible_Streik
+1349: Jordanian Dinar
+1350: Employment activities
+1351: HND
+1352: HND - Honduras
+1353: Antigua und Barbuda
+1354: Antigua and Barbuda
+1355: \selected_additional_deductibleProp_Streik
+1356: Japanese Yen
+1357: Travel agency, tour operator and other reservation service and related activities
+1358: HKG
+1359: HKG - Hong Kong
+1360: Bahamas
+1361: \selected_additional_deductibleMax_Streik
+1362: Kenyan Shilling
+1363: Security and investigation activities
+1364: HUN
+1365: HUN - Hungary
+1366: Barbados
+1367: \selected_additional_deductibleAggregat_Streik
+1368: Kyrgyzstani Som
+1369: Services to buildings and landscape activities
+1370: ISL
+1371: ISL - Iceland
+1372: Dominica
+1373: Office administrative, office support and other business support activities
+1374: IND
+1375: IND - India
+1376: Dominikanische Republik
+1377: South Korean Won
+1378: Public administration and defence; compulsory social security
+1379: IDN
+1380: IDN - Indonesia
+1381: Grenada
+1382: Kuwaiti Dinar
+1383: Education
+1384: IRN
+1385: IRN - Iran
+1386: Caymanian Dollar
+1387: Human health activities
+1388: IRQ
+1389: IRQ - Iraq
+1390: Jamaika
+1391: Kazakhstani Tenge
+1392: Residential care activities
+1393: IRL
+1394: IRL - Ireland
+1395: Kuba
+1396: Lao Kip
+1397: Social work activities without accommodation
+1398: ISR
+1399: ISR - Israel
+1400: St. Kitts und Nevis
+1401: Saint Kitts and Nevis
+1402: Lebanese Pound
+1403: Creative, arts and entertainment activities
+1404: ITA
+1405: ITA - Italy
+1406: St. Lucia
+1407: Saint Lucia
+1408: Sri Lankan Rupee
+1409: Libraries, archives, museums and other cultural activities
+1410: CIV
+1411: CIV - Ivory Coast
+1412: St. Vincent und die Grenadinen
+1413: Saint Vincent and the Grenadines
+1414: Liberian Dollar
+1415: Gambling and betting activities
+1416: JAM
+1417: JAM - Jamaica
+1418: Trinidad und Tobago
+1419: Trinidad and Tobago
+1420: Libyan Dinar
+1421: Sports activities and amusement and recreation activities
+1422: JPN
+1423: JPN - Japan
+1424: Argentinien
+1425: America-South
+1426: Moroccan Dirham
+1427: Activities of membership organisations
+1428: JOR
+1429: JOR - Jordan
+1430: Aruba
+1431: Moldovan Leu
+1432: Repair of computers and personal and household goods
+1433: KAR
+1434: KAR - Karibik
+1435: Bolivien
+1436: Malagasy Ariary
+1437: Other personal service activities
+1438: KAZ
+1439: KAZ - Kazakhstan
+1440: Bonaire
+1441: Macedonian Denar
+1442: Activities of households as employers of domestic personnel
+1443: KEN
+1444: KEN - Kenya
+1445: Brasilien
+1446: Burmese Kyat
+1447: Undifferentiated goods- and services-producing activities of private households for own use
+1448: KOR
+1449: KOR - Korea (Republic of)
+1450: Mongolian Tughrik
+1451: Activities of extraterritorial organisations and bodies
+1452: XXK
+1453: XXK - Kosovo
+1454: Curaçao
+1455: Macau Pataca
+1456: KWT
+1457: KWT - Kuwait
+1458: Mauritanian Ouguiya
+1459: KGZ
+1460: KGZ - Kyrgyzstan
+1461: Falklandinseln
+1462: Falkland Islands
+1463: Mauritian Rupee
+1464: LAO
+1465: LAO - Laos
+1466: Französisch-Guayana
+1467: French Guiana
+1468: Malawian Kwacha
+1469: LVA
+1470: LVA - Latvia
+1471: Mexican Peso
+1472: LBN
+1473: LBN - Lebanon
+1474: Kolumbien
+1475: Malaysian Ringgit
+1476: LSO
+1477: LSO - Lesotho
+1478: Mozambican Metical
+1479: LBR
+1480: LBR - Liberia
+1481: Nigerian Naira
+1482: LBY
+1483: LBY - Libya
+1484: Südgeorgien und die Südlichen Sandwichinseln
+1485: South Georgia and the South Sandwich Islands
+1486: Nicaraguan Cordoba
+1487: LIE
+1488: LIE - Liechtenstein
+1489: Norwegian Krone
+1490: LTU
+1491: LTU - Lithuania
+1492: Nepalese Rupee
+1493: LUX
+1494: LUX - Luxembourg
+1495: New Zealand Dollar
+1496: MAC
+1497: MAC - Macao
+1498: Volksrepublik China
+1499: People's Republic of China
+1500: Asia-Asia
+1501: Omani Rial
+1502: MKD - Macedonia (the former Yugoslav Republic of)
+1503: Guam
+1504: Panamanian Balboa
+1505: MDG
+1506: MDG - Madagascar
+1507: Hongkong
+1508: Peruvian Sol
+1509: MWI
+1510: MWI - Malawi
+1511: Papua New Guinean Kina
+1512: MYS
+1513: MYS - Malaysia
+1514: Macau
+1515: Philippine Peso
+1516: MDV
+1517: MDV - Maldives
+1518: Mongolei
+1519: Pakistani Rupee
+1520: MLI
+1521: MLI - Mali
+1522: Nordkorea
+1523: Polish Zloty
+1524: MLT
+1525: MLT - Malta
+1526: Südkorea
+1527: Paraguayan Guarani
+1528: MRT
+1529: MRT - Mauritania
+1530: Taiwan
+1531: Qatari Riyal
+1532: MUS
+1533: MUS - Mauritius
+1534: Tadschikistan
+1535: Romanian Leu
+1536: MEX
+1537: MEX - Mexico
+1538: Kasachstan
+1539: Serbian Dinar
+1540: MDA
+1541: MDA - Moldova
+1542: Kirgisistan
+1543: Russian Ruble
+1544: MCO
+1545: MCO - Monaco
+1546: Usbekistan
+1547: Rwandan Franc
+1548: MNG
+1549: MNG - Mongolia
+1550: Saudi Arabian Riyal
+1551: MNE
+1552: MNE - Montenegro
+1553: Seychellois Rupee
+1554: Bangladesch
+1555: Sudanese Pound
+1556: MAR
+1557: MAR - Morocco
+1558: Swedish Krona
+1559: MOZ
+1560: MOZ - Mozambique
+1561: Indien
+1562: Singapore Dollar
+1563: MMR
+1564: MMR - Myanmar
+1565: Malediven
+1566: NAM
+1567: NAM - Namibia
+1568: NPL
+1569: NPL - Nepal
+1570: Somali Shilling
+1571: NLD
+1572: NLD - Netherlands
+1573: NZL
+1574: NZL - New Zealand
+1575: Asia-NearEast
+1576: Sao Tomean Dobra
+1577: NIC
+1578: NIC - Nicaragua
+1579: Armenien
+1580: Salvadoran Colon
+1581: NER
+1582: NER - Niger
+1583: Aserbaidschan
+1584: Syrian Pound
+1585: NGA
+1586: NGA - Nigeria
+1587: Thai Baht
+1588: NOR
+1589: NOR - Norway
+1590: Georgien
+1591: Turkmenistani Manat
+1592: OMN
+1593: OMN - Oman
+1594: Irak
+1595: Tunisian Dinar
+1596: PAK
+1597: PAK - Pakistan
+1598: Turkish Lira
+1599: PAN
+1600: PAN - Panama
+1601: Trinidadian Dollar
+1602: PNG
+1603: PNG - Papua New Guinea
+1604: Jemen
+1605: PRY
+1606: PRY - Paraguay
+1607: Jordanien
+1608: Taiwan New Dollar
+1609: PER
+1610: PER - Peru
+1611: Katar
+1612: Tanzanian Shilling
+1613: PHL
+1614: PHL - Philippines
+1615: Ukrainian Hryvnia
+1616: POL
+1617: POL - Poland
+1618: Libanon
+1619: Ugandan Shilling
+1620: PRT
+1621: PRT - Portugal
+1622: Uruguayan Peso
+1623: PRI
+1624: PRI - Puerto Rico
+1625: Palästina
+1626: Palestine
+1627: Uzbekistani Som
+1628: QAT
+1629: QAT - Qatar
+1630: Republik Zypern
+1631: Republic of Cyprus
+1632: Venezuelan Bolívar
+1633: REU
+1634: REU - Réunion
+1635: Saudi-Arabien
+1636: Vietnamese Dong
+1637: ROU
+1638: ROU - Romania
+1639: Syrien
+1640: Samoan Tala
+1641: RUS
+1642: RUS - Russian Federation
+1643: Türkei (asiatischer Teil)
+1644: Turkey (Asian part)
+1645: Central African CFA Franc BEAC
+1646: RWA
+1647: RWA - Rwanda
+1648: Vereinigte Arabische Emirate
+1649: East Caribbean Dollar
+1650: WSM
+1651: WSM - Samoa
+1652: Brunei
+1653: Asia-SouthEast
+1654: IMF Special Drawing Rights
+1655: SMR
+1656: SMR - San Marino
+1657: Indonesien
+1658: CFA Franc
+1659: SAU
+1660: SAU - Saudi Arabia
+1661: Kambodscha
+1662: CFP Franc
+1663: SEN
+1664: SEN - Senegal
+1665: Yemeni Rial
+1666: SRB
+1667: SRB - Serbia
+1668: South African Rand
+1669: SLE
+1670: SLE - Sierra Leone
+1671: Zambian Kwacha
+1672: SGP
+1673: SGP - Singapore
+1674: Osttimor
+1675: East Timor
+1676: Zimbabwean Dollar
+1677: SVK
+1678: SVK - Slovakia
+1679: Philippinen
+1680: SVN
+1681: SVN - Slovenia
+1682: Singapur
+1683: SOM
+1684: SOM - Somalia
+1685: ZAF
+1686: ZAF - South Africa
+1687: Vietnam
+1688: Island
+1689: Europe-North
+1690: SSD
+1691: SSD - South Sudan
+1692: Norwegen
+1693: ESP
+1694: ESP - Spain
+1695: Schweden
+1696: LKA
+1697: LKA - Sri Lanka
+1698: Finnland
+1699: SDN
+1700: SDN - Sudan
+1701: Dänemark
+1702: SUR
+1703: SUR - Suriname
+1704: Bulgarien
+1705: Europe-East
+1706: SWE
+1707: SWE - Sweden
+1708: Moldau
+1709: CHE
+1710: CHE - Switzerland
+1711: Rumänien
+1712: SYR
+1713: SYR - Syrian Arab Republic
+1714: Slowakei
+1715: TWN
+1716: TWN - Taiwan, Province of China
+1717: TJK
+1718: TJK - Tajikistan
+1719: Polen 
+1720: Poland 
+1721: TZA
+1722: TZA - Tanzania
+1723: Tschechien
+1724: Czech Republic
+1725: THA
+1726: THA - Thailand
+1727: TLS
+1728: TLS - Timor-Leste
+1729: Lettland
+1730: TGO
+1731: TGO - Togo
+1732: Litauen
+1733: TON
+1734: TON - Tonga
+1735: Estland
+1736: TUN
+1737: TUN - Tunisia
+1738: Albanien
+1739: Europe-South
+1740: TUR
+1741: TUR - Turkey
+1742: TKM
+1743: TKM - Turkmenistan
+1744: Bosnien und Herzegowina
+1745: UGA
+1746: UGA - Uganda
+1747: UKR
+1748: UKR - Ukraine
+1749: Griechenland
+1750: ARE
+1751: ARE - United Arab Emirates
+1752: Italien
+1753: GBR
+1754: GBR - United Kingdom of Great Britain and Northern Ireland
+1755: Kroatien
+1756: USA - United States of America
+1757: URY
+1758: URY - Uruguay
+1759: UZB
+1760: UZB - Uzbekistan
+1761: Nordmazedonien
+1762: Northern Macedonia
+1763: VEN
+1764: VEN - Venezuela
+1765: VNM
+1766: VNM - Viet Nam
+1767: ESH
+1768: ESH - Western Sahara
+1769: Serbien
+1770: YEM
+1771: YEM - Yemen
+1772: Slowenien
+1773: ZMB
+1774: ZMB - Zambia
+1775: Spanien
+1776: ZAN
+1777: ZAN - Zanzibar
+1778: Vatikanstadt
+1779: Vatican City
+1780: ZWE
+1781: ZWE - Zimbabwe
+1782: Belgien
+1783: Europe-West
+1784: Deutschland
+1785: Frankreich
+1786: Luxemburg
+1787: Niederlande
+1788: Österreich
+1789: Schweiz
+1790: UK 
+1791: Australien
+1792: Neuseeland
+1793: Oceanien
+1794: Oceania
+1795: Translated with www.DeepL.com/Translator (free version)
+1796: Expected Loss Calculation - Marine Cargo - Pricing Calculation
+1797: General Calculations
+1798: Currency Conversion
+1799: Client Set-up
+1800: Curreny Code
+1801: Risk Country Code
+1802: FX rate to EUR
+1803: Industry Code
+1804: MIDMARKET_CLIENT
+1805: Type of Cover
+1806: Transports incl. Storage in the ordinary Cause of Transit
+1807: Coverage Flag
+1808: Exposure Information
+1809: Cargo TO Policy Currency
+1810: Cargo Turnover EUR
+1811: Turnover &gt; 100m?
+1812: Risk Modifiers
+1813: Share
+1814: Filled correctly?
+1815: Geographical Scope
+1816: National
+1817: Theft
+1818: Temperatured
+1819: Expected Profit
+1820: If MidMarket
+1821: Type of Transportation for Retention
+1822: Temperature sensitive
+1823: Policy Currency
+1824: Limited Proportional Deductible
+1825: Prop Deductible %
+1826: Minimum Policy Currency
+1827: Minimum EUR
+1828: Maximum Policy Currency
+1829: Maximum EUR
+1830: Deductible annual aggregate Policy
+1831: Deductible Annual aggregate EUR
+1832: General Limit
+1833: General Deductible
+1834: Sublimit Type of Transportation
+1835: Deductible Type of Transportation
+1836: Sublimit Transports Temperature Controlled
+1837: Deductible Transports Temperature Controlled
+1838: Input relevant?
+1839: Storage in the ordinary Course of Transit 
+1840: Expected Attritional Losses
+1841: Loss Count
+1842: Loss Severity
+1843: Expected Hurdle Base
+1844: Expected Severity Base
+1845: Expected Severity Mu
+1846: Expected ZeroCount Base
+1847: Expected Severity Sigma
+1848: Expected Severity Sigma^2
+1849: Inverse Logit
+1850: Expected Severity 1/2 Sigma^2
+1851: ZeroCount
+1852: Adj. for Industry
+1853: Adj. for IP
+1854: Adj. for Turnover Size
+1855: Adj. for Turnover Size (Additive with Mu)
+1856: Expected Loss Count Modelled
+1857: Expected Severity Modelled
+1858: Adjustment for Risk Modifiers
+1859: Base-Factor
+1860: Type of Goods (Sub-)Class 1
+1861: Adj. for Type of Goods
+1862: Type of Goods (Sub-)Class 2
+1863: Type of Goods (Sub-)Class 3
+1864: Adj. for Transport Type Mid-Market
+1865: Adj. for Transport Type (Additive with Mu)
+1866: Adj. for Transport Type non Mid-Market
+1867: Adj. for Type of Packaging 
+1868: Adj. for Geographical Scope Mid-Market
+1869: Adj. for Geographical Scope (Additive with Mu)
+1870: Adj. for Geographical Scope non Mid-Market
+1871: Adj. for Basis of Valuation 
+1872: Adjustment for Conditions
+1873: Adj. for Storage Day Limit
+1874: Sigma^2 / 2
+1875: Sigma
+1876: Helping Variables
+1877: d_min / E[X]
+1878: d_min / (d_prop * E[X])
+1879: d_max / (d_prop * E[X])
+1880: Summand 1
+1881: Summand 2
+1882: Summand 3
+1883: Adj. for Retention
+1884: Frequency MidMarket
+1885: Frequency Non-MidMarket
+1886: Adjustments MidMarket
+1887: Adjustments Non-MidMarket
+1888: Frequency overall
+1889: Adjustments except Retention
+1890: Deductible to use
+1891: Mu adjusted
+1892: Aggregate to use
+1893: ELP to use for AAD
+1894: P_FAD(d)
+1895: n'
+1896: roundup(n')
+1897: d'
+1898: P(X &gt; d')
+1899: P( N &gt; roundup(n') )
+1900: P(X &gt; (n' + 1 - roundup(n')) * d')
+1901: E(N || N &gt; n')
+1902: Adjustment
+1903: Total adjustment absolute
+1904: Expected Loss Summary
+1905: in EUR
+1906: Rate
+1907: Factor
+1908: Expected Loss Base
+1909: Adj. for Transport Type 
+1910: Adj. for Geographical Scope 
+1911: Adj. For Type of Goods
+1912: Adj. for Limit
+1913: Adj. for Annual Aggregate
+1914: Expected Loss Mid Market
+1915: Expected Loss Modelled
+1916: Expected Loss non MidMarket
+1917: Expected Loss used
+1918: Expected Large Losses
+1919: Expected Loss Count Base
+1920: &lt;- not modelled yt, expert judgement?
+1921: Frequency Mean Mid-Market
+1922: Severity Mean Mid-Market
+1923: Frequency Mean non Mid-Market
+1924: Severity Mean non Mid-Market
+1925: Frequency Mean  before TransportationType:
+1926: Severity Mean before TransportationType
+1927: Pareto
+1928: Frequency Mean
+1929: Severity Mean
+1930: shape parameter (alpha)
+1931: scale parameter (threshold)
+1932: FGU-Limit
+1933: Severity Mean incl Limit
+1934: Severity Mean incl Limit + Retention
+1935: Expected Loss FGU
+1936: EL incl Limit
+1937: EL incl Limit+Retention
+1938: GPD
+1939: Scale Parameter
+1940: location parameter
+1941: Lognormal
+1942: Mu
+1943: Expected Loss
+1944: PARETO LLL (similar to BC)
+1945: Attachment Point Used
+1946: Attachment Point Minimum Used?
+1947: Pareto-Alpha
+1948: Return Period for loss &gt; Attachment Point
+1949: Difference to Attachment Point
+1950: Gross Limit EUR
+1951: Expected Value for Pareto Loss in [Attachment Point;Limit]
+1952: Expected Value incl. Difference
+1953: Attachment Point Gross
+1954: Expected Value for Pareto Loss incl. RP
+1955: Expected Value for Pareto Loss incl. Difference
+1956: Attachment Point Gross Minimum
+1957: Factor Return Period Adjustment
+1958: Expected Loss Pareto
+1959: Return Period Adjusted
+1960: Expected Combined Losses
+1961: Combined Loss Model
+1962: Modelling Large Loss Threshold EUR
+1963: Expected Combined Loss Base
+1964: Expected Combined Loss
+1965: There are no further adjustments on combined loss level.
+1966: Refrigerated
+1967: War Land &amp; Sea
+1968: War Air
+1969: Adj. for War
+1970: Strike Land &amp; Sea
+1971: Strike Air
+1972: Adj. for Strike
+1973: Expected Loss Before UW-Adj.
+1974: Adj. For war and strike
+1975: Permanent Storage excluding modelled NatCat
+1976: Not available, additional coverages are non-modelled or using simple methodology w/o exposure measure.
+1977: No split into attritional and large losses.
+1978: Loadings
+1979: TO DO
+1980: % of TP before Brokerage
+1981: Values from ELC (dark) or Inputs (bright) by user
+1982: decentralized expenses (operation / claims)
+1983: Decentral Administrativ and Acquisition Costs
+1984: centralized expenses (operation / claims)
+1985: Decentral Loss Adjustment Expenses
+1986: Central Administrativ and Acquisition Costs
+1987: MinMargin:
+Cost of Capital + IVC Loading + RI expenses
+- Discount
+1988: Central Loss Adjustment Expenses
+1989: Volatiliy Loading
+1990: Results
+1991: Modelling Large Loss Threshold Policy Currency
+1992: Transport
+1993: % of Std. Dev
+1994: Default Vola Loading
+1995: Volatility Loading
+1996: Risk Premium
+1997: Expenses
+1998: Technical Premium before Brokerage 
+1999: Commercial Adjustment absolute
+2000: Commercial Adjustment relative
+2001: Commercial Adjustment 
+2002: Number of countries for war clause
+2003: Is this tool a published one?
+2004: Geographical Scope Row
+2005: Purchase/Shipment filled incorrect?
+2006: GeoScope FROM filled incorrect?
+2007: GeoScope TO filled incorrect?
+2008: Row is filled correctly?
+2009: Geographical Scope share filled correctly
+2010: All country fields for war filled?
+2011: Change of save location to Sharepoint activated?
+2012: Type of Goods share filled correctly
+2013: Number of countries for strike and riot clause
+2014: Turnover relevant for Cargo missing but Turnover filled
+2015: All country fields for strike and riot filled?
+2016: Number of geoScope rows
+2017: MidMarket: No
+2018: MidMarket: Yes
+2019: range_name
+2020: offset_row
+2021: offset_col
+2022: value
+2023: \selected_typeofgoods_Class1
+2024: \selected_typeofgoods_ThClass1
+2025: \selected_typeofgoods_Class2
+2026: \selected_transportationtype_Air
+2027: transportationtype_Error
+2028: =IF(SUM(C24:C26)&lt;&gt;100%;"Transportation type split is currently " &amp;TEXT(SUM(C24:C26);"0%")&amp;"
+It must add up to 100%. Please check!";"")
+2029: \selected_typeofgoods_Class1_Split
+2030: =IF( IF( Type_of_goods_filled_1; 1; 0) * \selected_typeofgoods_Class1_Split + IF( Type_of_goods_filled_2; 1; 0) * \selected_typeofgoods_Class2_Split + IF( Type_of_goods_filled_3; 1; 0) * \selected_typeofgoods_Class3_Split &lt;&gt;100%; "Type of goods split is currently " &amp;TEXT(  IF( Type_of_goods_filled_1; 1; 0) * \selected_typeofgoods_Class1_Split + IF( Type_of_goods_filled_2; 1; 0) * \selected_typeofgoods_Class2_Split + IF( Type_of_goods_filled_3; 1; 0) * \selected_typeofgoods_Class3_Split; "0%")&amp;"
+It must add up to 100%. Please check!";"")
+2031: \selected_typeofgoods_Class2_Split
+2032: \selected_conditions_deductibleNatCat_General
+2033: =IF(\selected_currency="";"";CONCATENATE("Max in ";INDEX(\reference_currency_code;MATCH(\selected_currency;INDEX(\reference_currency_longname;;);0);1)))
+2034: \selected_limitdays_storage_transport
+2035: Explanation
+2036: Example Goods
+2037: Beispielkunden
+2038: Linde
+2039: Leoni, Continental Inc., Bosch, Schaeffler
+2040: Carl Zeiss Inc.
+2041: Adidas, Nike
+2042: 50Hertz
+2043: Input:
+2044: Output:
+2045: ID_ORIG
+2046: ID_CUSTOMER
+2047: ID_INSURER
+2048: NAME
+2049: ISO3_ORIG
+2050: REGION_ORIG
+2051: ZIP_ORIG
+2052: CITY_ORIG
+2053: STREET_ORIG
+2054: STREET_NO_ORIG
+2055: Y_LAT_ORIG
+2056: X_LNG_ORIG
+2057: COQ_ORIG
+2058: LIMIT_LIABILITY_ORIG
+2059: AVG_VALUE_ORIG
+2060: CURRENCY_ORIG
+2061: TO_EUR_FROM_ORIG
+2062: ID_MOD
+2063: CONTINENT_MOD
+2064: CONTINENT_ID
+2065: SUBCONTINENT_MOD
+2066: SUBCONTINENT_ID
+2067: COUNTRY_MOD
+2068: ISO3_MOD
+2069: COUNTRY_ID
+2070: REGION_MOD
+2071: REGION_ID
+2072: SUBREGION_MOD
+2073: SUBREGION_ID
+2074: DISTRICT_MOD
+2075: ZIP_MOD
+2076: CITY_MOD
+2077: STREET_MOD
+2078: STREET_NO_MOD
+2079: Y_LAT_MOD
+2080: X_LNG_MOD
+2081: COQ_MOD
+2082: LIMIT_LIABILITY_MOD
+2083: TO_EUR_FROM_MOD
+2084: AVG_VALUE_MOD
+2085: LIMIT_LIABILITY_EUR
+2086: AVG_VALUE_EUR
+2087: NATCAT_SCORE
+2088: EARTHQUAKE
+2089: EARTHQUAKE_SCORE
+2090: VULCANO
+2091: VULCANO_SCORE
+2092: TROPICAL_CYCLONE
+2093: TROPICAL_CYCLONE_SCORE
+2094: EXTRA_TROPICAL_STORM
+2095: EXTRA_TROPICAL_STORM_SCORE
+2096: TORNADO
+2097: TORNADO_SCORE
+2098: LIGHTNING
+2099: LIGHTNING_SCORE
+2100: FLOOD
+2101: FLOOD_SCORE
+2102: FLOOD_DEPTH_10
+2103: FLOOD_DEPTH_20
+2104: FLOOD_DEPTH_50
+2105: FLOOD_DEPTH_100
+2106: FLOOD_DEPTH_200
+2107: FLOOD_DEPTH_500
+2108: FLOOD_ALTERN
+2109: FLOOD_SOURCE
+2110: TSUNAMI
+2111: TSUNAMI_SCORE
+2112: TSFLOOD
+2113: TSFLOOD_SCORE
+2114: THERMAL_ANOM
+2115: THERMAL_ANOM_SCORE
+2116: HAZARD_AREA
+2117: NEXT_COAST_KM
+2118: NEXT_FAULT_KM
+2119: NEXT_NUCLEAR_PLANT_KM
+2120: POPULATION
+2121: Daimler AG Niederlassung Hannover - Langenhagen
+2122: Langenhagen
+2123: Europa
+2124: Westeuropa
+2125: Niedersachsen
+2126: KATRISK
+2127: FLC Passau
+2128: Passau
+2129: 14c
+2130: Bayern
+2131: EvoBus GmbH
+2132: Mannheim
+2133: 21-57
+2134: Baden-Württemberg
+2135: EvoBus GmbH - Mannheim
+2136: EvoBus GmbH - Neu-Ulm
+2137: Lf
+2138: Blatt
+2139: Zelle
+2140: Was
+2141: Verantwortlich
+2142: Input
+2143: Alle Matrix-Zellen
+2144: Allen Zellen Einzelnamen vergeben
+2145: ok
+2146: C39
+2147: muss es nicht "Base" heißen?
+2148: Marc: ist so ok
+2149: G6, G8, C64
+2150: Dropdown yes/no referenziert jetzt auf die benante Liste "D_YesNo" im Blatt "References"
+Präfix "D" in meiner Nomenklatur für Dropdownliste
+2151: References
+2152: Zeile 4
+2153: Warum ist da eine Leerzeile zwischen Spaltenkopf und Inhalt? --&gt; wegmachen
+2154: weg --&gt; ok
+2155: Zeile 1
+2156: ist die nötig? Steht ja im Reiter unten --&gt; wegmachen. Tabellen sollten in der ersten Zeile anfangen. Dann erspart man sich in der Folge die Suche nach dem Tabellenkopf und dem Beginn der Einträge
+2157: passt so
+2158: alles
+2159: Was passiert mit der Datei, wenn sie gesammelt wurde?
+2160: Dateien werden über Dateinamen und Speicherdatum identifiziert --&gt; erl
+2161: Was passiert, wenn eine bereits gesammelte Datei vom Underwriter geändert wird?
+2162: Datensatz wird aktualisiert, wenn Speicherdatum geändert wurde --&gt; erl
+2163: Was passiert, wenn der Underwriter eine weitere Option anbieten will?
+2164: Button in der CaTa-Datei, der in der Original-Datei einen Vermerk macht und eine Kopie als neue Datei abspeichert. --&gt; erl
+2165: Was passiert, wenn eine Datei gelöscht wird (Testfall oder so)?
+2166: Makro prüft Liste, ob Dateien noch da sind und kennzeichnet sie in der Status-Spalte --&gt; erl
+2167: Besteht Interesse, Infos aus der Sammeldatei in die Dispo-Analyse zu übertragen.
+2168: bleibt nur in Sammeldatei
+2169: Eingabefelder
+2170: Mousover-Infos zur Eingabe
+2171: ggf. (einige sind wahrscheinlich durch Copy/Paste-Fehler falsch oder veraltet
+2172: Währung
+2173: Werden Euroäquivalent-Felder benötigt?
+2174: evtl. später in der Sammel-Liste
+2175: Spalte W
+2176: In der ursprünglichen Liste Type of Goods war eine Spalte für Temperaturempfindlich. Soll die in der neuen Liste und Anzeige im Input-Blatt auch vorhanden sein??
+2177: wird nicht gebraucht
+2178: Währungen
+2179: Soll die Währungsliste so umgestellt werden, dasss oben die 5 wichtigesten Währungen durch einen Strich vom alphabetischen Rest getrennt werden?
+2180: erl
+2181: Dateiname
+2182: Nomenklatur: 
+JJJJ-MM-TT_hh-mm_Partner (25 Zeichen)_Option-1.xlsm
+2183: wird automatisch erzeugt. Speicherort muss ausgewählt werden. --&gt; erl
+2184: policyholder
+2185: umbenennen in partner
+2186: Type of Goods 2
+2187: es fehlen anscheinend noch einige Unterpunkte
+2188: erledigt und angepasst (Stephan)
+2189: alle
+2190: Soll der Schreibschutz bei abgelehnten und angenommenen Dateien mit oder ohne Passwort gesetzt werden?
+2191: ohne
+2192: Das Zell-Analyse-Makro zeigt (gepunktet), dass nach der Änderung/Erweiterung der Eingabefelder in 
+2193: Input
+2194:  die Formel-Verknüpfung in 
+2195: Output
+2196:  und 
+2197: Algorithm
+2198:  nachgezogen werden muss
+2199: C4
+2200: Referiert auf eine Liste NACE-Codes. Feldbezeichner heißt NAICS-Code
+2201: Referenzliste muss NAICS heißen/sein
+2202: Ansprechpartner: Sylvia Heitmann oder Stephan Germer für Info, welche Liste zu verwenden ist
+2203: M4
+2204: Sollte nicht auch ein Status "offered" eingeführt werden?
+Der kann dann steuern, dass man hier nichts mehr ändern kann, sondern eine neue Option erstellen muss.
+2205: Stephan: Find ich gut --&gt; erl
+2206: aus der Mail vom 09.09.2021
+2207: Erzeugung einer eindeutigen „Quotierungs-ID“, die bei erfolgreichem Abschluss im Bestandssystem erfasst werden kann, damit das CaTa-Tool und der Vertrag verknüpft werden können. 
+2208: machbar. Idee. Wie Dateiname und Übernahme im Sammeltool
+Check mit APTP-Vorgaben z.B. in Geras (Ansprechpartner Marc Wilsch für Transport) --&gt; erl
+2209: Metainformationen zu Versions- und ggf. Parameterversionen anzeigen.
+2210: Version reicht aus --&gt; erl
+2211: „Umkehrfunktion“ des Einsammelns, also die mehr oder weniger dispositiv gespeicherten Daten in das CaTa-Tool einspielen – wichtig, wenn man bei neuen Parametern den Effekt bei alten Quotierungen sehen möchte.
+2212: Vorhanden durch "Öffnen-Funktion aus Sammeltool
+2213: Außerdem kommen sicherlich noch einige Anfragen zur Usability von den Nutzern, also sowas wie bedingte DropDowns wie schon besprochen.
+2214: Tool ist flexibel und modular aufgebaut. Änderungen und Erweiterungen sind jederzeit möglich.
+2215: User speichern, Letzten User übertragen
+2216: könnte interessant sein, aber nicht einbauen, da Datenschutz kritisch
+2217: Zelle / Bereich
+2218: Variable
+2219: Wert
+2220: allgemein
+2221: Farbe
+2222: Fomel
+2223: Grundordner Sharepoint
+2224: https://talanx.sharepoint.com/sites/GlobalActuarialPricing/share_marine/CaTaUsecases
+2225: Formel gibt eine Fehlermeldung aus
+2226: \\talanx.sharepoint.com@SSL\DavWWWRoot\sites\GlobalActuarialPricing\share_marine\CataUsecases
+2227: Feldbezeichner
+2228: Eingabefeld (alle Arten von Eingabefeld sind fett gerahmt)
+2229: Alter Dateiname
+2230: Eingabefeld mit Datenprüfung
+2231: Neuer Dateiname
+2232: Neue Versionssnummer
+2233: V46
+2234: Eingabefeld mit Dropdown
+2235: Formel, die überschrieben werden darf
+2236: Grundordner Teams
+2237: https://talanx.sharepoint.com/sites/CaTa-Dataforriskassessment/Freigegebene Dokumente/General/Pricing Tools/
+2238: manuell überschriebene Formel
+2239: vergessenes Pflichtfeld (Eingabe)
+2240: vergessenes Pflichtfeld (Dropdown)
+2241: Fehlerhat ausgefüllte Zellen und diesbezügliche Warnhinweise
+2242: Feld wird von Makro befüllt
+2243: Bereichstitel
+2244: Unterbereichstitel
+2245: Unterunterbereichstitel
+2246: Letzte Zeile einer Liste. Diese Liste darf dann nur oberhalb der braunen Zeile verlängert werden, damit die Matrix für eine Formel nicht zerstört wird.
+2247: im Bereich der Argos-Liste Hinweis auf eine abweichende Währung.
+2248: A80 : A89
+2249: Hier wird ausgewählt, ob die entsprechende Zeile verwendet werden soll.
+Standardmäßig werden die Werte für diese Zeilen per Formel aus der Zeile 35 geholt.
+Diese Formeln können aber überschrieben werden.
+Wenn man eine manuell befüllte Zeile wieder auf "No" setzt, werden die manuell eingefügten Werte gelöscht.
+2250: A85
+2251: Wenn diese Zeile auf "Yes" gestellt wird, wird darunter ein Dropdown für eine Länderangabe eingeblendet.
+2252: A89
+2253: Mit diesem Button können weitere Länderzeilen unterhalb der Kriegsklausel und der Streikklausel eingefügt werden.
+2254: C49 : I57
+2255: Zeilen, die auf "No" stehen, sind grau hinterlegt
+2256: Save option
+2257: Speicher-Dialog wird mit einem 
+2258: automatisch erzeugten Dateinamen
+2259:  aufgerufen. Bitte Speicherort auswählen. 
+2260: Bitte Dateinamen nicht ändern! 
+2261: Another option
+2262: Wenn der Kunde eine weitere Option wünscht, erzeugt man mit diesem Button am gleichen Speicherort eine Kopie dieser Datei mit Option 2 und ansonsten identischen Einträgen, die man 
+2263: anschließend
+2264:  ändern kann. Abschließend muss nor noch normal gespeichert werden.
+2265: ARGOS import
+2266: Button importiert eine frei wählbare ARGOS-Liste und verlängert ggf. den Bereich der Argos-Liste im Blatt 
+2267: Input
+2268: Listen, die in Dropdown-Zellen hinterlegt sind oder für SVERWEIS-Berechnungen verwendet werden.
+2269: Zellen, die in der Originalversion (vor dem Analyse-Makro) rot eingefärbt waren (warum auch immer), nach dem Analyse-Makro aber teilweise andere Färbungen bekommen haben.
+2270: Parameter
+2271: zweifelhafte Folgebeziehung
+2272: Sparte:
+2273: CaTa
+2274: General Information
+2275: Colour coding
+2276: Mandatory Input
+2277: xxx
+2278: Output / Calculated field
+2279: Field used in algorithm
+2280: Notations
+2281: &gt; References: lists and lookup values that are used in the front-end; named ranges start with "\reference"
+2282: &gt; Parameters: constant values, lists and lookup values that are used in the pricing calculations; named ranges start with "\parameter"
+2283: &gt; Algorithm: This sheet contains the actual pricing calculations
+2284: Questions
+2285: Industry Classifications
+2286: &gt; Is it appropriate to use NACE classifications globally, e.g. US market or Asia
+2287: &gt; What level of granularity shall we use?
+2288: &gt; Compatibility with "old" one.partner/one.policy-industry information?
+2289: Transport Segments
+2290: &gt; Should the pricing tool allow the pricing of more than one transport segments in case the client's transport activities are diverse?
+2291: Insured Object vs Risk Modifier
+2292: &gt; shall we set up some of the risk modifiers as insured objects? E.g. Land/Sea/air Transports - those have their own deductibles and limits
+2293: Outputs
+2294: &gt; What interim results do we want to display?
+2295: Coding of Input
+2296: &gt; Do we want to convert some of the inputs into codes? (e.g. Packaging Type, basis of Valuation)
+2297: To Do
+2298: Calculation for other coverages
+2299: &gt; Permanent Storage to be aligned with Property Pricing Module
+2300: &gt; Additional coverage non-modelled / EL input by UW
+2301: &gt; NatCat implemented as external models
+2302: Front-end
+2303: &gt; optimization of data entry, e.g. Industry or Geographical spread, or tick boxes instead of Y/N selections
+2304: &gt; alignment of all reference lists with UW and surrounding systems
+2305: &gt; Default values
+2306: &gt; show &amp; hide functionality
+2307: Input validations
+2308: &gt; in the front-end
+2309: &gt; during the calculation
+2310: Data Management
+2311: &gt; Align Pricing Data Model with overall Company Data Model
+2312: &gt; Modell Version  
+2313: &gt; Pricing ID  
+2314: &gt; UWWB ID  
+2315: &gt; New/Renewal  
+2316: &gt; Last modified when and by whom?
+2317: &gt; etc
+2318: Oberkategorie
+2319: Unterkategorie
+2320: Erklärung
+2321: Beispielgüter
+2322: Waren für Endkunden, welche sich im allgemeinen Haushalt befinden.
+2323: Schränke, Tische, Stühle, Besteck, Porzellan, Gläser, Allgemeine Haushaltsgüter, Kinderwagen, Marquise
+2324: Goods for end customers, which are in the general household.
+2325: Cupboards, tables, chairs, cutlery, porcelain, glasses, general household goods, baby carriages, marquise
+2326: Verderbliche Produkte für Endverbraucher
+2327: Nicht der Milchtanker, aber die Milchpackungen.
+Milch, Butter, Blumen, Fleisch (abgepackt), Eier.
+2328: Perishable products for end consumers
+2329: Not the milk tanker, but the milk packs.
+Milk, butter, flowers, meat (packaged), eggs.
+2330: Errichtung von Produktions- oder Förderstätten.
+Als Abgrenzung zum Maschinenbau handelt es sich hier um unbewegliche Güter, die ihre Lebenszeit an einem fest installierten Ort verbringen.
+2331: Turbinenwerk, Wasserkraftwerk
+2332: Construction of production or extraction sites.
+As a distinction from mechanical engineering, these are immovable goods that spend their lifetime in a permanently installed location.
+2333: Turbine plant, hydroelectric power station
+2334: Hybridfahrzeuge zählen hierbei zu den Verbrennern.
+2335: Hybrid vehicles are classified as internal combustion engines.
+2336: Fahrzeuge älter als 30 Jahre.
+2337: Vehicles older than 30 years.
+2338: Einzelne Bauteile oder ganze Baugruppen für Automobilhersteller.
+2339: Lenkrad, Reifen, Sitze
+2340: Individual components or entire assemblies for automotive manufacturers.
+2341: Steering wheel, tires, seats
+2342: Abstandssensoren, Radio
+2343: Distance sensors, radio
+2344: Baumaterialen hauptsächlich im Bereich Holz und Pflanzenfasern. Werden geerntet, wachsen nach.
+2345: Holz, Naturfasern, Leinen, Flachs
+2346: Building materials mainly in the field of wood and plant fibers. Are harvested, grow back.
+2347: Wood, natural fibers, linen, flax
+2348: Werden gefördert. Unterliegen keiner großen Aufbereitung vor dem Einsatz im Bauprojekt.
+2349: Kalk, Natursteine, Marmor, Sandstein, Lehm, Schiefer
+2350: Are mined. Are not subject to much preparation before use in the construction project.
+2351: Lime, natural stones, marble, sandstone, clay, slate
+2352: Güter, die größerer Aufbereitung vor dem Einsatz im Bauprojekt unterliegen.
+2353: Ziegelstein, Fliesen, Dachziegel
+2354: Goods subject to greater preparation before use in the construction project.
+2355: Brick, tile, roof tile
+2356: Güter im oder am Bau, die größtenteils aus Glas bestehen.
+2357: Fassadenspiegel, Fensterscheiben, Glastür
+2358: Goods in or on construction that are largely made of glass.
+2359: Facade mirror, window panes, glass door
+2360: Ware, die unverpackt als Schüttgut vorliegt.
+2361: Kies, Kohle, Stahl- / Eisen- / Erze, Getreide, Kaffee, Zucker, Bananen
+2362: Goods that are unpackaged in bulk.
+2363: Gravel, coal, steel- / iron- / ores, grain, coffee, sugar, bananas
+2364: Meist unverpackt. Ware, die einzeln am Stück transportiert wird.
+2365: Stahlträger, Stahlbleche, Baumstämme
+2366: Mostly unpacked. Goods transported individually in one piece.
+2367: Steel beams, steel sheets, tree trunks
+2368: Phosphor, Kunststoffe, Granulat, Chemikalien in Pulverform.
+2369: Phosphorus, synthetic materials, granules, chemicals in powder form.
+2370: Lebensmittelproduzenten und deren Rohwaren (nicht verkaufsfertig).
+2371: Tanker mit Milch, Wein
+2372: Food producers and their raw materials (not ready for sale).
+2373: Tanker with milk, wine
+2374: Tanker mit Sonnenblumenöl o.Ä.
+2375: Tanker with sunflower oil or similar.
+2376: Allgemeine flüssige Waren auf Erdölbasis (nicht verkaufsfertig), deren Einsatzzweck die Verbrennung ist.
+2377: Erdöl, Benzin, Diesel, Petroleum, Heizöl
+2378: General petroleum-based liquid goods (not ready for sale), the purpose of which is combustion.
+2379: Petroleum, gasoline, diesel, kerosene, fuel oil
+2380: Allgemeine flüssige Waren zur Weiterverarbeitung oder zum Verbrauch
+2381: Frostschutzmittel
+2382: General liquid goods for further processing or use
+2383: Frost protection fluid
+2384: Gase, die von der Größenordnung auch für Endverbraucher geeignet wären.
+2385: Gasflaschen, CO2-Zylinder für Sprudelwasser, Heliumflaschen.
+2386: Gas that would also be suitable for end consumers in terms of size.
+2387: Gas cylinders, CO2 cylinders for sparkling water, helium cylinders.
+2388: Gase, die an Firmen geliefert werden.
+2389: Erdgas Tanker
+2390: Gases delivered to companies.
+2391: Natural gas tanker
+2392: Medikamente, Aspirin, Insulin, Krebsmedikamente
+2393: Medication, aspirin, insulin, cancer medication
+2394: Geräte, die medizinisch für die Diagnostik geeignet sind.
+2395: Röntgengerät, MRT, CT, Ultraschallgerät
+2396: Devices that are medically suitable for diagnostics.
+2397: X-ray machine, MRI, CT, ultrasound machine
+2398: Verbrauchsgüter der Körperpflege und Körperverschönerung.
+2399: Lippenstift, Nagellack, Mascara, Duschgel
+2400: Consumer goods of personal care and body beautification.
+2401: Lipstick, nail polish, mascara, shower gel
+2402: Produkte, die die Gesundheit fördern und der Lebensfähigkeit dienlich sind.
+2403: Krücken, Verband, Pflaster, Herzschrittmacher, Brille
+2404: Products that promote health and are conducive to viability.
+2405: Crutches, bandage, plaster, pacemaker, glasses
+2406: Vorwiegend Nahrungsergänzungsmittel; Nahrungsmittel zur Aufrechterhaltung und Förderung der Gesundheit.
+2407: Vitamintabletten, Aromatropfen, Ätherische Öle
+2408: Mainly dietary supplements; foods to maintain and promote health.
+2409: Vitamin tablets, aroma drops, essential oils
+2410: Produkte, die der Unterhaltung dienen.
+2411: Radio, Fernseher, Computer
+2412: Products that serve the purpose of entertainment.
+2413: Radio, television, computer
+2414: Produkte als Haushaltgeräte
+2415: Kühlschrank, Waschmaschine, Trockner
+2416: Products as household appliances
+2417: Refrigerator, washing machine, dryer
+2418: Technische Produkte mit wenig bis keinen beweglichen Teilen, daher tendenziell sehr bruchanfällig. Anwendungsbereich Energieerzeugnung und -steuerung.
+2419: Schaltschränke, Fotovoltaik
+2420: Technical products with little to no moving parts, therefore tend to be very susceptible to breakage. Area of application Power generation and control.
+2421: Switchboards, photovoltaics
+2422: Technische Produkte mit vielen beweglichen Teilen, tendenziell stoßresistent.
+2423: Dieselgenerator, Elektromotor
+2424: Technical products with many moving parts, tend to be shock resistant.
+2425: Diesel generator, electric motor
+2426: Produkte aus Linsen zur optischen Vergrößerung
+2427: Mikroskope, Ferngläser, Teleskop, Kameraobjektive
+2428: Optical magnification lens products
+2429: Microscopes, binoculars, telescope, camera lenses
+2430: Messysteme mit beweglichen Teilen, deren Messung mechanisch passiert (unabhängig von der Ergebnisanzeige.)
+2431: Blutdruckmessgerät, (Wasser-)Waage, Kompass, Hygrometer, Thermometer, Zollstock
+2432: Measuring systems with moving parts whose measurement happens mechanically (independent of the result display.)
+2433: Blood pressure monitor, (water) scale, compass, hygrometer, thermometer, folding rule
+2434: Messysteme ohne bewegliche Teile, deren Messung rein elektronisch passiert.
+2435: GPS-Technik, Satelliten, Lasermessgeräte, Spannungsmessgeräte
+2436: Measuring systems without moving parts, whose measurement happens purely electronically.
+2437: GPS technology, satellites, laser measuring instruments, voltage measuring instruments
+2438: Im Gegensatz zum Anlagenbau handelt es sich hierbei um beweglichere Güter.
+2439: Arbeitsmaschinen, Kraftmaschinen, Förderanlagen, Nähmaschine, Gasturbine, MAN Motoren
+2440: In contrast to plant engineering, this involves more movable goods.
+2441: Working machines, power machines, conveyors, sewing machine, gas turbine, MAN engines
+2442: Fahrzeuge mit militärischem Einsatzzweck
+2443: Panzer, U-Boot, Hubschrauber, Schiffe
+2444: Vehicles with military purpose
+2445: Tank, submarine, helicopter, ships
+2446: Gebrauchsgüter mit primär militärischem Einsatzzweck-
+2447: Helme, Westen, Waffen (ohne Munition), Stiefel, Funkgeräte, Radar
+2448: Consumer goods with a primarily military purpose
+2449: Helmets, vests, weapons (without ammunition), boots, radios, radar
+2450: Verbrauchsgüter mit explosiver oder kinetischer Zerstörungskraft
+2451: Granaten, Raketen, Patronen, Minen, Torpedos
+2452: Consumables with explosive or kinetic destructive force
+2453: Grenades, rockets, shells, mines, torpedoes
+2454: Produkte, die aus einer Druckerei kommen.
+2455: Stapel Papiere, Bücher, Zeitungen
+2456: Products that come from a printing plant.
+2457: Stacks of papers, books, newspapers
+2458: Schiff, Flugzeug, Straßenbahn, Lockomotive
+2459: Ship, airplane, streetcar, lockomotive
+2460: Güter, die für sich allein noch kein technisches Gerät darstellen, sondern erst nach Zusammenbau.
+2461: Prozessoren, Festplatten, Schaltkreise zum Einbau
+2462: Goods that by themselves do not constitute a technical device, but only after assembly.
+2463: Processors, hard disks, circuits for installation
+2464: Weitgehend fertig verarbeitete Güter; kurz vor oder bereits im Endverkauf
+2465: Jacken, T-Shirts
+2466: Largely finished goods; shortly before or already in final sale
+2467: Jackets, T-shirts
+2468: Industriekabel sowohl für mechanische Einsatzzwecke (Tragseile) als auch Kommunikationssektor (Überlandleitung).
+2469: Seekabel, Tragseile für Brücken, Spannkabel, Überlandleitungen
+2470: Industrial cables both for mechanical use (suspension cables) and communication sector (overhead line).
+2471: Submarine cables, suspension cables for bridges, tension cables, overhead lines
+2472: 1. General consumer goods
+2473: 2. Other vegetable goods
+2474: 3. Plant construction
+2475: 4. Automobile construction
+2476: 5. Building materials / Building elements
+2477: 6. Bulk goods, solid
+2478: 7. Bulk goods, liquid
+2479: 8. Bulk goods, gaseous
+2480: 9. Pharma, medicine, cosmetics, food
+2481: 10. Electronics, EDP
+2482: 11. Electrical engineering (control cabinets, etc..)
+2483: 12. Precision mechanics, optics
+2484: 13. mechanical engineering
+2485: 14. Military material / military technology / firearms
+2486: 15. paper, printed products
+2487: 16. shipbuilding, aircraft, rail (vehicles excl. automotive)
+2488: 17. technical components
+2489: 18. textiles, leather, clothing, footwear
+2490: 19. cables &amp; ropes (submarine cables, suspension cables for bridges, tension cables)
+2491: Project - containerized
+2492: Vehicles - car combustion
+2493: Organic
+2494: Loose goods (excl. chemical products) - containerized
+2495: Food (excl. fats and oils)
+2496: Containerized or smaller cargo units
+2497: Pharmaceutical products
+2498: Brown goods (e.g. entertainment technology)
+2499: Power equipment (switchboards, photovoltaics, etc.)
+2500: Lenses and lens systems
+2501: Vehicles (water, land, air)
+2502: Project - non-containerized
+2503: Vehicles - car electric
+2504: Inorganic - mined
+2505: Loose goods (excl. chemical products) - non-containerized
+2506: Fats and oils (vegetable or animal origin)
+2507: Non-containerized or larger cargo units
+2508: Medical Devices
+2509: White goods (e.g. household appliances)
+2510: Motion technology (generators, electric motors, etc.)
+2511: Measuring systems mechanical
+2512: Equipment
+2513: Serial / mass production - containerized
+2514: Vehicles - truck combustion
+2515: Inorganic - produced
+2516: Unit loads (e.g. semi-finished steel products, sheet metal)
+2517: Petrochemical products
+2518: Cosmetics
+2519: Measuring systems electronically (e.g. GPS technology, satellites)
+2520: Ammunition
+2521: Serial / mass production - non-containerized
+2522: Vehicles - truck electric
+2523: Glass elements
+2524: Chemical products - containerized
+2525: Chemical products (excl. petrochemicals)
+2526: Therapeutic products
+2527: Vehicles - camping combustion
+2528: Chemical products - non-containerized
+2529: Food and beverages (ready for sale)
+2530: Vehicles - camping electric
+2531: Vehicles - motorcycles combustion
+2532: Vehicles - motorcycles electric
+2533: Antique car
+2534: Supply industry - non-electronics
+2535: Supply industry - electronics
+2536: Type of Goods Class User Language
+2537: Type of Goods SubClass User Language
+2538: Offset for Language
+2539: Position X in above Table
+2540: Position Y in above table
+2541: Type of Goods Class Backend
+2542: Type of Goods SubClass Backend
+2543: Offset for Language GeoScope
+2544: Maximum of Language Offset
+2545: Columnwidth countrynames
+2546: Country Dropdown
+2547: Subcontinent
+2548: Countries language sorted
+2549: calc_currency_code
+2550: Algorithm!C9
+2551: calc_exposure_transport_total
+2552: Algorithm!G21
+2553: Quell-Bereichsname
+2554: Ganzzahl (Long)
+2555: Prozentwert
+2556: \selected_ipflag
+2557: Input!J4
+2558: Input!C44
+2559: Input!E44
+2560: From-To GeoScope
+2561: Share of total GeoScope
+2562: Surcharge/Discount
+2563: From-To GeoScope (Sorted)
+2564: Top 3
+2565: From
+2566: To
+2567: calc_expected_loss_polCur
+2568: Algorithm!N848
+2569: Industry sector
+2570: Stat Code / NACE-Code
+2571: Inception Date
+2572: Datum
+2573: Expiration Date
+2574: Type of Business
+2575: Nur folgende Punkte zugelassen:
+
+2576: New Business
+Renewal
+Endorsement
+2577: Regional Office
+2578: SalesProduct Version
+2579: V1_Primary_Limit_occ
+2580: Verischerungsumme
+2581: V1_Primary_Limit_agg
+2582: ggf. mehrfache Versicherungssumme
+2583: V1_Primary_Deductible_occ
+2584: V1_Primary_Deductible_agg
+2585: V1_Primary_Deductible_temp
+2586: Dezimalzahl (3 Stellen)
+2587: zeitlicher selbstbehalt in Tagen
+2588: V1_Primary_Expected_Loss_Premium
+2589: Währungsbetrag
+2590: V1_Primary_Volatility_Loading
+2591: V1_Primary_Risk_Premium
+2592: Property!
+2593: 
+
+2594: mit "0" belegen, wenn der Layer verwendet wird
+2595: V1_Primary_Technical_Premium
+2596: V1_Primary_Offered_Premium
+2597: V1_Primary_Premium_Rate
+2598: Dezimalzahl (Promille)
+2599: in Property und Engineering
+2600: V1_Primary_Uncertainty_Level
+2601: V1_Primary_Brokerage
+2602: nur in Engineering
+2603: V1_Primary_Lead_Fee
+2604: nur in Property
+2605: V1_Primary_Audit_Cost
+2606: V1_Primary_Overrider
+2607: V1_Primary_Statutory_Charges
+2608: V1_Primary_Other_Costs
+2609: V1_Primary_Type_of_Participation
+2610: Nur folgende Punkte zugelassen:
+
+2611: 100% Direct Business
+Coinsurance
+Lead
+2612: V1_Primary_HDI_Share
+2613: V1_Layer1_Limit_occ
+2614: V1_Layer1_Limit_agg
+2615: V1_Layer1_Attachment_Point
+2616: V1_Layer1_Expected_Loss_Premium
+2617: V1_Layer1_Volatility_Loading
+2618: V1_Layer1_Risk_Premium
+2619: V1_Layer1_Technical_Premium
+2620: V1_Layer1_Offered_Premium
+2621: V1_Layer1_Premium_Rate
+2622: V1_Layer1_Uncertainty_Level
+2623: V1_Layer1_Brokerage
+2624: V1_Layer1_Lead_Fee
+2625: V1_Layer1_Audit_Cost
+2626: V1_Layer1_Overrider
+2627: V1_Layer1_Statutory_Charges
+2628: V1_Layer1_Other_Costs
+2629: V1_Layer1_Type_of_Participation
+2630: V1_Layer1_HDI_Share
+2631: V1_Layer2_Limit_occ
+2632: V1_Layer2_Limit_agg
+2633: V1_Layer2_Attachment_Point
+2634: V1_Layer2_Expected_Loss_Premium
+2635: V1_Layer2_Volatility_Loading
+2636: V1_Layer2_Risk_Premium
+2637: V1_Layer2_Technical_Premium
+2638: V1_Layer2_Offered_Premium
+2639: V1_Layer2_Premium_Rate
+2640: V1_Layer2_Uncertainty_Level
+2641: V1_Layer2_Brokerage
+2642: V1_Layer2_Lead_Fee
+2643: V1_Layer2_Audit_Cost
+2644: V1_Layer2_Overrider
+2645: V1_Layer2_Statutory_Charges
+2646: V1_Layer2_Other_Costs
+2647: V1_Layer2_Type_of_Participation
+2648: V1_Layer2_HDI_Share
+2649: V1_Layer3_Limit_occ
+2650: V1_Layer3_Limit_agg
+2651: V1_Layer3_Attachment_Point
+2652: V1_Layer3_Expected_Loss_Premium
+2653: V1_Layer3_Volatility_Loading
+2654: V1_Layer3_Risk_Premium
+2655: V1_Layer3_Technical_Premium
+2656: V1_Layer3_Offered_Premium
+2657: V1_Layer3_Premium_Rate
+2658: V1_Layer3_Uncertainty_Level
+2659: V1_Layer3_Brokerage
+2660: V1_Layer3_Lead_Fee
+2661: V1_Layer3_Audit_Cost
+2662: V1_Layer3_Overrider
+2663: V1_Layer3_Statutory_Charges
+2664: V1_Layer3_Other_Costs
+2665: V1_Layer3_Type_of_Participation
+2666: V1_Layer3_HDI_Share
+2667: V1_Layer4_Limit_occ
+2668: V1_Layer4_Limit_agg
+2669: V1_Layer4_Attachment_Point
+2670: V1_Layer4_Expected_Loss_Premium
+2671: V1_Layer4_Volatility_Loading
+2672: V1_Layer4_Risk_Premium
+2673: V1_Layer4_Technical_Premium
+2674: V1_Layer4_Offered_Premium
+2675: V1_Layer4_Premium_Rate
+2676: V1_Layer4_Uncertainty_Level
+2677: V1_Layer4_Brokerage
+2678: V1_Layer4_Lead_Fee
+2679: V1_Layer4_Audit_Cost
+2680: V1_Layer4_Overrider
+2681: V1_Layer4_Statutory_Charges
+2682: V1_Layer4_Other_Costs
+2683: V1_Layer4_Type_of_Participation
+2684: V1_Layer4_HDI_Share
+2685: V1_Layer5_Limit_occ
+2686: V1_Layer5_Limit_agg
+2687: V1_Layer5_Attachment_Point
+2688: V1_Layer5_Expected_Loss_Premium
+2689: V1_Layer5_Volatility_Loading
+2690: V1_Layer5_Risk_Premium
+2691: V1_Layer5_Technical_Premium
+2692: V1_Layer5_Offered_Premium
+2693: V1_Layer5_Premium_Rate
+2694: V1_Layer5_Uncertainty_Level
+2695: V1_Layer5_Brokerage
+2696: V1_Layer5_Lead_Fee
+2697: V1_Layer5_Audit_Cost
+2698: V1_Layer5_Overrider
+2699: V1_Layer5_Statutory_Charges
+2700: V1_Layer5_Other_Costs
+2701: V1_Layer5_Type_of_Participation
+2702: V1_Layer5_HDI_Share
+2703: V1_Layer6_Limit_occ
+2704: V1_Layer6_Limit_agg
+2705: V1_Layer6_Attachment_Point
+2706: V1_Layer6_Expected_Loss_Premium
+2707: V1_Layer6_Volatility_Loading
+2708: V1_Layer6_Risk_Premium
+2709: V1_Layer6_Technical_Premium
+2710: V1_Layer6_Offered_Premium
+2711: V1_Layer6_Premium_Rate
+2712: V1_Layer6_Uncertainty_Level
+2713: V1_Layer6_Brokerage
+2714: V1_Layer6_Lead_Fee
+2715: V1_Layer6_Audit_Cost
+2716: V1_Layer6_Overrider
+2717: V1_Layer6_Statutory_Charges
+2718: V1_Layer6_Other_Costs
+2719: V1_Layer6_Type_of_Participation
+2720: V1_Layer6_HDI_Share
+2721: V1_Layer7_Limit_occ
+2722: V1_Layer7_Limit_agg
+2723: V1_Layer7_Attachment_Point
+2724: V1_Layer7_Expected_Loss_Premium
+2725: V1_Layer7_Volatility_Loading
+2726: V1_Layer7_Risk_Premium
+2727: V1_Layer7_Technical_Premium
+2728: V1_Layer7_Offered_Premium
+2729: V1_Layer7_Premium_Rate
+2730: V1_Layer7_Uncertainty_Level
+2731: V1_Layer7_Brokerage
+2732: V1_Layer7_Lead_Fee
+2733: V1_Layer7_Audit_Cost
+2734: V1_Layer7_Overrider
+2735: V1_Layer7_Statutory_Charges
+2736: V1_Layer7_Other_Costs
+2737: V1_Layer7_Type_of_Participation
+2738: V1_Layer7_HDI_Share
+2739: V1_Layer8_Limit_occ
+2740: V1_Layer8_Limit_agg
+2741: V1_Layer8_Attachment_Point
+2742: V1_Layer8_Expected_Loss_Premium
+2743: V1_Layer8_Volatility_Loading
+2744: V1_Layer8_Risk_Premium
+2745: V1_Layer8_Technical_Premium
+2746: V1_Layer8_Offered_Premium
+2747: V1_Layer8_Premium_Rate
+2748: V1_Layer8_Uncertainty_Level
+2749: V1_Layer8_Brokerage
+2750: V1_Layer8_Lead_Fee
+2751: V1_Layer8_Audit_Cost
+2752: V1_Layer8_Overrider
+2753: V1_Layer8_Statutory_Charges
+2754: V1_Layer8_Other_Costs
+2755: V1_Layer8_Type_of_Participation
+2756: V1_Layer8_HDI_Share
+2757: V1_Layer9_Limit_occ
+2758: V1_Layer9_Limit_agg
+2759: V1_Layer9_Attachment_Point
+2760: V1_Layer9_Expected_Loss_Premium
+2761: V1_Layer9_Volatility_Loading
+2762: V1_Layer9_Risk_Premium
+2763: V1_Layer9_Technical_Premium
+2764: V1_Layer9_Offered_Premium
+2765: V1_Layer9_Premium_Rate
+2766: V1_Layer9_Uncertainty_Level
+2767: V1_Layer9_Brokerage
+2768: V1_Layer9_Lead_Fee
+2769: V1_Layer9_Audit_Cost
+2770: V1_Layer9_Overrider
+2771: V1_Layer9_Statutory_Charges
+2772: V1_Layer9_Other_Costs
+2773: V1_Layer9_Type_of_Participation
+2774: V1_Layer9_HDI_Share
+2775: V1_Layer10_Limit_occ
+2776: V1_Layer10_Limit_agg
+2777: V1_Layer10_Attachment_Point
+2778: V1_Layer10_Expected_Loss_Premium
+2779: V1_Layer10_Volatility_Loading
+2780: V1_Layer10_Risk_Premium
+2781: V1_Layer10_Technical_Premium
+2782: V1_Layer10_Offered_Premium
+2783: V1_Layer10_Premium_Rate
+2784: V1_Layer10_Uncertainty_Level
+2785: V1_Layer10_Brokerage
+2786: V1_Layer10_Lead_Fee
+2787: V1_Layer10_Audit_Cost
+2788: V1_Layer10_Overrider
+2789: V1_Layer10_Statutory_Charges
+2790: V1_Layer10_Other_Costs
+2791: V1_Layer10_Type_of_Participation
+2792: V1_Layer10_HDI_Share
+2793: V2_Primary_Limit_occ
+2794: V2_Primary_Limit_agg
+2795: V2_Primary_Deductible_occ
+2796: V2_Primary_Deductible_agg
+2797: V2_Primary_Deductible_temp
+2798: V2_Primary_Expected_Loss_Premium
+2799: V2_Primary_Volatility_Loading
+2800: V2_Primary_Risk_Premium
+2801: V2_Primary_Technical_Premium
+2802: V2_Primary_Offered_Premium
+2803: V2_Primary_Premium_Rate
+2804: V2_Primary_Uncertainty_Level
+2805: V2_Primary_Brokerage
+2806: V2_Primary_Lead_Fee
+2807: V2_Primary_Audit_Cost
+2808: V2_Primary_Overrider
+2809: V2_Primary_Statutory_Charges
+2810: V2_Primary_Other_Costs
+2811: V2_Primary_Type_of_Participation
+2812: V2_Primary_HDI_Share
+2813: V2_Layer1_Limit_occ
+2814: V2_Layer1_Limit_agg
+2815: V2_Layer1_Attachment_Point
+2816: V2_Layer1_Expected_Loss_Premium
+2817: V2_Layer1_Volatility_Loading
+2818: V2_Layer1_Risk_Premium
+2819: V2_Layer1_Technical_Premium
+2820: V2_Layer1_Offered_Premium
+2821: V2_Layer1_Premium_Rate
+2822: V2_Layer1_Uncertainty_Level
+2823: V2_Layer1_Brokerage
+2824: V2_Layer1_Lead_Fee
+2825: V2_Layer1_Audit_Cost
+2826: V2_Layer1_Overrider
+2827: V2_Layer1_Statutory_Charges
+2828: V2_Layer1_Other_Costs
+2829: V2_Layer1_Type_of_Participation
+2830: V2_Layer1_HDI_Share
+2831: V2_Layer2_Limit_occ
+2832: V2_Layer2_Limit_agg
+2833: V2_Layer2_Attachment_Point
+2834: V2_Layer2_Expected_Loss_Premium
+2835: V2_Layer2_Volatility_Loading
+2836: V2_Layer2_Risk_Premium
+2837: V2_Layer2_Technical_Premium
+2838: V2_Layer2_Offered_Premium
+2839: V2_Layer2_Premium_Rate
+2840: V2_Layer2_Uncertainty_Level
+2841: V2_Layer2_Brokerage
+2842: V2_Layer2_Lead_Fee
+2843: V2_Layer2_Audit_Cost
+2844: V2_Layer2_Overrider
+2845: V2_Layer2_Statutory_Charges
+2846: V2_Layer2_Other_Costs
+2847: V2_Layer2_Type_of_Participation
+2848: V2_Layer2_HDI_Share
+2849: V2_Layer3_Limit_occ
+2850: V2_Layer3_Limit_agg
+2851: V2_Layer3_Attachment_Point
+2852: V2_Layer3_Expected_Loss_Premium
+2853: V2_Layer3_Volatility_Loading
+2854: V2_Layer3_Risk_Premium
+2855: V2_Layer3_Technical_Premium
+2856: V2_Layer3_Offered_Premium
+2857: V2_Layer3_Premium_Rate
+2858: V2_Layer3_Uncertainty_Level
+2859: V2_Layer3_Brokerage
+2860: V2_Layer3_Lead_Fee
+2861: V2_Layer3_Audit_Cost
+2862: V2_Layer3_Overrider
+2863: V2_Layer3_Statutory_Charges
+2864: V2_Layer3_Other_Costs
+2865: V2_Layer3_Type_of_Participation
+2866: V2_Layer3_HDI_Share
+2867: V2_Layer4_Limit_occ
+2868: V2_Layer4_Limit_agg
+2869: V2_Layer4_Attachment_Point
+2870: V2_Layer4_Expected_Loss_Premium
+2871: V2_Layer4_Volatility_Loading
+2872: V2_Layer4_Risk_Premium
+2873: V2_Layer4_Technical_Premium
+2874: V2_Layer4_Offered_Premium
+2875: V2_Layer4_Premium_Rate
+2876: V2_Layer4_Uncertainty_Level
+2877: V2_Layer4_Brokerage
+2878: V2_Layer4_Lead_Fee
+2879: V2_Layer4_Audit_Cost
+2880: V2_Layer4_Overrider
+2881: V2_Layer4_Statutory_Charges
+2882: V2_Layer4_Other_Costs
+2883: V2_Layer4_Type_of_Participation
+2884: V2_Layer4_HDI_Share
+2885: V2_Layer5_Limit_occ
+2886: V2_Layer5_Limit_agg
+2887: V2_Layer5_Attachment_Point
+2888: V2_Layer5_Expected_Loss_Premium
+2889: V2_Layer5_Volatility_Loading
+2890: V2_Layer5_Risk_Premium
+2891: V2_Layer5_Technical_Premium
+2892: V2_Layer5_Offered_Premium
+2893: V2_Layer5_Premium_Rate
+2894: V2_Layer5_Uncertainty_Level
+2895: V2_Layer5_Brokerage
+2896: V2_Layer5_Lead_Fee
+2897: V2_Layer5_Audit_Cost
+2898: V2_Layer5_Overrider
+2899: V2_Layer5_Statutory_Charges
+2900: V2_Layer5_Other_Costs
+2901: V2_Layer5_Type_of_Participation
+2902: V2_Layer5_HDI_Share
+2903: V2_Layer6_Limit_occ
+2904: V2_Layer6_Limit_agg
+2905: V2_Layer6_Attachment_Point
+2906: V2_Layer6_Expected_Loss_Premium
+2907: V2_Layer6_Volatility_Loading
+2908: V2_Layer6_Risk_Premium
+2909: V2_Layer6_Technical_Premium
+2910: V2_Layer6_Offered_Premium
+2911: V2_Layer6_Premium_Rate
+2912: V2_Layer6_Uncertainty_Level
+2913: V2_Layer6_Brokerage
+2914: V2_Layer6_Lead_Fee
+2915: V2_Layer6_Audit_Cost
+2916: V2_Layer6_Overrider
+2917: V2_Layer6_Statutory_Charges
+2918: V2_Layer6_Other_Costs
+2919: V2_Layer6_Type_of_Participation
+2920: V2_Layer6_HDI_Share
+2921: V2_Layer7_Limit_occ
+2922: V2_Layer7_Limit_agg
+2923: V2_Layer7_Attachment_Point
+2924: V2_Layer7_Expected_Loss_Premium
+2925: V2_Layer7_Volatility_Loading
+2926: V2_Layer7_Risk_Premium
+2927: V2_Layer7_Technical_Premium
+2928: V2_Layer7_Offered_Premium
+2929: V2_Layer7_Premium_Rate
+2930: V2_Layer7_Uncertainty_Level
+2931: V2_Layer7_Brokerage
+2932: V2_Layer7_Lead_Fee
+2933: V2_Layer7_Audit_Cost
+2934: V2_Layer7_Overrider
+2935: V2_Layer7_Statutory_Charges
+2936: V2_Layer7_Other_Costs
+2937: V2_Layer7_Type_of_Participation
+2938: V2_Layer7_HDI_Share
+2939: V2_Layer8_Limit_occ
+2940: V2_Layer8_Limit_agg
+2941: V2_Layer8_Attachment_Point
+2942: V2_Layer8_Expected_Loss_Premium
+2943: V2_Layer8_Volatility_Loading
+2944: V2_Layer8_Risk_Premium
+2945: V2_Layer8_Technical_Premium
+2946: V2_Layer8_Offered_Premium
+2947: V2_Layer8_Premium_Rate
+2948: V2_Layer8_Uncertainty_Level
+2949: V2_Layer8_Brokerage
+2950: V2_Layer8_Lead_Fee
+2951: V2_Layer8_Audit_Cost
+2952: V2_Layer8_Overrider
+2953: V2_Layer8_Statutory_Charges
+2954: V2_Layer8_Other_Costs
+2955: V2_Layer8_Type_of_Participation
+2956: V2_Layer8_HDI_Share
+2957: V2_Layer9_Limit_occ
+2958: V2_Layer9_Limit_agg
+2959: V2_Layer9_Attachment_Point
+2960: V2_Layer9_Expected_Loss_Premium
+2961: V2_Layer9_Volatility_Loading
+2962: V2_Layer9_Risk_Premium
+2963: V2_Layer9_Technical_Premium
+2964: V2_Layer9_Offered_Premium
+2965: V2_Layer9_Premium_Rate
+2966: V2_Layer9_Uncertainty_Level
+2967: V2_Layer9_Brokerage
+2968: V2_Layer9_Lead_Fee
+2969: V2_Layer9_Audit_Cost
+2970: V2_Layer9_Overrider
+2971: V2_Layer9_Statutory_Charges
+2972: V2_Layer9_Other_Costs
+2973: V2_Layer9_Type_of_Participation
+2974: V2_Layer9_HDI_Share
+2975: V2_Layer10_Limit_occ
+2976: V2_Layer10_Limit_agg
+2977: V2_Layer10_Attachment_Point
+2978: V2_Layer10_Expected_Loss_Premium
+2979: V2_Layer10_Volatility_Loading
+2980: V2_Layer10_Risk_Premium
+2981: V2_Layer10_Technical_Premium
+2982: V2_Layer10_Offered_Premium
+2983: V2_Layer10_Premium_Rate
+2984: V2_Layer10_Uncertainty_Level
+2985: V2_Layer10_Brokerage
+2986: V2_Layer10_Lead_Fee
+2987: V2_Layer10_Audit_Cost
+2988: V2_Layer10_Overrider
+2989: V2_Layer10_Statutory_Charges
+2990: V2_Layer10_Other_Costs
+2991: V2_Layer10_Type_of_Participation
+2992: V2_Layer10_HDI_Share
+2993: V3_Primary_Limit_occ
+2994: V3_Primary_Limit_agg
+2995: V3_Primary_Deductible_occ
+2996: V3_Primary_Deductible_agg
+2997: V3_Primary_Deductible_temp
+2998: V3_Primary_Expected_Loss_Premium
+2999: V3_Primary_Volatility_Loading
+3000: V3_Primary_Risk_Premium
+3001: V3_Primary_Technical_Premium
+3002: V3_Primary_Offered_Premium
+3003: V3_Primary_Premium_Rate
+3004: V3_Primary_Uncertainty_Level
+3005: V3_Primary_Brokerage
+3006: V3_Primary_Lead_Fee
+3007: V3_Primary_Audit_Cost
+3008: V3_Primary_Overrider
+3009: V3_Primary_Statutory_Charges
+3010: V3_Primary_Other_Costs
+3011: V3_Primary_Type_of_Participation
+3012: V3_Primary_HDI_Share
+3013: V3_Layer1_Limit_occ
+3014: V3_Layer1_Limit_agg
+3015: V3_Layer1_Attachment_Point
+3016: V3_Layer1_Expected_Loss_Premium
+3017: V3_Layer1_Volatility_Loading
+3018: V3_Layer1_Risk_Premium
+3019: V3_Layer1_Technical_Premium
+3020: V3_Layer1_Offered_Premium
+3021: V3_Layer1_Premium_Rate
+3022: V3_Layer1_Uncertainty_Level
+3023: V3_Layer1_Brokerage
+3024: V3_Layer1_Lead_Fee
+3025: V3_Layer1_Audit_Cost
+3026: V3_Layer1_Overrider
+3027: V3_Layer1_Statutory_Charges
+3028: V3_Layer1_Other_Costs
+3029: V3_Layer1_Type_of_Participation
+3030: V3_Layer1_HDI_Share
+3031: V3_Layer2_Limit_occ
+3032: V3_Layer2_Limit_agg
+3033: V3_Layer2_Attachment_Point
+3034: V3_Layer2_Expected_Loss_Premium
+3035: V3_Layer2_Volatility_Loading
+3036: V3_Layer2_Risk_Premium
+3037: V3_Layer2_Technical_Premium
+3038: V3_Layer2_Offered_Premium
+3039: V3_Layer2_Premium_Rate
+3040: V3_Layer2_Uncertainty_Level
+3041: V3_Layer2_Brokerage
+3042: V3_Layer2_Lead_Fee
+3043: V3_Layer2_Audit_Cost
+3044: V3_Layer2_Overrider
+3045: V3_Layer2_Statutory_Charges
+3046: V3_Layer2_Other_Costs
+3047: V3_Layer2_Type_of_Participation
+3048: V3_Layer2_HDI_Share
+3049: V3_Layer3_Limit_occ
+3050: V3_Layer3_Limit_agg
+3051: V3_Layer3_Attachment_Point
+3052: V3_Layer3_Expected_Loss_Premium
+3053: V3_Layer3_Volatility_Loading
+3054: V3_Layer3_Risk_Premium
+3055: V3_Layer3_Technical_Premium
+3056: V3_Layer3_Offered_Premium
+3057: V3_Layer3_Premium_Rate
+3058: V3_Layer3_Uncertainty_Level
+3059: V3_Layer3_Brokerage
+3060: V3_Layer3_Lead_Fee
+3061: V3_Layer3_Audit_Cost
+3062: V3_Layer3_Overrider
+3063: V3_Layer3_Statutory_Charges
+3064: V3_Layer3_Other_Costs
+3065: V3_Layer3_Type_of_Participation
+3066: V3_Layer3_HDI_Share
+3067: V3_Layer4_Limit_occ
+3068: V3_Layer4_Limit_agg
+3069: V3_Layer4_Attachment_Point
+3070: V3_Layer4_Expected_Loss_Premium
+3071: V3_Layer4_Volatility_Loading
+3072: V3_Layer4_Risk_Premium
+3073: V3_Layer4_Technical_Premium
+3074: V3_Layer4_Offered_Premium
+3075: V3_Layer4_Premium_Rate
+3076: V3_Layer4_Uncertainty_Level
+3077: V3_Layer4_Brokerage
+3078: V3_Layer4_Lead_Fee
+3079: V3_Layer4_Audit_Cost
+3080: V3_Layer4_Overrider
+3081: V3_Layer4_Statutory_Charges
+3082: V3_Layer4_Other_Costs
+3083: V3_Layer4_Type_of_Participation
+3084: V3_Layer4_HDI_Share
+3085: V3_Layer5_Limit_occ
+3086: V3_Layer5_Limit_agg
+3087: V3_Layer5_Attachment_Point
+3088: V3_Layer5_Expected_Loss_Premium
+3089: V3_Layer5_Volatility_Loading
+3090: V3_Layer5_Risk_Premium
+3091: V3_Layer5_Technical_Premium
+3092: V3_Layer5_Offered_Premium
+3093: V3_Layer5_Premium_Rate
+3094: V3_Layer5_Uncertainty_Level
+3095: V3_Layer5_Brokerage
+3096: V3_Layer5_Lead_Fee
+3097: V3_Layer5_Audit_Cost
+3098: V3_Layer5_Overrider
+3099: V3_Layer5_Statutory_Charges
+3100: V3_Layer5_Other_Costs
+3101: V3_Layer5_Type_of_Participation
+3102: V3_Layer5_HDI_Share
+3103: V3_Layer6_Limit_occ
+3104: V3_Layer6_Limit_agg
+3105: V3_Layer6_Attachment_Point
+3106: V3_Layer6_Expected_Loss_Premium
+3107: V3_Layer6_Volatility_Loading
+3108: V3_Layer6_Risk_Premium
+3109: V3_Layer6_Technical_Premium
+3110: V3_Layer6_Offered_Premium
+3111: V3_Layer6_Premium_Rate
+3112: V3_Layer6_Uncertainty_Level
+3113: V3_Layer6_Brokerage
+3114: V3_Layer6_Lead_Fee
+3115: V3_Layer6_Audit_Cost
+3116: V3_Layer6_Overrider
+3117: V3_Layer6_Statutory_Charges
+3118: V3_Layer6_Other_Costs
+3119: V3_Layer6_Type_of_Participation
+3120: V3_Layer6_HDI_Share
+3121: V3_Layer7_Limit_occ
+3122: V3_Layer7_Limit_agg
+3123: V3_Layer7_Attachment_Point
+3124: V3_Layer7_Expected_Loss_Premium
+3125: V3_Layer7_Volatility_Loading
+3126: V3_Layer7_Risk_Premium
+3127: V3_Layer7_Technical_Premium
+3128: V3_Layer7_Offered_Premium
+3129: V3_Layer7_Premium_Rate
+3130: V3_Layer7_Uncertainty_Level
+3131: V3_Layer7_Brokerage
+3132: V3_Layer7_Lead_Fee
+3133: V3_Layer7_Audit_Cost
+3134: V3_Layer7_Overrider
+3135: V3_Layer7_Statutory_Charges
+3136: V3_Layer7_Other_Costs
+3137: V3_Layer7_Type_of_Participation
+3138: V3_Layer7_HDI_Share
+3139: V3_Layer8_Limit_occ
+3140: V3_Layer8_Limit_agg
+3141: V3_Layer8_Attachment_Point
+3142: V3_Layer8_Expected_Loss_Premium
+3143: V3_Layer8_Volatility_Loading
+3144: V3_Layer8_Risk_Premium
+3145: V3_Layer8_Technical_Premium
+3146: V3_Layer8_Offered_Premium
+3147: V3_Layer8_Premium_Rate
+3148: V3_Layer8_Uncertainty_Level
+3149: V3_Layer8_Brokerage
+3150: V3_Layer8_Lead_Fee
+3151: V3_Layer8_Audit_Cost
+3152: V3_Layer8_Overrider
+3153: V3_Layer8_Statutory_Charges
+3154: V3_Layer8_Other_Costs
+3155: V3_Layer8_Type_of_Participation
+3156: V3_Layer8_HDI_Share
+3157: V3_Layer9_Limit_occ
+3158: V3_Layer9_Limit_agg
+3159: V3_Layer9_Attachment_Point
+3160: V3_Layer9_Expected_Loss_Premium
+3161: V3_Layer9_Volatility_Loading
+3162: V3_Layer9_Risk_Premium
+3163: V3_Layer9_Technical_Premium
+3164: V3_Layer9_Offered_Premium
+3165: V3_Layer9_Premium_Rate
+3166: V3_Layer9_Uncertainty_Level
+3167: V3_Layer9_Brokerage
+3168: V3_Layer9_Lead_Fee
+3169: V3_Layer9_Audit_Cost
+3170: V3_Layer9_Overrider
+3171: V3_Layer9_Statutory_Charges
+3172: V3_Layer9_Other_Costs
+3173: V3_Layer9_Type_of_Participation
+3174: V3_Layer9_HDI_Share
+3175: V3_Layer10_Limit_occ
+3176: V3_Layer10_Limit_agg
+3177: V3_Layer10_Attachment_Point
+3178: V3_Layer10_Expected_Loss_Premium
+3179: V3_Layer10_Volatility_Loading
+3180: V3_Layer10_Risk_Premium
+3181: V3_Layer10_Technical_Premium
+3182: V3_Layer10_Offered_Premium
+3183: V3_Layer10_Premium_Rate
+3184: V3_Layer10_Uncertainty_Level
+3185: V3_Layer10_Brokerage
+3186: V3_Layer10_Lead_Fee
+3187: V3_Layer10_Audit_Cost
+3188: V3_Layer10_Overrider
+3189: V3_Layer10_Statutory_Charges
+3190: V3_Layer10_Other_Costs
+3191: V3_Layer10_Type_of_Participation
+3192: V3_Layer10_HDI_Share
+3193: V4_Primary_Limit_occ
+3194: V4_Primary_Limit_agg
+3195: V4_Primary_Deductible_occ
+3196: V4_Primary_Deductible_agg
+3197: V4_Primary_Deductible_temp
+3198: V4_Primary_Expected_Loss_Premium
+3199: V4_Primary_Volatility_Loading
+3200: V4_Primary_Risk_Premium
+3201: V4_Primary_Technical_Premium
+3202: V4_Primary_Offered_Premium
+3203: V4_Primary_Premium_Rate
+3204: V4_Primary_Uncertainty_Level
+3205: V4_Primary_Brokerage
+3206: V4_Primary_Lead_Fee
+3207: V4_Primary_Audit_Cost
+3208: V4_Primary_Overrider
+3209: V4_Primary_Statutory_Charges
+3210: V4_Primary_Other_Costs
+3211: V4_Primary_Type_of_Participation
+3212: V4_Primary_HDI_Share
+3213: V4_Layer1_Limit_occ
+3214: V4_Layer1_Limit_agg
+3215: V4_Layer1_Attachment_Point
+3216: V4_Layer1_Expected_Loss_Premium
+3217: V4_Layer1_Volatility_Loading
+3218: V4_Layer1_Risk_Premium
+3219: V4_Layer1_Technical_Premium
+3220: V4_Layer1_Offered_Premium
+3221: V4_Layer1_Premium_Rate
+3222: V4_Layer1_Uncertainty_Level
+3223: V4_Layer1_Brokerage
+3224: V4_Layer1_Lead_Fee
+3225: V4_Layer1_Audit_Cost
+3226: V4_Layer1_Overrider
+3227: V4_Layer1_Statutory_Charges
+3228: V4_Layer1_Other_Costs
+3229: V4_Layer1_Type_of_Participation
+3230: V4_Layer1_HDI_Share
+3231: V4_Layer2_Limit_occ
+3232: V4_Layer2_Limit_agg
+3233: V4_Layer2_Attachment_Point
+3234: V4_Layer2_Expected_Loss_Premium
+3235: V4_Layer2_Volatility_Loading
+3236: V4_Layer2_Risk_Premium
+3237: V4_Layer2_Technical_Premium
+3238: V4_Layer2_Offered_Premium
+3239: V4_Layer2_Premium_Rate
+3240: V4_Layer2_Uncertainty_Level
+3241: V4_Layer2_Brokerage
+3242: V4_Layer2_Lead_Fee
+3243: V4_Layer2_Audit_Cost
+3244: V4_Layer2_Overrider
+3245: V4_Layer2_Statutory_Charges
+3246: V4_Layer2_Other_Costs
+3247: V4_Layer2_Type_of_Participation
+3248: V4_Layer2_HDI_Share
+3249: V4_Layer3_Limit_occ
+3250: V4_Layer3_Limit_agg
+3251: V4_Layer3_Attachment_Point
+3252: V4_Layer3_Expected_Loss_Premium
+3253: V4_Layer3_Volatility_Loading
+3254: V4_Layer3_Risk_Premium
+3255: V4_Layer3_Technical_Premium
+3256: V4_Layer3_Offered_Premium
+3257: V4_Layer3_Premium_Rate
+3258: V4_Layer3_Uncertainty_Level
+3259: V4_Layer3_Brokerage
+3260: V4_Layer3_Lead_Fee
+3261: V4_Layer3_Audit_Cost
+3262: V4_Layer3_Overrider
+3263: V4_Layer3_Statutory_Charges
+3264: V4_Layer3_Other_Costs
+3265: V4_Layer3_Type_of_Participation
+3266: V4_Layer3_HDI_Share
+3267: V4_Layer4_Limit_occ
+3268: V4_Layer4_Limit_agg
+3269: V4_Layer4_Attachment_Point
+3270: V4_Layer4_Expected_Loss_Premium
+3271: V4_Layer4_Volatility_Loading
+3272: V4_Layer4_Risk_Premium
+3273: V4_Layer4_Technical_Premium
+3274: V4_Layer4_Offered_Premium
+3275: V4_Layer4_Premium_Rate
+3276: V4_Layer4_Uncertainty_Level
+3277: V4_Layer4_Brokerage
+3278: V4_Layer4_Lead_Fee
+3279: V4_Layer4_Audit_Cost
+3280: V4_Layer4_Overrider
+3281: V4_Layer4_Statutory_Charges
+3282: V4_Layer4_Other_Costs
+3283: V4_Layer4_Type_of_Participation
+3284: V4_Layer4_HDI_Share
+3285: V4_Layer5_Limit_occ
+3286: V4_Layer5_Limit_agg
+3287: V4_Layer5_Attachment_Point
+3288: V4_Layer5_Expected_Loss_Premium
+3289: V4_Layer5_Volatility_Loading
+3290: V4_Layer5_Risk_Premium
+3291: V4_Layer5_Technical_Premium
+3292: V4_Layer5_Offered_Premium
+3293: V4_Layer5_Premium_Rate
+3294: V4_Layer5_Uncertainty_Level
+3295: V4_Layer5_Brokerage
+3296: V4_Layer5_Lead_Fee
+3297: V4_Layer5_Audit_Cost
+3298: V4_Layer5_Overrider
+3299: V4_Layer5_Statutory_Charges
+3300: V4_Layer5_Other_Costs
+3301: V4_Layer5_Type_of_Participation
+3302: V4_Layer5_HDI_Share
+3303: V4_Layer6_Limit_occ
+3304: V4_Layer6_Limit_agg
+3305: V4_Layer6_Attachment_Point
+3306: V4_Layer6_Expected_Loss_Premium
+3307: V4_Layer6_Volatility_Loading
+3308: V4_Layer6_Risk_Premium
+3309: V4_Layer6_Technical_Premium
+3310: V4_Layer6_Offered_Premium
+3311: V4_Layer6_Premium_Rate
+3312: V4_Layer6_Uncertainty_Level
+3313: V4_Layer6_Brokerage
+3314: V4_Layer6_Lead_Fee
+3315: V4_Layer6_Audit_Cost
+3316: V4_Layer6_Overrider
+3317: V4_Layer6_Statutory_Charges
+3318: V4_Layer6_Other_Costs
+3319: V4_Layer6_Type_of_Participation
+3320: V4_Layer6_HDI_Share
+3321: V4_Layer7_Limit_occ
+3322: V4_Layer7_Limit_agg
+3323: V4_Layer7_Attachment_Point
+3324: V4_Layer7_Expected_Loss_Premium
+3325: V4_Layer7_Volatility_Loading
+3326: V4_Layer7_Risk_Premium
+3327: V4_Layer7_Technical_Premium
+3328: V4_Layer7_Offered_Premium
+3329: V4_Layer7_Premium_Rate
+3330: V4_Layer7_Uncertainty_Level
+3331: V4_Layer7_Brokerage
+3332: V4_Layer7_Lead_Fee
+3333: V4_Layer7_Audit_Cost
+3334: V4_Layer7_Overrider
+3335: V4_Layer7_Statutory_Charges
+3336: V4_Layer7_Other_Costs
+3337: V4_Layer7_Type_of_Participation
+3338: V4_Layer7_HDI_Share
+3339: V4_Layer8_Limit_occ
+3340: V4_Layer8_Limit_agg
+3341: V4_Layer8_Attachment_Point
+3342: V4_Layer8_Expected_Loss_Premium
+3343: V4_Layer8_Volatility_Loading
+3344: V4_Layer8_Risk_Premium
+3345: V4_Layer8_Technical_Premium
+3346: V4_Layer8_Offered_Premium
+3347: V4_Layer8_Premium_Rate
+3348: V4_Layer8_Uncertainty_Level
+3349: V4_Layer8_Brokerage
+3350: V4_Layer8_Lead_Fee
+3351: V4_Layer8_Audit_Cost
+3352: V4_Layer8_Overrider
+3353: V4_Layer8_Statutory_Charges
+3354: V4_Layer8_Other_Costs
+3355: V4_Layer8_Type_of_Participation
+3356: V4_Layer8_HDI_Share
+3357: V4_Layer9_Limit_occ
+3358: V4_Layer9_Limit_agg
+3359: V4_Layer9_Attachment_Point
+3360: V4_Layer9_Expected_Loss_Premium
+3361: V4_Layer9_Volatility_Loading
+3362: V4_Layer9_Risk_Premium
+3363: V4_Layer9_Technical_Premium
+3364: V4_Layer9_Offered_Premium
+3365: V4_Layer9_Premium_Rate
+3366: V4_Layer9_Uncertainty_Level
+3367: V4_Layer9_Brokerage
+3368: V4_Layer9_Lead_Fee
+3369: V4_Layer9_Audit_Cost
+3370: V4_Layer9_Overrider
+3371: V4_Layer9_Statutory_Charges
+3372: V4_Layer9_Other_Costs
+3373: V4_Layer9_Type_of_Participation
+3374: V4_Layer9_HDI_Share
+3375: V4_Layer10_Limit_occ
+3376: V4_Layer10_Limit_agg
+3377: V4_Layer10_Attachment_Point
+3378: V4_Layer10_Expected_Loss_Premium
+3379: V4_Layer10_Volatility_Loading
+3380: V4_Layer10_Risk_Premium
+3381: V4_Layer10_Technical_Premium
+3382: V4_Layer10_Offered_Premium
+3383: V4_Layer10_Premium_Rate
+3384: V4_Layer10_Uncertainty_Level
+3385: V4_Layer10_Brokerage
+3386: V4_Layer10_Lead_Fee
+3387: V4_Layer10_Audit_Cost
+3388: V4_Layer10_Overrider
+3389: V4_Layer10_Statutory_Charges
+3390: V4_Layer10_Other_Costs
+3391: V4_Layer10_Type_of_Participation
+3392: V4_Layer10_HDI_Share
+3393: V5_Primary_Limit_occ
+3394: V5_Primary_Limit_agg
+3395: V5_Primary_Deductible_occ
+3396: V5_Primary_Deductible_agg
+3397: V5_Primary_Deductible_temp
+3398: V5_Primary_Expected_Loss_Premium
+3399: V5_Primary_Volatility_Loading
+3400: V5_Primary_Risk_Premium
+3401: V5_Primary_Technical_Premium
+3402: V5_Primary_Offered_Premium
+3403: V5_Primary_Premium_Rate
+3404: V5_Primary_Uncertainty_Level
+3405: V5_Primary_Brokerage
+3406: V5_Primary_Lead_Fee
+3407: V5_Primary_Audit_Cost
+3408: V5_Primary_Overrider
+3409: V5_Primary_Statutory_Charges
+3410: V5_Primary_Other_Costs
+3411: V5_Primary_Type_of_Participation
+3412: V5_Primary_HDI_Share
+3413: V5_Layer1_Limit_occ
+3414: V5_Layer1_Limit_agg
+3415: V5_Layer1_Attachment_Point
+3416: V5_Layer1_Expected_Loss_Premium
+3417: V5_Layer1_Volatility_Loading
+3418: V5_Layer1_Risk_Premium
+3419: V5_Layer1_Technical_Premium
+3420: V5_Layer1_Offered_Premium
+3421: V5_Layer1_Premium_Rate
+3422: V5_Layer1_Uncertainty_Level
+3423: V5_Layer1_Brokerage
+3424: V5_Layer1_Lead_Fee
+3425: V5_Layer1_Audit_Cost
+3426: V5_Layer1_Overrider
+3427: V5_Layer1_Statutory_Charges
+3428: V5_Layer1_Other_Costs
+3429: V5_Layer1_Type_of_Participation
+3430: V5_Layer1_HDI_Share
+3431: V5_Layer2_Limit_occ
+3432: V5_Layer2_Limit_agg
+3433: V5_Layer2_Attachment_Point
+3434: V5_Layer2_Expected_Loss_Premium
+3435: V5_Layer2_Volatility_Loading
+3436: V5_Layer2_Risk_Premium
+3437: V5_Layer2_Technical_Premium
+3438: V5_Layer2_Offered_Premium
+3439: V5_Layer2_Premium_Rate
+3440: V5_Layer2_Uncertainty_Level
+3441: V5_Layer2_Brokerage
+3442: V5_Layer2_Lead_Fee
+3443: V5_Layer2_Audit_Cost
+3444: V5_Layer2_Overrider
+3445: V5_Layer2_Statutory_Charges
+3446: V5_Layer2_Other_Costs
+3447: V5_Layer2_Type_of_Participation
+3448: V5_Layer2_HDI_Share
+3449: V5_Layer3_Limit_occ
+3450: V5_Layer3_Limit_agg
+3451: V5_Layer3_Attachment_Point
+3452: V5_Layer3_Expected_Loss_Premium
+3453: V5_Layer3_Volatility_Loading
+3454: V5_Layer3_Risk_Premium
+3455: V5_Layer3_Technical_Premium
+3456: V5_Layer3_Offered_Premium
+3457: V5_Layer3_Premium_Rate
+3458: V5_Layer3_Uncertainty_Level
+3459: V5_Layer3_Brokerage
+3460: V5_Layer3_Lead_Fee
+3461: V5_Layer3_Audit_Cost
+3462: V5_Layer3_Overrider
+3463: V5_Layer3_Statutory_Charges
+3464: V5_Layer3_Other_Costs
+3465: V5_Layer3_Type_of_Participation
+3466: V5_Layer3_HDI_Share
+3467: V5_Layer4_Limit_occ
+3468: V5_Layer4_Limit_agg
+3469: V5_Layer4_Attachment_Point
+3470: V5_Layer4_Expected_Loss_Premium
+3471: V5_Layer4_Volatility_Loading
+3472: V5_Layer4_Risk_Premium
+3473: V5_Layer4_Technical_Premium
+3474: V5_Layer4_Offered_Premium
+3475: V5_Layer4_Premium_Rate
+3476: V5_Layer4_Uncertainty_Level
+3477: V5_Layer4_Brokerage
+3478: V5_Layer4_Lead_Fee
+3479: V5_Layer4_Audit_Cost
+3480: V5_Layer4_Overrider
+3481: V5_Layer4_Statutory_Charges
+3482: V5_Layer4_Other_Costs
+3483: V5_Layer4_Type_of_Participation
+3484: V5_Layer4_HDI_Share
+3485: V5_Layer5_Limit_occ
+3486: V5_Layer5_Limit_agg
+3487: V5_Layer5_Attachment_Point
+3488: V5_Layer5_Expected_Loss_Premium
+3489: V5_Layer5_Volatility_Loading
+3490: V5_Layer5_Risk_Premium
+3491: V5_Layer5_Technical_Premium
+3492: V5_Layer5_Offered_Premium
+3493: V5_Layer5_Premium_Rate
+3494: V5_Layer5_Uncertainty_Level
+3495: V5_Layer5_Brokerage
+3496: V5_Layer5_Lead_Fee
+3497: V5_Layer5_Audit_Cost
+3498: V5_Layer5_Overrider
+3499: V5_Layer5_Statutory_Charges
+3500: V5_Layer5_Other_Costs
+3501: V5_Layer5_Type_of_Participation
+3502: V5_Layer5_HDI_Share
+3503: V5_Layer6_Limit_occ
+3504: V5_Layer6_Limit_agg
+3505: V5_Layer6_Attachment_Point
+3506: V5_Layer6_Expected_Loss_Premium
+3507: V5_Layer6_Volatility_Loading
+3508: V5_Layer6_Risk_Premium
+3509: V5_Layer6_Technical_Premium
+3510: V5_Layer6_Offered_Premium
+3511: V5_Layer6_Premium_Rate
+3512: V5_Layer6_Uncertainty_Level
+3513: V5_Layer6_Brokerage
+3514: V5_Layer6_Lead_Fee
+3515: V5_Layer6_Audit_Cost
+3516: V5_Layer6_Overrider
+3517: V5_Layer6_Statutory_Charges
+3518: V5_Layer6_Other_Costs
+3519: V5_Layer6_Type_of_Participation
+3520: V5_Layer6_HDI_Share
+3521: V5_Layer7_Limit_occ
+3522: V5_Layer7_Limit_agg
+3523: V5_Layer7_Attachment_Point
+3524: V5_Layer7_Expected_Loss_Premium
+3525: V5_Layer7_Volatility_Loading
+3526: V5_Layer7_Risk_Premium
+3527: V5_Layer7_Technical_Premium
+3528: V5_Layer7_Offered_Premium
+3529: V5_Layer7_Premium_Rate
+3530: V5_Layer7_Uncertainty_Level
+3531: V5_Layer7_Brokerage
+3532: V5_Layer7_Lead_Fee
+3533: V5_Layer7_Audit_Cost
+3534: V5_Layer7_Overrider
+3535: V5_Layer7_Statutory_Charges
+3536: V5_Layer7_Other_Costs
+3537: V5_Layer7_Type_of_Participation
+3538: V5_Layer7_HDI_Share
+3539: V5_Layer8_Limit_occ
+3540: V5_Layer8_Limit_agg
+3541: V5_Layer8_Attachment_Point
+3542: V5_Layer8_Expected_Loss_Premium
+3543: V5_Layer8_Volatility_Loading
+3544: V5_Layer8_Risk_Premium
+3545: V5_Layer8_Technical_Premium
+3546: V5_Layer8_Offered_Premium
+3547: V5_Layer8_Premium_Rate
+3548: V5_Layer8_Uncertainty_Level
+3549: V5_Layer8_Brokerage
+3550: V5_Layer8_Lead_Fee
+3551: V5_Layer8_Audit_Cost
+3552: V5_Layer8_Overrider
+3553: V5_Layer8_Statutory_Charges
+3554: V5_Layer8_Other_Costs
+3555: V5_Layer8_Type_of_Participation
+3556: V5_Layer8_HDI_Share
+3557: V5_Layer9_Limit_occ
+3558: V5_Layer9_Limit_agg
+3559: V5_Layer9_Attachment_Point
+3560: V5_Layer9_Expected_Loss_Premium
+3561: V5_Layer9_Volatility_Loading
+3562: V5_Layer9_Risk_Premium
+3563: V5_Layer9_Technical_Premium
+3564: V5_Layer9_Offered_Premium
+3565: V5_Layer9_Premium_Rate
+3566: V5_Layer9_Uncertainty_Level
+3567: V5_Layer9_Brokerage
+3568: V5_Layer9_Lead_Fee
+3569: V5_Layer9_Audit_Cost
+3570: V5_Layer9_Overrider
+3571: V5_Layer9_Statutory_Charges
+3572: V5_Layer9_Other_Costs
+3573: V5_Layer9_Type_of_Participation
+3574: V5_Layer9_HDI_Share
+3575: V5_Layer10_Limit_occ
+3576: V5_Layer10_Limit_agg
+3577: V5_Layer10_Attachment_Point
+3578: V5_Layer10_Expected_Loss_Premium
+3579: V5_Layer10_Volatility_Loading
+3580: V5_Layer10_Risk_Premium
+3581: V5_Layer10_Technical_Premium
+3582: V5_Layer10_Offered_Premium
+3583: V5_Layer10_Premium_Rate
+3584: V5_Layer10_Uncertainty_Level
+3585: V5_Layer10_Brokerage
+3586: V5_Layer10_Lead_Fee
+3587: V5_Layer10_Audit_Cost
+3588: V5_Layer10_Overrider
+3589: V5_Layer10_Statutory_Charges
+3590: V5_Layer10_Other_Costs
+3591: V5_Layer10_Type_of_Participation
+3592: V5_Layer10_HDI_Share
+3593: V6_Primary_Limit_occ
+3594: V6_Primary_Limit_agg
+3595: V6_Primary_Deductible_occ
+3596: V6_Primary_Deductible_agg
+3597: V6_Primary_Deductible_temp
+3598: V6_Primary_Expected_Loss_Premium
+3599: V6_Primary_Volatility_Loading
+3600: V6_Primary_Risk_Premium
+3601: V6_Primary_Technical_Premium
+3602: V6_Primary_Offered_Premium
+3603: V6_Primary_Premium_Rate
+3604: V6_Primary_Uncertainty_Level
+3605: V6_Primary_Brokerage
+3606: V6_Primary_Lead_Fee
+3607: V6_Primary_Audit_Cost
+3608: V6_Primary_Overrider
+3609: V6_Primary_Statutory_Charges
+3610: V6_Primary_Other_Costs
+3611: V6_Primary_Type_of_Participation
+3612: V6_Primary_HDI_Share
+3613: V6_Layer1_Limit_occ
+3614: V6_Layer1_Limit_agg
+3615: V6_Layer1_Attachment_Point
+3616: V6_Layer1_Expected_Loss_Premium
+3617: V6_Layer1_Volatility_Loading
+3618: V6_Layer1_Risk_Premium
+3619: V6_Layer1_Technical_Premium
+3620: V6_Layer1_Offered_Premium
+3621: V6_Layer1_Premium_Rate
+3622: V6_Layer1_Uncertainty_Level
+3623: V6_Layer1_Brokerage
+3624: V6_Layer1_Lead_Fee
+3625: V6_Layer1_Audit_Cost
+3626: V6_Layer1_Overrider
+3627: V6_Layer1_Statutory_Charges
+3628: V6_Layer1_Other_Costs
+3629: V6_Layer1_Type_of_Participation
+3630: V6_Layer1_HDI_Share
+3631: V6_Layer2_Limit_occ
+3632: V6_Layer2_Limit_agg
+3633: V6_Layer2_Attachment_Point
+3634: V6_Layer2_Expected_Loss_Premium
+3635: V6_Layer2_Volatility_Loading
+3636: V6_Layer2_Risk_Premium
+3637: V6_Layer2_Technical_Premium
+3638: V6_Layer2_Offered_Premium
+3639: V6_Layer2_Premium_Rate
+3640: V6_Layer2_Uncertainty_Level
+3641: V6_Layer2_Brokerage
+3642: V6_Layer2_Lead_Fee
+3643: V6_Layer2_Audit_Cost
+3644: V6_Layer2_Overrider
+3645: V6_Layer2_Statutory_Charges
+3646: V6_Layer2_Other_Costs
+3647: V6_Layer2_Type_of_Participation
+3648: V6_Layer2_HDI_Share
+3649: V6_Layer3_Limit_occ
+3650: V6_Layer3_Limit_agg
+3651: V6_Layer3_Attachment_Point
+3652: V6_Layer3_Expected_Loss_Premium
+3653: V6_Layer3_Volatility_Loading
+3654: V6_Layer3_Risk_Premium
+3655: V6_Layer3_Technical_Premium
+3656: V6_Layer3_Offered_Premium
+3657: V6_Layer3_Premium_Rate
+3658: V6_Layer3_Uncertainty_Level
+3659: V6_Layer3_Brokerage
+3660: V6_Layer3_Lead_Fee
+3661: V6_Layer3_Audit_Cost
+3662: V6_Layer3_Overrider
+3663: V6_Layer3_Statutory_Charges
+3664: V6_Layer3_Other_Costs
+3665: V6_Layer3_Type_of_Participation
+3666: V6_Layer3_HDI_Share
+3667: V6_Layer4_Limit_occ
+3668: V6_Layer4_Limit_agg
+3669: V6_Layer4_Attachment_Point
+3670: V6_Layer4_Expected_Loss_Premium
+3671: V6_Layer4_Volatility_Loading
+3672: V6_Layer4_Risk_Premium
+3673: V6_Layer4_Technical_Premium
+3674: V6_Layer4_Offered_Premium
+3675: V6_Layer4_Premium_Rate
+3676: V6_Layer4_Uncertainty_Level
+3677: V6_Layer4_Brokerage
+3678: V6_Layer4_Lead_Fee
+3679: V6_Layer4_Audit_Cost
+3680: V6_Layer4_Overrider
+3681: V6_Layer4_Statutory_Charges
+3682: V6_Layer4_Other_Costs
+3683: V6_Layer4_Type_of_Participation
+3684: V6_Layer4_HDI_Share
+3685: V6_Layer5_Limit_occ
+3686: V6_Layer5_Limit_agg
+3687: V6_Layer5_Attachment_Point
+3688: V6_Layer5_Expected_Loss_Premium
+3689: V6_Layer5_Volatility_Loading
+3690: V6_Layer5_Risk_Premium
+3691: V6_Layer5_Technical_Premium
+3692: V6_Layer5_Offered_Premium
+3693: V6_Layer5_Premium_Rate
+3694: V6_Layer5_Uncertainty_Level
+3695: V6_Layer5_Brokerage
+3696: V6_Layer5_Lead_Fee
+3697: V6_Layer5_Audit_Cost
+3698: V6_Layer5_Overrider
+3699: V6_Layer5_Statutory_Charges
+3700: V6_Layer5_Other_Costs
+3701: V6_Layer5_Type_of_Participation
+3702: V6_Layer5_HDI_Share
+3703: V6_Layer6_Limit_occ
+3704: V6_Layer6_Limit_agg
+3705: V6_Layer6_Attachment_Point
+3706: V6_Layer6_Expected_Loss_Premium
+3707: V6_Layer6_Volatility_Loading
+3708: V6_Layer6_Risk_Premium
+3709: V6_Layer6_Technical_Premium
+3710: V6_Layer6_Offered_Premium
+3711: V6_Layer6_Premium_Rate
+3712: V6_Layer6_Uncertainty_Level
+3713: V6_Layer6_Brokerage
+3714: V6_Layer6_Lead_Fee
+3715: V6_Layer6_Audit_Cost
+3716: V6_Layer6_Overrider
+3717: V6_Layer6_Statutory_Charges
+3718: V6_Layer6_Other_Costs
+3719: V6_Layer6_Type_of_Participation
+3720: V6_Layer6_HDI_Share
+3721: V6_Layer7_Limit_occ
+3722: V6_Layer7_Limit_agg
+3723: V6_Layer7_Attachment_Point
+3724: V6_Layer7_Expected_Loss_Premium
+3725: V6_Layer7_Volatility_Loading
+3726: V6_Layer7_Risk_Premium
+3727: V6_Layer7_Technical_Premium
+3728: V6_Layer7_Offered_Premium
+3729: V6_Layer7_Premium_Rate
+3730: V6_Layer7_Uncertainty_Level
+3731: V6_Layer7_Brokerage
+3732: V6_Layer7_Lead_Fee
+3733: V6_Layer7_Audit_Cost
+3734: V6_Layer7_Overrider
+3735: V6_Layer7_Statutory_Charges
+3736: V6_Layer7_Other_Costs
+3737: V6_Layer7_Type_of_Participation
+3738: V6_Layer7_HDI_Share
+3739: V6_Layer8_Limit_occ
+3740: V6_Layer8_Limit_agg
+3741: V6_Layer8_Attachment_Point
+3742: V6_Layer8_Expected_Loss_Premium
+3743: V6_Layer8_Volatility_Loading
+3744: V6_Layer8_Risk_Premium
+3745: V6_Layer8_Technical_Premium
+3746: V6_Layer8_Offered_Premium
+3747: V6_Layer8_Premium_Rate
+3748: V6_Layer8_Uncertainty_Level
+3749: V6_Layer8_Brokerage
+3750: V6_Layer8_Lead_Fee
+3751: V6_Layer8_Audit_Cost
+3752: V6_Layer8_Overrider
+3753: V6_Layer8_Statutory_Charges
+3754: V6_Layer8_Other_Costs
+3755: V6_Layer8_Type_of_Participation
+3756: V6_Layer8_HDI_Share
+3757: V6_Layer9_Limit_occ
+3758: V6_Layer9_Limit_agg
+3759: V6_Layer9_Attachment_Point
+3760: V6_Layer9_Expected_Loss_Premium
+3761: V6_Layer9_Volatility_Loading
+3762: V6_Layer9_Risk_Premium
+3763: V6_Layer9_Technical_Premium
+3764: V6_Layer9_Offered_Premium
+3765: V6_Layer9_Premium_Rate
+3766: V6_Layer9_Uncertainty_Level
+3767: V6_Layer9_Brokerage
+3768: V6_Layer9_Lead_Fee
+3769: V6_Layer9_Audit_Cost
+3770: V6_Layer9_Overrider
+3771: V6_Layer9_Statutory_Charges
+3772: V6_Layer9_Other_Costs
+3773: V6_Layer9_Type_of_Participation
+3774: V6_Layer9_HDI_Share
+3775: V6_Layer10_Limit_occ
+3776: V6_Layer10_Limit_agg
+3777: V6_Layer10_Attachment_Point
+3778: V6_Layer10_Expected_Loss_Premium
+3779: V6_Layer10_Volatility_Loading
+3780: V6_Layer10_Risk_Premium
+3781: V6_Layer10_Technical_Premium
+3782: V6_Layer10_Offered_Premium
+3783: V6_Layer10_Premium_Rate
+3784: V6_Layer10_Uncertainty_Level
+3785: V6_Layer10_Brokerage
+3786: V6_Layer10_Lead_Fee
+3787: V6_Layer10_Audit_Cost
+3788: V6_Layer10_Overrider
+3789: V6_Layer10_Statutory_Charges
+3790: V6_Layer10_Other_Costs
+3791: V6_Layer10_Type_of_Participation
+3792: V6_Layer10_HDI_Share
+3793: V7_Primary_Limit_occ
+3794: V7_Primary_Limit_agg
+3795: V7_Primary_Deductible_occ
+3796: V7_Primary_Deductible_agg
+3797: V7_Primary_Deductible_temp
+3798: V7_Primary_Expected_Loss_Premium
+3799: V7_Primary_Volatility_Loading
+3800: V7_Primary_Risk_Premium
+3801: V7_Primary_Technical_Premium
+3802: V7_Primary_Offered_Premium
+3803: V7_Primary_Premium_Rate
+3804: V7_Primary_Uncertainty_Level
+3805: V7_Primary_Brokerage
+3806: V7_Primary_Lead_Fee
+3807: V7_Primary_Audit_Cost
+3808: V7_Primary_Overrider
+3809: V7_Primary_Statutory_Charges
+3810: V7_Primary_Other_Costs
+3811: V7_Primary_Type_of_Participation
+3812: V7_Primary_HDI_Share
+3813: V7_Layer1_Limit_occ
+3814: V7_Layer1_Limit_agg
+3815: V7_Layer1_Attachment_Point
+3816: V7_Layer1_Expected_Loss_Premium
+3817: V7_Layer1_Volatility_Loading
+3818: V7_Layer1_Risk_Premium
+3819: V7_Layer1_Technical_Premium
+3820: V7_Layer1_Offered_Premium
+3821: V7_Layer1_Premium_Rate
+3822: V7_Layer1_Uncertainty_Level
+3823: V7_Layer1_Brokerage
+3824: V7_Layer1_Lead_Fee
+3825: V7_Layer1_Audit_Cost
+3826: V7_Layer1_Overrider
+3827: V7_Layer1_Statutory_Charges
+3828: V7_Layer1_Other_Costs
+3829: V7_Layer1_Type_of_Participation
+3830: V7_Layer1_HDI_Share
+3831: V7_Layer2_Limit_occ
+3832: V7_Layer2_Limit_agg
+3833: V7_Layer2_Attachment_Point
+3834: V7_Layer2_Expected_Loss_Premium
+3835: V7_Layer2_Volatility_Loading
+3836: V7_Layer2_Risk_Premium
+3837: V7_Layer2_Technical_Premium
+3838: V7_Layer2_Offered_Premium
+3839: V7_Layer2_Premium_Rate
+3840: V7_Layer2_Uncertainty_Level
+3841: V7_Layer2_Brokerage
+3842: V7_Layer2_Lead_Fee
+3843: V7_Layer2_Audit_Cost
+3844: V7_Layer2_Overrider
+3845: V7_Layer2_Statutory_Charges
+3846: V7_Layer2_Other_Costs
+3847: V7_Layer2_Type_of_Participation
+3848: V7_Layer2_HDI_Share
+3849: V7_Layer3_Limit_occ
+3850: V7_Layer3_Limit_agg
+3851: V7_Layer3_Attachment_Point
+3852: V7_Layer3_Expected_Loss_Premium
+3853: V7_Layer3_Volatility_Loading
+3854: V7_Layer3_Risk_Premium
+3855: V7_Layer3_Technical_Premium
+3856: V7_Layer3_Offered_Premium
+3857: V7_Layer3_Premium_Rate
+3858: V7_Layer3_Uncertainty_Level
+3859: V7_Layer3_Brokerage
+3860: V7_Layer3_Lead_Fee
+3861: V7_Layer3_Audit_Cost
+3862: V7_Layer3_Overrider
+3863: V7_Layer3_Statutory_Charges
+3864: V7_Layer3_Other_Costs
+3865: V7_Layer3_Type_of_Participation
+3866: V7_Layer3_HDI_Share
+3867: V7_Layer4_Limit_occ
+3868: V7_Layer4_Limit_agg
+3869: V7_Layer4_Attachment_Point
+3870: V7_Layer4_Expected_Loss_Premium
+3871: V7_Layer4_Volatility_Loading
+3872: V7_Layer4_Risk_Premium
+3873: V7_Layer4_Technical_Premium
+3874: V7_Layer4_Offered_Premium
+3875: V7_Layer4_Premium_Rate
+3876: V7_Layer4_Uncertainty_Level
+3877: V7_Layer4_Brokerage
+3878: V7_Layer4_Lead_Fee
+3879: V7_Layer4_Audit_Cost
+3880: V7_Layer4_Overrider
+3881: V7_Layer4_Statutory_Charges
+3882: V7_Layer4_Other_Costs
+3883: V7_Layer4_Type_of_Participation
+3884: V7_Layer4_HDI_Share
+3885: V7_Layer5_Limit_occ
+3886: V7_Layer5_Limit_agg
+3887: V7_Layer5_Attachment_Point
+3888: V7_Layer5_Expected_Loss_Premium
+3889: V7_Layer5_Volatility_Loading
+3890: V7_Layer5_Risk_Premium
+3891: V7_Layer5_Technical_Premium
+3892: V7_Layer5_Offered_Premium
+3893: V7_Layer5_Premium_Rate
+3894: V7_Layer5_Uncertainty_Level
+3895: V7_Layer5_Brokerage
+3896: V7_Layer5_Lead_Fee
+3897: V7_Layer5_Audit_Cost
+3898: V7_Layer5_Overrider
+3899: V7_Layer5_Statutory_Charges
+3900: V7_Layer5_Other_Costs
+3901: V7_Layer5_Type_of_Participation
+3902: V7_Layer5_HDI_Share
+3903: V7_Layer6_Limit_occ
+3904: V7_Layer6_Limit_agg
+3905: V7_Layer6_Attachment_Point
+3906: V7_Layer6_Expected_Loss_Premium
+3907: V7_Layer6_Volatility_Loading
+3908: V7_Layer6_Risk_Premium
+3909: V7_Layer6_Technical_Premium
+3910: V7_Layer6_Offered_Premium
+3911: V7_Layer6_Premium_Rate
+3912: V7_Layer6_Uncertainty_Level
+3913: V7_Layer6_Brokerage
+3914: V7_Layer6_Lead_Fee
+3915: V7_Layer6_Audit_Cost
+3916: V7_Layer6_Overrider
+3917: V7_Layer6_Statutory_Charges
+3918: V7_Layer6_Other_Costs
+3919: V7_Layer6_Type_of_Participation
+3920: V7_Layer6_HDI_Share
+3921: V7_Layer7_Limit_occ
+3922: V7_Layer7_Limit_agg
+3923: V7_Layer7_Attachment_Point
+3924: V7_Layer7_Expected_Loss_Premium
+3925: V7_Layer7_Volatility_Loading
+3926: V7_Layer7_Risk_Premium
+3927: V7_Layer7_Technical_Premium
+3928: V7_Layer7_Offered_Premium
+3929: V7_Layer7_Premium_Rate
+3930: V7_Layer7_Uncertainty_Level
+3931: V7_Layer7_Brokerage
+3932: V7_Layer7_Lead_Fee
+3933: V7_Layer7_Audit_Cost
+3934: V7_Layer7_Overrider
+3935: V7_Layer7_Statutory_Charges
+3936: V7_Layer7_Other_Costs
+3937: V7_Layer7_Type_of_Participation
+3938: V7_Layer7_HDI_Share
+3939: V7_Layer8_Limit_occ
+3940: V7_Layer8_Limit_agg
+3941: V7_Layer8_Attachment_Point
+3942: V7_Layer8_Expected_Loss_Premium
+3943: V7_Layer8_Volatility_Loading
+3944: V7_Layer8_Risk_Premium
+3945: V7_Layer8_Technical_Premium
+3946: V7_Layer8_Offered_Premium
+3947: V7_Layer8_Premium_Rate
+3948: V7_Layer8_Uncertainty_Level
+3949: V7_Layer8_Brokerage
+3950: V7_Layer8_Lead_Fee
+3951: V7_Layer8_Audit_Cost
+3952: V7_Layer8_Overrider
+3953: V7_Layer8_Statutory_Charges
+3954: V7_Layer8_Other_Costs
+3955: V7_Layer8_Type_of_Participation
+3956: V7_Layer8_HDI_Share
+3957: V7_Layer9_Limit_occ
+3958: V7_Layer9_Limit_agg
+3959: V7_Layer9_Attachment_Point
+3960: V7_Layer9_Expected_Loss_Premium
+3961: V7_Layer9_Volatility_Loading
+3962: V7_Layer9_Risk_Premium
+3963: V7_Layer9_Technical_Premium
+3964: V7_Layer9_Offered_Premium
+3965: V7_Layer9_Premium_Rate
+3966: V7_Layer9_Uncertainty_Level
+3967: V7_Layer9_Brokerage
+3968: V7_Layer9_Lead_Fee
+3969: V7_Layer9_Audit_Cost
+3970: V7_Layer9_Overrider
+3971: V7_Layer9_Statutory_Charges
+3972: V7_Layer9_Other_Costs
+3973: V7_Layer9_Type_of_Participation
+3974: V7_Layer9_HDI_Share
+3975: V7_Layer10_Limit_occ
+3976: V7_Layer10_Limit_agg
+3977: V7_Layer10_Attachment_Point
+3978: V7_Layer10_Expected_Loss_Premium
+3979: V7_Layer10_Volatility_Loading
+3980: V7_Layer10_Risk_Premium
+3981: V7_Layer10_Technical_Premium
+3982: V7_Layer10_Offered_Premium
+3983: V7_Layer10_Premium_Rate
+3984: V7_Layer10_Uncertainty_Level
+3985: V7_Layer10_Brokerage
+3986: V7_Layer10_Lead_Fee
+3987: V7_Layer10_Audit_Cost
+3988: V7_Layer10_Overrider
+3989: V7_Layer10_Statutory_Charges
+3990: V7_Layer10_Other_Costs
+3991: V7_Layer10_Type_of_Participation
+3992: V7_Layer10_HDI_Share
+3993: V8_Primary_Limit_occ
+3994: V8_Primary_Limit_agg
+3995: V8_Primary_Deductible_occ
+3996: V8_Primary_Deductible_agg
+3997: V8_Primary_Deductible_temp
+3998: V8_Primary_Expected_Loss_Premium
+3999: V8_Primary_Volatility_Loading
+4000: V8_Primary_Risk_Premium
+4001: V8_Primary_Technical_Premium
+4002: V8_Primary_Offered_Premium
+4003: V8_Primary_Premium_Rate
+4004: V8_Primary_Uncertainty_Level
+4005: V8_Primary_Brokerage
+4006: V8_Primary_Lead_Fee
+4007: V8_Primary_Audit_Cost
+4008: V8_Primary_Overrider
+4009: V8_Primary_Statutory_Charges
+4010: V8_Primary_Other_Costs
+4011: V8_Primary_Type_of_Participation
+4012: V8_Primary_HDI_Share
+4013: V8_Layer1_Limit_occ
+4014: V8_Layer1_Limit_agg
+4015: V8_Layer1_Attachment_Point
+4016: V8_Layer1_Expected_Loss_Premium
+4017: V8_Layer1_Volatility_Loading
+4018: V8_Layer1_Risk_Premium
+4019: V8_Layer1_Technical_Premium
+4020: V8_Layer1_Offered_Premium
+4021: V8_Layer1_Premium_Rate
+4022: V8_Layer1_Uncertainty_Level
+4023: V8_Layer1_Brokerage
+4024: V8_Layer1_Lead_Fee
+4025: V8_Layer1_Audit_Cost
+4026: V8_Layer1_Overrider
+4027: V8_Layer1_Statutory_Charges
+4028: V8_Layer1_Other_Costs
+4029: V8_Layer1_Type_of_Participation
+4030: V8_Layer1_HDI_Share
+4031: V8_Layer2_Limit_occ
+4032: V8_Layer2_Limit_agg
+4033: V8_Layer2_Attachment_Point
+4034: V8_Layer2_Expected_Loss_Premium
+4035: V8_Layer2_Volatility_Loading
+4036: V8_Layer2_Risk_Premium
+4037: V8_Layer2_Technical_Premium
+4038: V8_Layer2_Offered_Premium
+4039: V8_Layer2_Premium_Rate
+4040: V8_Layer2_Uncertainty_Level
+4041: V8_Layer2_Brokerage
+4042: V8_Layer2_Lead_Fee
+4043: V8_Layer2_Audit_Cost
+4044: V8_Layer2_Overrider
+4045: V8_Layer2_Statutory_Charges
+4046: V8_Layer2_Other_Costs
+4047: V8_Layer2_Type_of_Participation
+4048: V8_Layer2_HDI_Share
+4049: V8_Layer3_Limit_occ
+4050: V8_Layer3_Limit_agg
+4051: V8_Layer3_Attachment_Point
+4052: V8_Layer3_Expected_Loss_Premium
+4053: V8_Layer3_Volatility_Loading
+4054: V8_Layer3_Risk_Premium
+4055: V8_Layer3_Technical_Premium
+4056: V8_Layer3_Offered_Premium
+4057: V8_Layer3_Premium_Rate
+4058: V8_Layer3_Uncertainty_Level
+4059: V8_Layer3_Brokerage
+4060: V8_Layer3_Lead_Fee
+4061: V8_Layer3_Audit_Cost
+4062: V8_Layer3_Overrider
+4063: V8_Layer3_Statutory_Charges
+4064: V8_Layer3_Other_Costs
+4065: V8_Layer3_Type_of_Participation
+4066: V8_Layer3_HDI_Share
+4067: V8_Layer4_Limit_occ
+4068: V8_Layer4_Limit_agg
+4069: V8_Layer4_Attachment_Point
+4070: V8_Layer4_Expected_Loss_Premium
+4071: V8_Layer4_Volatility_Loading
+4072: V8_Layer4_Risk_Premium
+4073: V8_Layer4_Technical_Premium
+4074: V8_Layer4_Offered_Premium
+4075: V8_Layer4_Premium_Rate
+4076: V8_Layer4_Uncertainty_Level
+4077: V8_Layer4_Brokerage
+4078: V8_Layer4_Lead_Fee
+4079: V8_Layer4_Audit_Cost
+4080: V8_Layer4_Overrider
+4081: V8_Layer4_Statutory_Charges
+4082: V8_Layer4_Other_Costs
+4083: V8_Layer4_Type_of_Participation
+4084: V8_Layer4_HDI_Share
+4085: V8_Layer5_Limit_occ
+4086: V8_Layer5_Limit_agg
+4087: V8_Layer5_Attachment_Point
+4088: V8_Layer5_Expected_Loss_Premium
+4089: V8_Layer5_Volatility_Loading
+4090: V8_Layer5_Risk_Premium
+4091: V8_Layer5_Technical_Premium
+4092: V8_Layer5_Offered_Premium
+4093: V8_Layer5_Premium_Rate
+4094: V8_Layer5_Uncertainty_Level
+4095: V8_Layer5_Brokerage
+4096: V8_Layer5_Lead_Fee
+4097: V8_Layer5_Audit_Cost
+4098: V8_Layer5_Overrider
+4099: V8_Layer5_Statutory_Charges
+4100: V8_Layer5_Other_Costs
+4101: V8_Layer5_Type_of_Participation
+4102: V8_Layer5_HDI_Share
+4103: V8_Layer6_Limit_occ
+4104: V8_Layer6_Limit_agg
+4105: V8_Layer6_Attachment_Point
+4106: V8_Layer6_Expected_Loss_Premium
+4107: V8_Layer6_Volatility_Loading
+4108: V8_Layer6_Risk_Premium
+4109: V8_Layer6_Technical_Premium
+4110: V8_Layer6_Offered_Premium
+4111: V8_Layer6_Premium_Rate
+4112: V8_Layer6_Uncertainty_Level
+4113: V8_Layer6_Brokerage
+4114: V8_Layer6_Lead_Fee
+4115: V8_Layer6_Audit_Cost
+4116: V8_Layer6_Overrider
+4117: V8_Layer6_Statutory_Charges
+4118: V8_Layer6_Other_Costs
+4119: V8_Layer6_Type_of_Participation
+4120: V8_Layer6_HDI_Share
+4121: V8_Layer7_Limit_occ
+4122: V8_Layer7_Limit_agg
+4123: V8_Layer7_Attachment_Point
+4124: V8_Layer7_Expected_Loss_Premium
+4125: V8_Layer7_Volatility_Loading
+4126: V8_Layer7_Risk_Premium
+4127: V8_Layer7_Technical_Premium
+4128: V8_Layer7_Offered_Premium
+4129: V8_Layer7_Premium_Rate
+4130: V8_Layer7_Uncertainty_Level
+4131: V8_Layer7_Brokerage
+4132: V8_Layer7_Lead_Fee
+4133: V8_Layer7_Audit_Cost
+4134: V8_Layer7_Overrider
+4135: V8_Layer7_Statutory_Charges
+4136: V8_Layer7_Other_Costs
+4137: V8_Layer7_Type_of_Participation
+4138: V8_Layer7_HDI_Share
+4139: V8_Layer8_Limit_occ
+4140: V8_Layer8_Limit_agg
+4141: V8_Layer8_Attachment_Point
+4142: V8_Layer8_Expected_Loss_Premium
+4143: V8_Layer8_Volatility_Loading
+4144: V8_Layer8_Risk_Premium
+4145: V8_Layer8_Technical_Premium
+4146: V8_Layer8_Offered_Premium
+4147: V8_Layer8_Premium_Rate
+4148: V8_Layer8_Uncertainty_Level
+4149: V8_Layer8_Brokerage
+4150: V8_Layer8_Lead_Fee
+4151: V8_Layer8_Audit_Cost
+4152: V8_Layer8_Overrider
+4153: V8_Layer8_Statutory_Charges
+4154: V8_Layer8_Other_Costs
+4155: V8_Layer8_Type_of_Participation
+4156: V8_Layer8_HDI_Share
+4157: V8_Layer9_Limit_occ
+4158: V8_Layer9_Limit_agg
+4159: V8_Layer9_Attachment_Point
+4160: V8_Layer9_Expected_Loss_Premium
+4161: V8_Layer9_Volatility_Loading
+4162: V8_Layer9_Risk_Premium
+4163: V8_Layer9_Technical_Premium
+4164: V8_Layer9_Offered_Premium
+4165: V8_Layer9_Premium_Rate
+4166: V8_Layer9_Uncertainty_Level
+4167: V8_Layer9_Brokerage
+4168: V8_Layer9_Lead_Fee
+4169: V8_Layer9_Audit_Cost
+4170: V8_Layer9_Overrider
+4171: V8_Layer9_Statutory_Charges
+4172: V8_Layer9_Other_Costs
+4173: V8_Layer9_Type_of_Participation
+4174: V8_Layer9_HDI_Share
+4175: V8_Layer10_Limit_occ
+4176: V8_Layer10_Limit_agg
+4177: V8_Layer10_Attachment_Point
+4178: V8_Layer10_Expected_Loss_Premium
+4179: V8_Layer10_Volatility_Loading
+4180: V8_Layer10_Risk_Premium
+4181: V8_Layer10_Technical_Premium
+4182: V8_Layer10_Offered_Premium
+4183: V8_Layer10_Premium_Rate
+4184: V8_Layer10_Uncertainty_Level
+4185: V8_Layer10_Brokerage
+4186: V8_Layer10_Lead_Fee
+4187: V8_Layer10_Audit_Cost
+4188: V8_Layer10_Overrider
+4189: V8_Layer10_Statutory_Charges
+4190: V8_Layer10_Other_Costs
+4191: V8_Layer10_Type_of_Participation
+4192: V8_Layer10_HDI_Share
+4193: V9_Primary_Limit_occ
+4194: V9_Primary_Limit_agg
+4195: V9_Primary_Deductible_occ
+4196: V9_Primary_Deductible_agg
+4197: V9_Primary_Deductible_temp
+4198: V9_Primary_Expected_Loss_Premium
+4199: V9_Primary_Volatility_Loading
+4200: V9_Primary_Risk_Premium
+4201: V9_Primary_Technical_Premium
+4202: V9_Primary_Offered_Premium
+4203: V9_Primary_Premium_Rate
+4204: V9_Primary_Uncertainty_Level
+4205: V9_Primary_Brokerage
+4206: V9_Primary_Lead_Fee
+4207: V9_Primary_Audit_Cost
+4208: V9_Primary_Overrider
+4209: V9_Primary_Statutory_Charges
+4210: V9_Primary_Other_Costs
+4211: V9_Primary_Type_of_Participation
+4212: V9_Primary_HDI_Share
+4213: V9_Layer1_Limit_occ
+4214: V9_Layer1_Limit_agg
+4215: V9_Layer1_Attachment_Point
+4216: V9_Layer1_Expected_Loss_Premium
+4217: V9_Layer1_Volatility_Loading
+4218: V9_Layer1_Risk_Premium
+4219: V9_Layer1_Technical_Premium
+4220: V9_Layer1_Offered_Premium
+4221: V9_Layer1_Premium_Rate
+4222: V9_Layer1_Uncertainty_Level
+4223: V9_Layer1_Brokerage
+4224: V9_Layer1_Lead_Fee
+4225: V9_Layer1_Audit_Cost
+4226: V9_Layer1_Overrider
+4227: V9_Layer1_Statutory_Charges
+4228: V9_Layer1_Other_Costs
+4229: V9_Layer1_Type_of_Participation
+4230: V9_Layer1_HDI_Share
+4231: V9_Layer2_Limit_occ
+4232: V9_Layer2_Limit_agg
+4233: V9_Layer2_Attachment_Point
+4234: V9_Layer2_Expected_Loss_Premium
+4235: V9_Layer2_Volatility_Loading
+4236: V9_Layer2_Risk_Premium
+4237: V9_Layer2_Technical_Premium
+4238: V9_Layer2_Offered_Premium
+4239: V9_Layer2_Premium_Rate
+4240: V9_Layer2_Uncertainty_Level
+4241: V9_Layer2_Brokerage
+4242: V9_Layer2_Lead_Fee
+4243: V9_Layer2_Audit_Cost
+4244: V9_Layer2_Overrider
+4245: V9_Layer2_Statutory_Charges
+4246: V9_Layer2_Other_Costs
+4247: V9_Layer2_Type_of_Participation
+4248: V9_Layer2_HDI_Share
+4249: V9_Layer3_Limit_occ
+4250: V9_Layer3_Limit_agg
+4251: V9_Layer3_Attachment_Point
+4252: V9_Layer3_Expected_Loss_Premium
+4253: V9_Layer3_Volatility_Loading
+4254: V9_Layer3_Risk_Premium
+4255: V9_Layer3_Technical_Premium
+4256: V9_Layer3_Offered_Premium
+4257: V9_Layer3_Premium_Rate
+4258: V9_Layer3_Uncertainty_Level
+4259: V9_Layer3_Brokerage
+4260: V9_Layer3_Lead_Fee
+4261: V9_Layer3_Audit_Cost
+4262: V9_Layer3_Overrider
+4263: V9_Layer3_Statutory_Charges
+4264: V9_Layer3_Other_Costs
+4265: V9_Layer3_Type_of_Participation
+4266: V9_Layer3_HDI_Share
+4267: V9_Layer4_Limit_occ
+4268: V9_Layer4_Limit_agg
+4269: V9_Layer4_Attachment_Point
+4270: V9_Layer4_Expected_Loss_Premium
+4271: V9_Layer4_Volatility_Loading
+4272: V9_Layer4_Risk_Premium
+4273: V9_Layer4_Technical_Premium
+4274: V9_Layer4_Offered_Premium
+4275: V9_Layer4_Premium_Rate
+4276: V9_Layer4_Uncertainty_Level
+4277: V9_Layer4_Brokerage
+4278: V9_Layer4_Lead_Fee
+4279: V9_Layer4_Audit_Cost
+4280: V9_Layer4_Overrider
+4281: V9_Layer4_Statutory_Charges
+4282: V9_Layer4_Other_Costs
+4283: V9_Layer4_Type_of_Participation
+4284: V9_Layer4_HDI_Share
+4285: V9_Layer5_Limit_occ
+4286: V9_Layer5_Limit_agg
+4287: V9_Layer5_Attachment_Point
+4288: V9_Layer5_Expected_Loss_Premium
+4289: V9_Layer5_Volatility_Loading
+4290: V9_Layer5_Risk_Premium
+4291: V9_Layer5_Technical_Premium
+4292: V9_Layer5_Offered_Premium
+4293: V9_Layer5_Premium_Rate
+4294: V9_Layer5_Uncertainty_Level
+4295: V9_Layer5_Brokerage
+4296: V9_Layer5_Lead_Fee
+4297: V9_Layer5_Audit_Cost
+4298: V9_Layer5_Overrider
+4299: V9_Layer5_Statutory_Charges
+4300: V9_Layer5_Other_Costs
+4301: V9_Layer5_Type_of_Participation
+4302: V9_Layer5_HDI_Share
+4303: V9_Layer6_Limit_occ
+4304: V9_Layer6_Limit_agg
+4305: V9_Layer6_Attachment_Point
+4306: V9_Layer6_Expected_Loss_Premium
+4307: V9_Layer6_Volatility_Loading
+4308: V9_Layer6_Risk_Premium
+4309: V9_Layer6_Technical_Premium
+4310: V9_Layer6_Offered_Premium
+4311: V9_Layer6_Premium_Rate
+4312: V9_Layer6_Uncertainty_Level
+4313: V9_Layer6_Brokerage
+4314: V9_Layer6_Lead_Fee
+4315: V9_Layer6_Audit_Cost
+4316: V9_Layer6_Overrider
+4317: V9_Layer6_Statutory_Charges
+4318: V9_Layer6_Other_Costs
+4319: V9_Layer6_Type_of_Participation
+4320: V9_Layer6_HDI_Share
+4321: V9_Layer7_Limit_occ
+4322: V9_Layer7_Limit_agg
+4323: V9_Layer7_Attachment_Point
+4324: V9_Layer7_Expected_Loss_Premium
+4325: V9_Layer7_Volatility_Loading
+4326: V9_Layer7_Risk_Premium
+4327: V9_Layer7_Technical_Premium
+4328: V9_Layer7_Offered_Premium
+4329: V9_Layer7_Premium_Rate
+4330: V9_Layer7_Uncertainty_Level
+4331: V9_Layer7_Brokerage
+4332: V9_Layer7_Lead_Fee
+4333: V9_Layer7_Audit_Cost
+4334: V9_Layer7_Overrider
+4335: V9_Layer7_Statutory_Charges
+4336: V9_Layer7_Other_Costs
+4337: V9_Layer7_Type_of_Participation
+4338: V9_Layer7_HDI_Share
+4339: V9_Layer8_Limit_occ
+4340: V9_Layer8_Limit_agg
+4341: V9_Layer8_Attachment_Point
+4342: V9_Layer8_Expected_Loss_Premium
+4343: V9_Layer8_Volatility_Loading
+4344: V9_Layer8_Risk_Premium
+4345: V9_Layer8_Technical_Premium
+4346: V9_Layer8_Offered_Premium
+4347: V9_Layer8_Premium_Rate
+4348: V9_Layer8_Uncertainty_Level
+4349: V9_Layer8_Brokerage
+4350: V9_Layer8_Lead_Fee
+4351: V9_Layer8_Audit_Cost
+4352: V9_Layer8_Overrider
+4353: V9_Layer8_Statutory_Charges
+4354: V9_Layer8_Other_Costs
+4355: V9_Layer8_Type_of_Participation
+4356: V9_Layer8_HDI_Share
+4357: V9_Layer9_Limit_occ
+4358: V9_Layer9_Limit_agg
+4359: V9_Layer9_Attachment_Point
+4360: V9_Layer9_Expected_Loss_Premium
+4361: V9_Layer9_Volatility_Loading
+4362: V9_Layer9_Risk_Premium
+4363: V9_Layer9_Technical_Premium
+4364: V9_Layer9_Offered_Premium
+4365: V9_Layer9_Premium_Rate
+4366: V9_Layer9_Uncertainty_Level
+4367: V9_Layer9_Brokerage
+4368: V9_Layer9_Lead_Fee
+4369: V9_Layer9_Audit_Cost
+4370: V9_Layer9_Overrider
+4371: V9_Layer9_Statutory_Charges
+4372: V9_Layer9_Other_Costs
+4373: V9_Layer9_Type_of_Participation
+4374: V9_Layer9_HDI_Share
+4375: V9_Layer10_Limit_occ
+4376: V9_Layer10_Limit_agg
+4377: V9_Layer10_Attachment_Point
+4378: V9_Layer10_Expected_Loss_Premium
+4379: V9_Layer10_Volatility_Loading
+4380: V9_Layer10_Risk_Premium
+4381: V9_Layer10_Technical_Premium
+4382: V9_Layer10_Offered_Premium
+4383: V9_Layer10_Premium_Rate
+4384: V9_Layer10_Uncertainty_Level
+4385: V9_Layer10_Brokerage
+4386: V9_Layer10_Lead_Fee
+4387: V9_Layer10_Audit_Cost
+4388: V9_Layer10_Overrider
+4389: V9_Layer10_Statutory_Charges
+4390: V9_Layer10_Other_Costs
+4391: V9_Layer10_Type_of_Participation
+4392: V9_Layer10_HDI_Share
+4393: \selected_typeofparticipation
+4394: Input!J3
+4395: Used
+4396: Producing_Office
+4397: Allowed_Regional_Office
+4398: Berlin; Hamburg; Hannover
+4399: Mainz; Stuttgart
+4400: Regional_Office_PreSplit
+4401: Regional_Office_PostSplit
+4402: Brisbane; Melbourne; Perth; Sydney
+4403: Antwerp; Brussels
+4404: Lille; Lyon; Paris
+4405: Leipzig; Munich; Nuremberg
+4406: Dortmund; Duesseldorf; Essen
+4407: Genoa; Milan
+4408: Mexico City; Guadalajara; Monterrey
+4409: Barcelona; Madrid
+4410: Zurich; Lausanne; Bern
+4411: United Kingdom
+4412: Birmingham; Glasgow; London; Manchester
+4413: Sub Lines
+4414: lfdNr
+4415: Lagername
+(Name of Storage Place)
+4416: Kundennummer
+(Storage ID No. Insured)
+4417: HDI Lagernummer
+(Storage ID No. Insurer)
+4418: Land 
+(Country - ISO Code)
+4419: Region, (State, Prefecture...)
+4420: PLZ 
+(ZIP Code)
+4421: Risiko-Ort 
+(City) 
+4422: Strasse 
+(Street)
+4423: HausNr. 
+(No.)
+4424: Währung
+(Currency - ISO Code)
+4425: Vertraglich vereinbartes Lagermaximum
+(Limit of Liability)
+4426: aktueller / durchschnittlicher Lagerwert
+(Average Value of Storage)
+4427: Breitengrad
+(Latitude)
+4428: Längengrad
+(Longitutde)
+4429: Koordinaten Qualität
+(Coordinate Quality)
+4430: ---&gt; After filling out the the storage location list, please enter additional risk information on the right next to this table ---&gt;
+4431: How many different Type of Goods do you want to enter?
+4432: Nr
+4433: Share (% of insured storage limit)
+4434: Type of Deductible
+4435: Deductible (in %)
+4436: Deductible Min
+4437: Deductible Max
+4438: Percentage
+4439: Type of Goods Nr
+4440: Type of Goods Share
+4441: Type of Goods Factor
+4442: Miscellaneous
+4443: Pharma
+4444: Chemicals
+4445: Refrigerated Food
+4446: IT-Hardware
+4447: Electronics
+4448: Textile
+4449: Leather
+4450: Household Goods
+4451: Raw Material
+4452: Construction Goods
+4453: Bulk Goods
+4454: Paper
+4455: Non-Refrigerated Food
+4456: Machines
+4457: Industrial Equipment
+4458: Spare Parts
+4459: Base Rate
+4460: Type of Goods Name
+4461: Current Total Share
+4462: Overall Factor
+4463: All-Or-Nothing
+4464: Fixed Amount
+4465: Deductible Types
+4466: Storage Nr
+4467: Alpha
+4468: Chosen Deductible
+4469: Deductible_Parameters
+4470: Threshold_Factor
+4471: Premium FGU
+4472: ReturnPeriod_ThresholdLoss
+4473: Pareto_Threshold
+4474: Threshold &gt;= Ded, Alpha != 1
+4475: Threshold &lt; Ded, Alpha != 1
+4476: Threshold &gt;= Ded, Alpha = 1
+4477: Threshold &lt; Ded, Alpha = 1
+4478: Deductible &amp; Limit, Alpha != 1
+4479: Chosen
+4480: Gross With Frequency
+4481: "Adjusted" Limit for Gross
+4482: Total Gross
+4483: MarineDB_HeaderRow
+4484: lfdNr
+(No.)
+4485: Strasse
+(Street)
+4486: Hausnummer
+(No.)
+4487: GPSB
+4488: GPSL
+4489: Quality
+4490: MarineDB_SheetName
+4491: RisikoortInfo -  SOV
+4492: StorageDataTypes
+4493: MarineDB
+4494: Total Gross ManMade
+4495: Total Gross NatCat
+4496: Year
+4497: FGU
+4498: Gross
+4499: NatCat_YLT_#Years
+4500: MarineDB_Columns_Origin
+4501: MarineDB_Columns_InputColumn
+4502: StorageData_ColumnCount
+4503: Transit 
+4504: Storage_Limit_Input
+4505: Storage_Limit_Currency
+4506: XChange_to_EUR
+4507: Storage_Limit_in_PolCur
+4508: Relevant Currencies
+4509: FX_Rate_To_EUR
+4510: ARGOSImport_Columns
+4511: ARGOSImport_Columns_InputColumn
+4512: ARGOSImport_HeaderRow
+4513: ARGOSImport_SheetName
+4514: ARGOSImport
+4515: ARGOSexportv3
+4516: ARGOSexportv4
+4517: ARGOSexportv3_Columns
+4518: ARGOSexportv3_Columns_InputColumn
+4519: ARGOSexportv3_HeaderRow
+4520: ARGOSexportv3_SheetName
+4521: DATA
+4522: TERROR_ZIPS
+4523: ARGOSexportv4_Columns
+4524: ARGOSexportv4_Columns_InputColumn
+4525: ARGOSexportv4_HeaderRow
+4526: ARGOSexportv4_SheetName
+4527: Extra Premium per local policy
+4528: LoPo-ID
+4529: Country (optional)
+4530: % of total Turnover
+4531: Master
+4532: Premium:
+4533: #LoPos:
+4534: Min Premium for LoPos:
+4535: Policies
+4536: Premium based on Turnover
+4537: Min Premium
+4538: Difference to turnover based premium
+4539: Input_parameters
+4540: Turnover based premium with minimum premium
+4541: Total Premium "needed"
+4542: Allocated Premium
+4543: Premium Reduction
+4544: Turnover_Share
+4545: Reaches minimum premium when "total premium needed" is reduced by this amount.
+4546: Remaining share when policy reaches minimum premium
+4547: Reduction sorted
+4548: Actual Reduction from the respective interval
+4549: Actual Reduction from start until the end of the interval
+4550: Reduction needed
+4551: Is in Interval
+4552: Is % in interval
+4553: equals reduction input of
+4554: Reason
+4555: Discount / Surcharge amount
+4556: Sublimits
+4557: Technical Adjustments Reasons
+4558: Technical Adjustments
+4559: Technical Adjustment reason
+4560: Technical Adjustment amount
+4561: Technical Adjustment Bound
+4562: Technical Adjustment Amount
+4563: Single Reason - Lower Bound
+4564: Single Reason - Upper Bound
+4565: Combined Reasons - Lower Bound
+4566: Combined Reasons - Upper Bound
+4567: Adjustments combined after boundary
+4568: Adjustments combined before boundary
+4569: Split not available yet
+4570: LOCATION_NAME
+4571: COMPANY_NAME
+4572: VOLCANO
+4573: VOLCANO_SCORE
+4574: STORM_SURGE
+4575: STORM_SURGE_SCORE
+4576: LANDSLIDE
+4577: LANDSLIDE_SCORE
+4578: HAIL
+4579: HAIL_SCORE
+4580: VOLCANIC_ASH
+4581: VOLCANIC_ASH_SCORE
+4582: SNOW_LOAD
+4583: SNOW_LOAD_SCORE
+4584: WILDFIRE
+4585: WILDFIRE_SCORE
+4586: Natcat Score
+4587: # of NatCat Scores
+4588: # Storages
+4589: TSI
+4590: Large enough for NatCat surcharge?
+4591: NatCat Score missing?
+4592: Total Gross before Adjustments
+4593: Gross after technical Adjustments
+4594: Gross including NatCat Score
+4595: NatCat Adjustment
+4596: Sublimit
+4597: Worldwide
+4598:               Purchase / Shipment
+4599: Geographical Scope detailed View?
+4600: GeoScope National + Worldwide = 100%?
+4601: Geographical Scope = 100%?
+4602: Geographical Scope &lt;&gt; 100% Error Message
+4603: GeoScope National + Worldwide &lt;&gt; 100% Error Message
+4604: GeoScope National + Worldwide
+4605: Show Error Message?
+4606: Entries in Detailed GeoScope
+4607: Is Double Entry?
+4608: Double Entries Error Message
+4609: Deductible: Fixed amount and/or percentage (with maximum limit)
+4610: shipped value
+4611: Priority
+4612: Exposure
+4613: Provided?
+4614: Range Name
+4615: \selected_turnover_total
+4616: Any provided?
+4617: Highest Priority provided?
+4618: \selected_turnover_cargo
+4619: \selected_turnover_shipped
+4620: Exhibitions
+4621: Consequential damage clause 
+4622: Financial loss clause
+4623: War clause
+4624: Luggage
+4625: Cyber clause
+4626: Pandemic clause
+4627: Strike and riot
+4628: Premium Walk
+4629: Please enter the sum of incurred and outstanding claims reserves of the last 3 years (on 100% share) 
+4630: Factor decentral expenses
+4631: LL Loading ALR-Model
+4632: Components of the Premium based on ALR &lt;- For Thinksurance
+4633: Expected Loss Exposure Pricing
+4634: Entered 3-y Loss Amount
+4635: 3-y Loss amount average
+4636: Maximum
+4637: Premium Breakdown:
+4638: Brokerage:
+4639: Brokerage mode
+4640: Brokerage value
+4641: Highest Priority Exposure Policy Currency
+4642: Highest Priority Exposure EUR
+4643: Calculating without IP
+4644: Calculating with IP
+4645: Possible Premium Split
+4646: Type of Transportation available?
+4647: Turnover of local policy / country
+4648: Shape
+4649: Category
+4650: CB_Exhibitions
+4651: CB_ConsequentialDamage
+4652: CB_FinancialLoss
+4653: CB_War
+4654: CB_Luggage
+4655: CB_Cyber
+4656: CB_Pandemic
+4657: CB_StrikeAndRiot
+4658: Country of headquarter
+4659: \selected_additional_YesNo_Messen
+4660: \selected_additional_YesNo_Gueterfolge
+4661: \selected_additional_YesNo_Vermoegen
+4662: \selected_additional_YesNo_Krieg
+4663: \selected_additional_YesNo_Luggage
+4664: \selected_additional_YesNo_Cyber
+4665: \selected_additional_YesNo_Pandemic
+4666: \selected_additional_YesNo_Streik
+4667: Premium Breakdown Maximum:
+4668: Premium Breakdown Exposure:
+4669: Assumed historical loss ratio
+4670: 3-y Loss amount average inflation adjusted
+4671: Inflation for loss amount
+4672: It is necessary that you enable macros in order to use this Cargo Tariff Quotation Tool.
+
+Please click on "Enable Content".
+
+4673: If there is no yellow bar with the "Enable Content" button, then please go to “File -&gt; Options -&gt; Trust Center -&gt; Trust Center settings... -&gt; Macro Settings -&gt; Disable all macros with notification” and restart CaTa.
+If you can't change the macro settings, make sure you have stored the file on your pc and opened it from there (e.g. not opened as an e-mail attachement).
+4674: Aussteuerung Loss Ratio
+4675: Domestic
+4676: Discount / Surcharge
+4677: Total Technical Adjustment currently applied:
+4678: Adj. Based on User Input
+4679: Default Share Split
+4680: Rail
+4681: Rail (if different)
+4682: Country FROM
+4683: Country TO
+4684: You will get the premium breakdown up to the Technical Premium in the UWWB.
+4685: V61
+4686: Loss information
+4687: Example Clients
+4688: MidMarket Client (CaTa Light) Yes/No?
+4689: \selected_conditions_deductible_Air
+4690: \selected_conditions_deductible_Land
+4691: \selected_conditions_deductible_Rail
+4692: \selected_conditions_deductible_Sea
+4693: \selected_conditions_deductible_temperatureContr
+4694: \selected_conditions_deductibleAggregat_Air
+4695: \selected_conditions_deductibleAggregat_Land
+4696: \selected_conditions_deductibleAggregat_Rail
+4697: \selected_conditions_deductibleAggregat_Sea
+4698: \selected_conditions_deductibleAggregat_temperatureContr
+4699: \selected_conditions_deductibleMax_Air
+4700: \selected_conditions_deductibleMax_Land
+4701: \selected_conditions_deductibleMax_Rail
+4702: \selected_conditions_deductibleMax_Sea
+4703: \selected_conditions_deductibleMax_temperatureContr
+4704: \selected_conditions_deductibleProp_Air
+4705: \selected_conditions_deductibleProp_Land
+4706: \selected_conditions_deductibleProp_Rail
+4707: \selected_conditions_deductibleProp_Sea
+4708: \selected_conditions_deductibleProp_temperatureContr
+4709: \selected_conditions_limit_Air
+4710: \selected_conditions_limit_Land
+4711: \selected_conditions_limit_Rail
+4712: \selected_conditions_limit_Sea
+4713: \selected_conditions_limit_temperatureContr
+4714: \selected_country1_Krieg
+4715: \selected_country1_Streik
+4716: \selected_currency
+4717: \selected_deductible_transportationtype
+4718: \selected_deductiblemax_transportationtype
+4719: \selected_deductibleprop_transportationtype
+4720: \selected_expectedprofit
+4721: \selected_geoscope_international
+4722: \selected_geoscope_national
+4723: \selected_industry
+4724: \selected_ip_numberLocalPolicies
+4725: \selected_limit_transportationtype
+4726: \selected_lossratio
+4727: \selected_MidMarketNewBusiness
+4728: \selected_partner
+4729: \selected_partnerID
+4730: \selected_riskcountry
+4731: \selected_subsidiariesflag
+4732: \selected_transportationtype_Land
+4733: \selected_transportationtype_perc
+4734: \selected_transportationtype_Sea
+4735: \selected_typeofcover1
+4736: \selected_typeofcover2
+4737: \selected_typeofgoods_Class3
+4738: \selected_typeofgoods_Class3_Split
+4739: \selected_typeofgoods_SClass1
+4740: \selected_typeofgoods_SClass2
+4741: \selected_typeofgoods_SClass3
+4742: \selected_typeofgoods_TClass1
+4743: \selected_typeofgoods_TClass2
+4744: \selected_typeofgoods_TClass3
+4745: \selected_typeofgoods_ThClass2
+4746: \selected_typeofgoods_ThClass3
+4747: \showHide_GeoScope_Detail
+4748: \showHide_MidMarket_1
+4749: \showHide_MidMarket_2
+4750: \showHide_MidMarket_3
+4751: \showHide_TransportationType
+4752: Input!_FilterDatabase
+4753: Additional_YesNo
+4754: Change_Stop
+4755: Conditions_general
+4756: GeoEnde
+4757: geoscope_Error
+4758: Geoscope_int_Checkc_Sp
+4759: Geoscope_int_from_1
+4760: Geoscope_int_from_2
+4761: Geoscope_int_from_3
+4762: Geoscope_int_from_4
+4763: Geoscope_int_from_5
+4764: Geoscope_int_from_Sp
+4765: Geoscope_int_LoadDisc_1
+4766: Geoscope_int_LoadDisc_2
+4767: Geoscope_int_LoadDisc_3
+4768: Geoscope_int_LoadDisc_4
+4769: Geoscope_int_LoadDisc_5
+4770: Geoscope_int_LoadDisc_Sp
+4771: Geoscope_int_Split_1
+4772: Geoscope_int_Split_2
+4773: Geoscope_int_Split_3
+4774: Geoscope_int_Split_4
+4775: Geoscope_int_Split_5
+4776: Geoscope_int_Split_Sp
+4777: Geoscope_int_to_1
+4778: Geoscope_int_to_2
+4779: Geoscope_int_to_3
+4780: Geoscope_int_to_4
+4781: Geoscope_int_to_5
+4782: Geoscope_int_to_Sp
+4783: Geoscope_int_Wegerisiko_1
+4784: Geoscope_int_Wegerisiko_2
+4785: Geoscope_int_Wegerisiko_3
+4786: Geoscope_int_Wegerisiko_4
+4787: Geoscope_int_Wegerisiko_5
+4788: Geoscope_int_Wegerisiko_Sp
+4789: helper_strikeAndRiotStopper
+4790: helper_technicalAdjustmentFirstAdjustment
+4791: helper_technicalAdjustmentStopper
+4792: helper_warStopper
+4793: Input!Print_Area
+4794: version_number
+4795: Test Partner
+4796: P-123-123-123-1
+4797: V62
+4798: Technial Adjustments Transit Reasons
+4799: Annual aggregate limits
+4800: Risk rating / qualitative assessment (HRC)
+4801: Tariff adjustment (pilot)
+4802: Average storage value
+4803: Storage duration 
+4804: Turnover -&gt; Only used for Premium Rate
+4805: ReturnPeriod_AvgValue
+4806: Avg Value Quantile
+4807: Storage_AvgValue_Input
+4808: Storage_AvgValue_in_PolCur
+4809: Large Loss used

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" data-density="comfortable" data-accent="marine">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CaTa Pricing Tool · Marine Cargo</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="src/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" />
+</head>
+<body>
+  <!-- Password gate -->
+  <div id="gate" style="
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    min-height:100vh; background:#f4f6f8; font-family:'IBM Plex Sans',sans-serif;
+  ">
+    <div style="
+      background:#fff; border:1px solid #e0e4ea; border-radius:10px;
+      padding:40px 48px; width:340px; text-align:center;
+      box-shadow:0 4px 24px rgba(0,0,0,0.08);
+    ">
+      <img src="src/hdi-logo.png" alt="HDI" height="34" style="margin-bottom:24px;" />
+      <p style="margin:0 0 20px; font-size:15px; color:#444;">Enter access password to continue</p>
+      <input id="gate-input" type="password" placeholder="Password"
+        style="
+          width:100%; box-sizing:border-box; padding:10px 14px; font-size:15px;
+          border:1.5px solid #d0d5dd; border-radius:6px; outline:none; margin-bottom:12px;
+          font-family:inherit;
+        "
+        onkeydown="if(event.key==='Enter') checkGate()"
+      />
+      <button onclick="checkGate()" style="
+        width:100%; padding:10px; font-size:15px; font-weight:600;
+        background:#65A518; color:#fff; border:0; border-radius:6px; cursor:pointer;
+        font-family:inherit;
+      ">Continue</button>
+      <p id="gate-err" style="margin:12px 0 0; font-size:13px; color:#c0392b; display:none;">
+        Incorrect password — please try again.
+      </p>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var PWD = "cata2025";
+      if(sessionStorage.getItem("cata_auth")==="1"){
+        document.getElementById("gate").style.display="none";
+      }
+      window.checkGate = function(){
+        if(document.getElementById("gate-input").value === PWD){
+          sessionStorage.setItem("cata_auth","1");
+          document.getElementById("gate").style.display="none";
+        } else {
+          document.getElementById("gate-err").style.display="block";
+          document.getElementById("gate-input").value="";
+          document.getElementById("gate-input").focus();
+        }
+      };
+    })();
+  </script>
+
+  <div id="root"></div>
+
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+  <script type="text/babel" src="src/refs.jsx"></script>
+  <script type="text/babel" src="src/calc.jsx"></script>
+  <script type="text/babel" src="src/components.jsx"></script>
+  <script type="text/babel" src="src/steps.jsx"></script>
+  <script type="text/babel" src="src/app.jsx"></script>
+</body>
+</html>
