@@ -431,7 +431,7 @@ function App() {
               }
             </div>
           </div>
-          {activeId !== "settings" && activeId !== "exchange-rates" ? (
+          {activeId !== "settings" && activeId !== "exchange-rates" && false ? (
             <footer className="footer">
               <div className="footer__l">
                 {flatIdx + 1} of {FLAT_IDS.length} · <strong>{activeLabel}</strong> · <span className="footer__phase">{flatIdx < 9 ? "Quotation Phase" : flatIdx < 11 ? "Post-Binding Phase" : "Closing Phase"}</span>
@@ -573,7 +573,7 @@ function Sidebar({ nav, activeId, onPick, openGroups, toggleGroup, completeness,
           const done = isPhaseComplete(items);
           return (
             <div key={phase} className={`phase-block ${done ? "phase-block--done" : ""}`}>
-              <div className="phase-block__header">
+              <div className="phase-block__header" style={{ display: "none" }}>
                 <span className="phase-block__label" onClick={() => togglePhase(items)}>{phase.toUpperCase()}</span>
                 <span className="phase-block__line" />
                 {done ? <i className="fa-solid fa-circle-check phase-block__check" /> : <span className="phase-block__check-placeholder" />}
@@ -585,6 +585,7 @@ function Sidebar({ nav, activeId, onPick, openGroups, toggleGroup, completeness,
           );
         })}
       </div>
+      {/* Hidden: System nav section (Settings + Exchange Rates)
       <NavDivider label="System" />
       <ul className="navlist">
         <li>
@@ -608,6 +609,7 @@ function Sidebar({ nav, activeId, onPick, openGroups, toggleGroup, completeness,
           </div>
         </li>
       </ul>
+      */}
     </aside>
   );
 }
